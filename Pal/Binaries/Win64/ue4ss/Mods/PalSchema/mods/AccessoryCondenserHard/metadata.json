@@ -1,0 +1,8 @@
+{
+    "name":"AccessoryCondenser",
+    "authors": [
+        "czubai"
+    ],
+    "description": "Allows crafting higher tier accessories using their lower tier counterparts.",
+    "version": "2.0.0"
+}

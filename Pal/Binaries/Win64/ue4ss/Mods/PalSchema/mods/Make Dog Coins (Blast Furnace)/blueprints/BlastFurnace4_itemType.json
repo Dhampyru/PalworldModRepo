@@ -1,0 +1,11 @@
+{
+    "BP_BuildObject_BlastFurnace4_C": {
+        "ItemConverterParameter": {
+            "TargetTypesB": {
+                "Items":[ 
+                    "MaterialJewelry"
+                ]
+            }
+        }
+    }
+}

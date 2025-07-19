@@ -1,0 +1,11 @@
+{
+	"DT_PassiveSkill_Main": {
+		"Rare": {
+			"EffectValue1": 75,
+			"EffectValue2": 30,
+			"EffectType3": "EPalPassiveSkillEffectType::Defense",
+			"EffectValue3": 5,
+			"TargetType3": "EPalPassiveSkillEffectTargetType::ToSelf"
+		}
+	}
+}

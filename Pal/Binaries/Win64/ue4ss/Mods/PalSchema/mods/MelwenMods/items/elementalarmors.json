@@ -1,0 +1,158 @@
+{
+	"CopperArmorHeat": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"CopperArmorHeat_2": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"CopperArmorHeat_3": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"CopperArmorHeat_4": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"CopperArmorHeat_5": {
+		"PassiveSkill3": "ElementResist_Fire_2"
+	},
+	"CopperArmorCold": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"CopperArmorCold_2": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"CopperArmorCold_3": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"CopperArmorCold_4": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"CopperArmorCold_5": {
+		"PassiveSkill3": "ElementResist_Ice_2"
+	},
+	"IronArmorHeat": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"IronArmorHeat_2": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"IronArmorHeat_3": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"IronArmorHeat_4": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"IronArmorHeat_5": {
+		"PassiveSkill3": "ElementResist_Fire_2"
+	},
+	"IronArmorCold": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"IronArmorCold_2": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"IronArmorCold_3": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"IronArmorCold_4": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"IronArmorCold_5": {
+		"PassiveSkill3": "ElementResist_Ice_2"
+	},
+	"StealArmorHeat": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"StealArmorHeat_2": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"StealArmorHeat_3": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"StealArmorHeat_4": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"StealArmorHeat_5": {
+		"PassiveSkill3": "ElementResist_Fire_2"
+	},
+	"StealArmorCold": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"StealArmorCold_2": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"StealArmorCold_3": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"StealArmorCold_4": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"StealArmorCold_5": {
+		"PassiveSkill3": "ElementResist_Ice_2"
+	},
+	"PlasticArmorHeat": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"PlasticArmorHeat_2": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"PlasticArmorHeat_3": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"PlasticArmorHeat_4": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"PlasticArmorHeat_5": {
+		"PassiveSkill3": "ElementResist_Fire_2"
+	},
+	"PlasticArmorCold": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"PlasticArmorCold_2": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"PlasticArmorCold_3": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"PlasticArmorCold_4": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"PlasticArmorCold_5": {
+		"PassiveSkill3": "ElementResist_Ice_2"
+	},
+	"PlasticArmorWeight_5": {
+		"PassiveSkill3": "MaxInventoryWeight_up_Equip_3"
+	},
+	"SFArmorHeat": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"SFArmorHeat_2": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"SFArmorHeat_3": {
+		"PassiveSkill3": "ElementResist_Fire_1"
+	},
+	"SFArmorHeat_4": {
+		"PassiveSkill3": "ElementResist_Fire_2"
+	},
+	"SFArmorHeat_5": {
+		"PassiveSkill3": "ElementResist_Fire_3"
+	},
+	"SFArmorCold": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"SFArmorCold_2": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"SFArmorCold_3": {
+		"PassiveSkill3": "ElementResist_Ice_1"
+	},
+	"SFArmorCold_4": {
+		"PassiveSkill3": "ElementResist_Ice_2"
+	},
+	"SFArmorCold_5": {
+		"PassiveSkill3": "ElementResist_Ice_3"
+	},
+	"SFArmorWeight_5": {
+		"PassiveSkill3": "MaxInventoryWeight_up_Equip_3"
+	}
+}

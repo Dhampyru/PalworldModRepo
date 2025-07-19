@@ -1,0 +1,11 @@
+{
+    "BP_BuildObject_Factory_Hard_03_C": {
+        "ItemConverterParameter": {
+            "TargetTypesB": {
+                "Items":[ 
+                    "MaterialJewelry"
+                ]
+            }
+        }
+    }
+}

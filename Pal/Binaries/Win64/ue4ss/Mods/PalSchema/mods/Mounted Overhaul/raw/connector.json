@@ -1,0 +1,67 @@
+{
+    "DT_PalBPClass": {
+        "DarkScorpion": {
+            "BPClass": "/Game/MountedAdditions/BP_Menasting.BP_Menasting_C"
+        },
+
+        "BOSS_DarkScorpion": {
+            "BPClass": "/Game/MountedAdditions/BP_Menasting_Alpha.BP_Menasting_Alpha_C"
+        },
+
+        "DarkScorpion_Ground": {
+            "BPClass": "/Game/MountedAdditions/BP_Menasting_Tera.BP_Menasting_Tera_C"
+        },
+
+        "BOSS_DarkScorpion_Ground": {
+            "BPClass": "/Game/MountedAdditions/BP_Menasting_Tera_Alpha.BP_Menasting_Tera_Alpha_C"
+        },
+
+        "CowPal": {
+            "BPClass": "/Game/MountedAdditions/BP_Mozzarina.BP_Mozzarina_C"
+        },
+
+        "BOSS_CowPal": {
+            "BPClass": "/Game/MountedAdditions/BP_Mozzarina_Alpha.BP_Mozzarina_Alpha_C"
+        },
+
+        "SweetsSheep": {
+            "BPClass": "/Game/MountedAdditions/BP_Woolipop.BP_Woolipop_C"
+        },
+
+        "BOSS_SweetsSheep": {
+            "BPClass": "/Game/MountedAdditions/BP_Woolipop_Alpha.BP_Woolipop_Alpha_C"
+        },
+
+        "HerculesBeetle": {
+            "BPClass": "/Game/MountedAdditions/BP_Warsect.BP_Warsect_C"
+        },
+
+        "BOSS_HerculesBeetle": {
+            "BPClass": "/Game/MountedAdditions/BP_Warsect_Alpha.BP_Warsect_Alpha_C"
+        },
+
+        "HerculesBeetle_Ground": {
+            "BPClass": "/Game/MountedAdditions/BP_Warsect_Tera.BP_Warsect_Tera_C"
+        },
+
+        "BOSS_HerculesBeetle_Ground": {
+            "BPClass": "/Game/MountedAdditions/BP_Warsect_Tera_Alpha.BP_Warsect_Tera_Alpha_C"
+        },
+
+        "ThunderDragonMan": {
+            "BPClass": "/Game/MountedAdditions/BP_Orserk.BP_Orserk_C"
+        },
+
+        "ThunderDragonMan_Skin001": {
+            "BPClass": "/Game/MountedAdditions/BP_Orserk_S1.BP_Orserk_S1_C"
+        },
+
+        "BOSS_ThunderDragonMan": {
+            "BPClass": "/Game/MountedAdditions/BP_Orserk_Alpha.BP_Orserk_Alpha_C"
+        },
+
+        "BOSS_ThunderDragonMan_Skin001": {
+            "BPClass": "/Game/MountedAdditions/BP_Orserk_Alpha_S1.BP_Orserk_Alpha_S1_C"
+        }
+    }
+}

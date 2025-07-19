@@ -1,0 +1,776 @@
+[2025-07-19 06:15:36.4278308] Console created
+[2025-07-19 06:15:36.4281787] UE4SS - v3.0.1 Beta #0 - Git SHA #c62ada0
+[2025-07-19 06:15:36.4282150] UE4SS Build Configuration: Game__Shipping__Win64 (MSVC)
+[2025-07-19 06:15:36.4312662] Setting up mods...
+[2025-07-19 06:15:36.4384482] Starting mods (from mods.txt load order)...
+[2025-07-19 06:15:36.4388609] Starting mods (from enabled.txt, no defined load order)...
+[2025-07-19 06:15:36.4413124] Mod 'PalSchema' has enabled.txt, starting mod.
+[2025-07-19 06:15:36.4418301] [PalSchema] PalSchema config loaded.
+[2025-07-19 06:15:37.0299267] [PalSchema] [error] Failed to find signature for UPalPassiveSkillManager::Initialize.
+[2025-07-19 06:15:37.0302940] [PalSchema] Loading mod: 1Chu3UltimateAccessories2
+[2025-07-19 06:15:37.0304736] [PalSchema] Loading mod: AccessoryCondenserHard
+[2025-07-19 06:15:37.0328735] [PalSchema] Loading mod: CoralumBooster
+[2025-07-19 06:15:37.0336438] [PalSchema] Loading mod: Custom Boost Structures
+[2025-07-19 06:15:37.0342673] [PalSchema] Loading mod: Dek
+[2025-07-19 06:15:37.0355278] [PalSchema] Loading mod: Devils3003Mods
+[2025-07-19 06:15:37.0366762] [PalSchema] Loading mod: Fuacks_useful_recipies
+[2025-07-19 06:15:37.0478096] [PalSchema] Loading mod: increaze drop
+[2025-07-19 06:15:37.0695342] [PalSchema] Loading mod: Make Dog Coins (Assembly Line II)
+[2025-07-19 06:15:37.0707634] [PalSchema] Loading mod: Make Dog Coins (Blast Furnace)
+[2025-07-19 06:15:37.0717050] [PalSchema] Loading mod: MelwenMods
+[2025-07-19 06:15:37.0729438] [PalSchema] Loading mod: Mounted Overhaul
+[2025-07-19 06:15:37.0754687] [PalSchema] Loading mod: zzzMelwenMods
+[2025-07-19 06:15:37.0782095] [PalSchema] PalSchema v0.3.2 by Okaetsu loaded.
+[2025-07-19 06:15:37.0788267] No specific game configuration found, using default configuration file
+[2025-07-19 06:15:37.0788509] Config: C:\Program Files (x86)\Steam\steamapps\common\Palworld\Pal\Binaries\Win64\ue4ss\UE4SS-settings.ini
+
+[2025-07-19 06:15:37.0788653] root directory: C:\Program Files (x86)\Steam\steamapps\common\Palworld\Pal\Binaries\Win64\ue4ss
+[2025-07-19 06:15:37.0788764] working directory: C:\Program Files (x86)\Steam\steamapps\common\Palworld\Pal\Binaries\Win64\ue4ss
+[2025-07-19 06:15:37.0788925] game executable directory: C:\Program Files (x86)\Steam\steamapps\common\Palworld\Pal\Binaries\Win64
+[2025-07-19 06:15:37.0790187] game executable: C:\Program Files (x86)\Steam\steamapps\common\Palworld\Pal\Binaries\Win64\Palworld-Win64-Shipping.exe (153048064 bytes)
+
+
+[2025-07-19 06:15:37.0791114] mods directory: C:\Program Files (x86)\Steam\steamapps\common\Palworld\Pal\Binaries\Win64\ue4ss\Mods
+[2025-07-19 06:15:37.0791316] log directory: C:\Program Files (x86)\Steam\steamapps\common\Palworld\Pal\Binaries\Win64\ue4ss
+[2025-07-19 06:15:37.0791432] object dumper directory: C:\Program Files (x86)\Steam\steamapps\common\Palworld\Pal\Binaries\Win64\ue4ss
+
+
+[2025-07-19 06:15:37.0944448] DebugGame Setting Enabled? false
+[2025-07-19 06:15:37.0965245] PS Scan attempt 1
+[2025-07-19 06:15:37.0965736] [PS] Reading image
+[2025-07-19 06:15:37.0967408] [PS] Starting scan
+[2025-07-19 06:15:37.7021245] [PS] Scan finished in 605.3357ms
+[2025-07-19 06:15:37.7021781] [PS] Found EngineVersion: 5.1
+[2025-07-19 06:15:37.7021945] [PS] Found GUObjectArray: 0x7ff7facee7f0
+[2025-07-19 06:15:37.7022081] [PS] Found GMalloc: 0x7ff7fac161a8
+[2025-07-19 06:15:37.7022171] [PS] Found FName::ToString: 0x7ff7f5041330
+[2025-07-19 06:15:37.7022284] [PS] Found FName::FName(wchar_t*): 0x7ff7f50302c0
+[2025-07-19 06:15:37.7022384] [PS] Found StaticConstructObject_Internal: 0x7ff7f51d5ec0
+[2025-07-19 06:15:37.7022508] [PS] Found FText::FText(FString&&): 0x7ff7f4f61a70
+[2025-07-19 06:15:37.7022595] [PS] Found FUObjectHashTables::Get(): 0x7ff7f51dfbd0
+[2025-07-19 06:15:37.7022690] [PS] Found GNatives: 0x7ff7faced2a0
+[2025-07-19 06:15:37.7022845] [PS] Failed to find ConsoleManagerSingleton: found 2 unique values [7FF7F4F2CE60, 7FF7F611C330]
+[2025-07-19 06:15:37.7022975] [PS] You can supply your own AOB in 'UE4SS_Signatures/ConsoleManager.lua'
+[2025-07-19 06:15:37.7023449] PS scan successful
+[2025-07-19 06:15:37.7030912] Need to construct: /Script/CoreUObject.Class
+[2025-07-19 06:15:37.7031159] Need to construct: /Script/CoreUObject
+[2025-07-19 06:15:37.7031345] Need to construct: /Script/CoreUObject.Struct
+[2025-07-19 06:15:37.7031436] Need to construct: /Script/Engine.Pawn
+[2025-07-19 06:15:37.7031513] Need to construct: /Script/Engine.Character
+[2025-07-19 06:15:37.7031597] Need to construct: /Script/Engine.Actor
+[2025-07-19 06:15:37.7031710] Need to construct: /Script/CoreUObject.Vector
+[2025-07-19 06:15:37.7031807] Need to construct: /Script/Engine.Default__DefaultPawn
+[2025-07-19 06:15:37.7031885] Need to construct: /Script/Engine.HitResult
+[2025-07-19 06:15:37.7031960] Need to construct: /Script/Engine.Default__MaterialExpression
+[2025-07-19 06:15:37.7032048] Need to construct: /Script/Engine.ActorComponent
+[2025-07-19 06:15:37.7032122] Need to construct: /Script/CoreUObject.OrientedBox
+[2025-07-19 06:15:37.7032199] Need to construct: /Script/Engine.MovementComponent
+[2025-07-19 06:15:37.7032296] Need to construct: /Script/Engine.HUD
+[2025-07-19 06:15:37.7032367] Need to construct: /Script/Engine.PlayerController
+[2025-07-19 06:15:37.7032572] Need to construct: /Script/Engine.PlayerCameraManager
+[2025-07-19 06:15:37.7032654] Need to construct: /Script/CoreUObject.EInterpCurveMode
+[2025-07-19 06:15:37.7032731] Need to construct: /Script/Engine.ENetRole
+[2025-07-19 06:15:37.7032800] Need to construct: /Script/MovieScene.MovieSceneEditorData
+[2025-07-19 06:15:37.7032884] Need to construct: /Script/UMG.Widget
+[2025-07-19 06:15:37.7032957] Need to construct: /Script/UMG.ComboBoxString
+[2025-07-19 06:15:37.7033048] Need to construct: /Script/CoreUObject.Interface
+[2025-07-19 06:15:37.7033157] Need to construct: /Script/CoreUObject.DynamicClass
+[2025-07-19 06:15:38.2221820] Constructed [1 / 23]: /Script/CoreUObject.Class
+[2025-07-19 06:15:38.2222491] Constructed [2 / 23]: /Script/CoreUObject
+[2025-07-19 06:15:38.2233271] Constructed [3 / 23]: /Script/CoreUObject.Struct
+[2025-07-19 06:15:38.2237070] Constructed [4 / 23]: /Script/Engine.Pawn
+[2025-07-19 06:15:38.2241448] Constructed [5 / 23]: /Script/Engine.Character
+[2025-07-19 06:15:38.2241866] Constructed [6 / 23]: /Script/Engine.Actor
+[2025-07-19 06:15:38.2463881] Constructed [7 / 23]: /Script/Engine.ActorComponent
+[2025-07-19 06:15:38.2523450] Constructed [8 / 23]: /Script/Engine.MovementComponent
+[2025-07-19 06:15:38.2552854] Constructed [9 / 23]: /Script/Engine.HUD
+[2025-07-19 06:15:38.2557464] Constructed [10 / 23]: /Script/Engine.PlayerController
+[2025-07-19 06:15:38.2612763] Constructed [11 / 23]: /Script/Engine.PlayerCameraManager
+[2025-07-19 06:15:38.2777075] Constructed [12 / 23]: /Script/UMG.Widget
+[2025-07-19 06:15:38.2806847] Constructed [13 / 23]: /Script/UMG.ComboBoxString
+[2025-07-19 06:15:38.2807444] Constructed [14 / 23]: /Script/CoreUObject.Interface
+[2025-07-19 06:15:38.2837307] Constructed [15 / 23]: /Script/CoreUObject.DynamicClass
+[2025-07-19 06:15:38.8721149] Constructed [16 / 23]: /Script/CoreUObject.Vector
+[2025-07-19 06:15:38.9235318] Constructed [17 / 23]: /Script/Engine.Default__DefaultPawn
+[2025-07-19 06:15:38.9328007] Constructed [18 / 23]: /Script/Engine.HitResult
+[2025-07-19 06:15:38.9888437] Constructed [19 / 23]: /Script/Engine.Default__MaterialExpression
+[2025-07-19 06:15:38.9951014] Constructed [20 / 23]: /Script/CoreUObject.OrientedBox
+[2025-07-19 06:15:39.0025531] Constructed [21 / 23]: /Script/CoreUObject.EInterpCurveMode
+[2025-07-19 06:15:39.0119820] Constructed [22 / 23]: /Script/Engine.ENetRole
+[2025-07-19 06:15:39.0288796] Constructed [23 / 23]: /Script/MovieScene.MovieSceneEditorData
+[2025-07-19 06:15:39.5090066] ProcessEvent address 0x7ff7f51b43e0
+[2025-07-19 06:15:39.5091504] Constructed 23 of 23 objects
+[2025-07-19 06:15:39.9067369] ProcessInternal address: 0x7ff7f51b4820 <- Built-in
+[2025-07-19 06:15:39.9068511] ProcessLocalScriptFunction address: 0x7ff7f51b48d0 <- Built-in
+[2025-07-19 06:15:39.9068812] UnrealConfig.FExecVTableOffsetInLocalPlayer: 28
+[2025-07-19 06:15:39.9069221] Unreal Engine modules (non-modular):
+[2025-07-19 06:15:39.9069415] MainExe @ 0x7ff7f1fa0000 size=0x9762000
+[2025-07-19 06:15:39.9092310] 
+##### MEMBER OFFSETS START #####
+
+[2025-07-19 06:15:39.9092673] UObjectBase::bUseSoftwareCursorWidgets = 0x250
+[2025-07-19 06:15:39.9092851] UObjectBase::ClassPrivate = 0x10
+[2025-07-19 06:15:39.9092982] UObjectBase::ViewportFrame = 0xF0
+[2025-07-19 06:15:39.9093102] UObjectBase::MouseLockMode = 0x39C
+[2025-07-19 06:15:39.9093250] UObjectBase::bFindCameraComponentWhenViewTarget = 0x5A
+[2025-07-19 06:15:39.9093391] UObjectBase::InternalIndex = 0xC
+[2025-07-19 06:15:39.9093504] UObjectBase::ObjectFlags = 0x8
+[2025-07-19 06:15:39.9093609] UObjectBase::World = 0x78
+[2025-07-19 06:15:39.9093714] UObjectBase::ActiveSplitscreenType = 0x70
+[2025-07-19 06:15:39.9093843] UObjectBase::OnEndCursorOver = 0x1D6
+[2025-07-19 06:15:39.9093955] UObjectBase::CustomTimeDilation = 0x64
+[2025-07-19 06:15:39.9094067] UObjectBase::NamePrivate = 0x18
+[2025-07-19 06:15:39.9094195] UObjectBase::InitialLifeSpan = 0x60
+[2025-07-19 06:15:39.9094428] UObjectBase::AudioDeviceHandle = 0xF8
+[2025-07-19 06:15:39.9094544] UObjectBase::bForceNetAddressable = 0x59
+[2025-07-19 06:15:39.9094664] UObjectBase::InputPriority = 0x154
+[2025-07-19 06:15:39.9094781] UObjectBase::bDisableSplitScreenOverride = 0x398
+[2025-07-19 06:15:39.9094904] UObjectBase::Window = 0x100
+[2025-07-19 06:15:39.9095019] UObjectBase::OuterPrivate = 0x20
+[2025-07-19 06:15:39.9095138] UObjectBase::CurrentBufferVisualizationMode = 0x130
+[2025-07-19 06:15:39.9095403] UObjectBase::bSuppressTransitionMessage = 0x88
+[2025-07-19 06:15:39.9095551] UObjectBase::CurrentLumenVisualizationMode = 0x140
+[2025-07-19 06:15:39.9095683] UObjectBase::CurrentNaniteVisualizationMode = 0x138
+[2025-07-19 06:15:39.9095824] UObjectBase::CurrentVirtualShadowMapVisualizationMode = 0x148
+[2025-07-19 06:15:39.9095960] UObjectBase::DebugProperties = 0x48
+[2025-07-19 06:15:39.9096079] UObjectBase::EngineShowFlags = 0xB8
+[2025-07-19 06:15:39.9096206] UObjectBase::AutoReceiveInput = 0x153
+[2025-07-19 06:15:39.9096359] UObjectBase::GameLayerManagerPtr = 0x120
+[2025-07-19 06:15:39.9096487] UObjectBase::OnClicked = 0x1D7
+[2025-07-19 06:15:39.9096593] UObjectBase::OnActorBeginOverlap = 0x1D3
+[2025-07-19 06:15:39.9096700] UObjectBase::HighResScreenshotDialog = 0x150
+[2025-07-19 06:15:39.9096827] UObjectBase::bHasAudioFocus = 0xFC
+[2025-07-19 06:15:39.9096942] UObjectBase::OnEndPlay = 0x1DF
+[2025-07-19 06:15:39.9097057] UObjectBase::ViewportOverlayWidget = 0x110
+[2025-07-19 06:15:39.9097169] UObjectBase::MaxSplitscreenPlayers = 0x68
+[2025-07-19 06:15:39.9097283] UObjectBase::MouseCaptureMode = 0x39A
+[2025-07-19 06:15:39.9097567] UObjectBase::Layers = 0x1A8
+[2025-07-19 06:15:39.9097699] UObjectBase::SplitscreenInfo = 0x58
+[2025-07-19 06:15:39.9097825] UObjectBase::StatHitchesData = 0x390
+[2025-07-19 06:15:39.9097920] UObjectBase::OnBeginCursorOver = 0x1D5
+[2025-07-19 06:15:39.9098273] UObjectBase::StatUnitData = 0x388
+[2025-07-19 06:15:39.9098420] UObjectBase::ViewModeIndex = 0xB0
+[2025-07-19 06:15:39.9099945] UObjectBase::Viewport = 0xE8
+[2025-07-19 06:15:39.9100150] UObjectBase::ViewportConsole = 0x40
+[2025-07-19 06:15:39.9103405] UObjectBase::bDisableWorldRendering = 0x6C
+[2025-07-19 06:15:39.9103579] UObjectBase::bHideCursorDuringCapture = 0x39B
+[2025-07-19 06:15:39.9103715] UObjectBase::DetachFence = 0x280
+[2025-07-19 06:15:39.9103832] UObjectBase::CreationTime = 0x158
+[2025-07-19 06:15:39.9103940] UObjectBase::bIgnoreInput = 0x399
+[2025-07-19 06:15:39.9104517] UObjectBase::bActorEnableCollision = 0x5C
+[2025-07-19 06:15:39.9104674] UObjectBase::bIsMouseOverClient = 0x39D
+[2025-07-19 06:15:39.9104792] UObjectBase::OnActorEndOverlap = 0x1D4
+[2025-07-19 06:15:39.9104905] UObjectBase::NetDormancy = 0x151
+[2025-07-19 06:15:39.9105010] UObjectBase::NetDriverName = 0x148
+[2025-07-19 06:15:39.9105140] UObjectBase::bIsPlayInEditorViewport = 0x6C
+[2025-07-19 06:15:39.9105255] UObjectBase::bShowTitleSafeZone = 0x6C
+[2025-07-19 06:15:39.9105369] UObjectBase::bHasDeferredComponentRegistration = 0x5C
+[2025-07-19 06:15:39.9105485] UObjectBase::AttachmentReplication = 0x70
+[2025-07-19 06:15:39.9105642] UObjectBase::DefaultUpdateOverlapsMethodDuringLevelStreaming = 0x5F
+[2025-07-19 06:15:39.9105794] UObjectBase::InputComponent = 0x160
+[2025-07-19 06:15:39.9105913] UObjectBase::LastRenderTime = 0x17C
+[2025-07-19 06:15:39.9106042] UObjectBase::MinNetUpdateFrequency = 0x174
+[2025-07-19 06:15:39.9106148] UObjectBase::NetCullDistanceSquared = 0x168
+[2025-07-19 06:15:39.9106258] UObjectBase::NetTag = 0x16C
+[2025-07-19 06:15:39.9106562] UObjectBase::NetPriority = 0x178
+[2025-07-19 06:15:39.9106686] UObjectBase::NetUpdateFrequency = 0x170
+[2025-07-19 06:15:39.9106844] UObjectBase::OnActorHit = 0x1DD
+[2025-07-19 06:15:39.9107538] UObjectBase::OnDestroyed = 0x1DE
+[2025-07-19 06:15:39.9107879] UObjectBase::OnInputTouchBegin = 0x1D9
+[2025-07-19 06:15:39.9108108] UObjectBase::OnInputTouchEnd = 0x1DA
+[2025-07-19 06:15:39.9108258] UObjectBase::OnInputTouchEnter = 0x1DB
+[2025-07-19 06:15:39.9108413] UObjectBase::OnInputTouchLeave = 0x1DC
+[2025-07-19 06:15:39.9108612] UObjectBase::OnReleased = 0x1D8
+[2025-07-19 06:15:39.9108791] UObjectBase::OnTakeAnyDamage = 0x1D0
+[2025-07-19 06:15:39.9109524] UObjectBase::OnTakePointDamage = 0x1D1
+[2025-07-19 06:15:39.9109820] UObjectBase::OnTakeRadialDamage = 0x1D2
+[2025-07-19 06:15:39.9110025] UObjectBase::ParentComponent = 0x1B8
+[2025-07-19 06:15:39.9110147] UObjectBase::PrimaryActorTick = 0x28
+[2025-07-19 06:15:39.9110270] UObjectBase::RayTracingGroupId = 0x6C
+[2025-07-19 06:15:39.9110396] UObjectBase::RemoteRole = 0x68
+[2025-07-19 06:15:39.9110516] UObjectBase::ReplicatedComponentsInfo = 0x1F0
+[2025-07-19 06:15:39.9110637] UObjectBase::ReplicatedMovement = 0xD0
+[2025-07-19 06:15:39.9110772] UObjectBase::ReplicatedSubObjects = 0x1E0
+[2025-07-19 06:15:39.9110904] UObjectBase::Role = 0x150
+[2025-07-19 06:15:39.9111713] UObjectBase::RootComponent = 0x198
+[2025-07-19 06:15:39.9111955] UObjectBase::SpawnCollisionHandlingMethod = 0x152
+[2025-07-19 06:15:39.9112252] UObjectBase::Tags = 0x1C0
+[2025-07-19 06:15:39.9112367] UObjectBase::TimerHandle_LifeSpanExpired = 0x1A0
+[2025-07-19 06:15:39.9112716] UObjectBase::UpdateOverlapsMethodDuringLevelStreaming = 0x5E
+[2025-07-19 06:15:39.9113001] UObjectBase::bActorBeginningPlayFromLevelStreaming = 0x5C
+[2025-07-19 06:15:39.9113186] UObjectBase::bActorInitialized = 0x5C
+[2025-07-19 06:15:39.9113489] UObjectBase::bNetStartup = 0x58
+[2025-07-19 06:15:39.9114012] UObjectBase::bActorIsBeingConstructed = 0x5D
+[2025-07-19 06:15:39.9114595] UObjectBase::bActorIsBeingDestroyed = 0x5D
+[2025-07-19 06:15:39.9114795] UObjectBase::bActorSeamlessTraveled = 0x5B
+[2025-07-19 06:15:39.9114926] UObjectBase::bActorWantsDestroyDuringBeginPlay = 0x5D
+[2025-07-19 06:15:39.9115077] UObjectBase::bAllowReceiveTickEventOnDedicatedServer = 0x5B
+[2025-07-19 06:15:39.9115655] UObjectBase::bAllowTickBeforeBeginPlay = 0x5A
+[2025-07-19 06:15:39.9115944] UObjectBase::bAlwaysRelevant = 0x58
+[2025-07-19 06:15:39.9116315] UObjectBase::bAsyncPhysicsTickEnabled = 0x5D
+[2025-07-19 06:15:39.9116984] UObjectBase::bAutoDestroyWhenFinished = 0x5A
+[2025-07-19 06:15:39.9119355] UObjectBase::bBlockInput = 0x5A
+[2025-07-19 06:15:39.9119515] UObjectBase::bCallPreReplication = 0x58
+[2025-07-19 06:15:39.9119629] UObjectBase::bCallPreReplicationForReplay = 0x58
+[2025-07-19 06:15:39.9119743] UObjectBase::bCanBeDamaged = 0x5A
+[2025-07-19 06:15:39.9119856] UObjectBase::bCanBeInCluster = 0x5B
+[2025-07-19 06:15:39.9120535] UObjectBase::bCollideWhenPlacing = 0x5A
+[2025-07-19 06:15:39.9125289] UObjectBase::bHasRegisteredAllComponents = 0x5C
+[2025-07-19 06:15:39.9125587] UObjectBase::bEnableAutoLODGeneration = 0x5B
+[2025-07-19 06:15:39.9127188] UObjectBase::bExchangedRoles = 0x59
+[2025-07-19 06:15:39.9127390] UObjectBase::bGenerateOverlapEventsDuringLevelStreaming = 0x5A
+[2025-07-19 06:15:39.9127522] UObjectBase::bHasFinishedSpawning = 0x5C
+[2025-07-19 06:15:39.9127629] UObjectBase::bHidden = 0x58
+[2025-07-19 06:15:39.9127733] UObjectBase::bIgnoresOriginShifting = 0x5A
+[2025-07-19 06:15:39.9127845] UObjectBase::bIsEditorOnlyActor = 0x5B
+[2025-07-19 06:15:39.9128720] UObjectBase::bNetCheckedInitialPhysicsState = 0x5B
+[2025-07-19 06:15:39.9128869] UObjectBase::bNetLoadOnClient = 0x59
+[2025-07-19 06:15:39.9128981] UObjectBase::ActorHasBegunPlay = 0x5D
+[2025-07-19 06:15:39.9129227] UObjectBase::bNetTemporary = 0x58
+[2025-07-19 06:15:39.9129338] UObjectBase::bNetUseOwnerRelevancy = 0x59
+[2025-07-19 06:15:39.9129879] UObjectBase::bOnlyRelevantToOwner = 0x58
+[2025-07-19 06:15:39.9130491] UObjectBase::bRelevantForLevelBounds = 0x59
+[2025-07-19 06:15:39.9130920] UObjectBase::bRelevantForNetworkReplays = 0x59
+[2025-07-19 06:15:39.9131221] UObjectBase::bReplayRewindable = 0x59
+[2025-07-19 06:15:39.9131524] UObjectBase::bReplicateMovement = 0x58
+[2025-07-19 06:15:39.9131711] UObjectBase::bReplicateUsingRegisteredSubObjectList = 0x5B
+[2025-07-19 06:15:39.9131850] UObjectBase::bReplicates = 0x5B
+[2025-07-19 06:15:39.9131959] UObjectBase::bRunningUserConstructionScript = 0x5C
+[2025-07-19 06:15:39.9132216] UObjectBase::bTearOff = 0x59
+[2025-07-19 06:15:39.9132407] UObjectBase::bTickFunctionsRegistered = 0x5C
+[2025-07-19 06:15:39.9132536] UObjectBase::Children = 0x188
+[2025-07-19 06:15:39.9132646] UObjectBase::Owner = 0x140
+[2025-07-19 06:15:39.9132762] UObjectBase::CursorWidgets = 0x200
+[2025-07-19 06:15:39.9132888] UObjectBase::HardwareCursorCache = 0x160
+[2025-07-19 06:15:39.9133037] UObjectBase::HardwareCursors = 0x1B0
+[2025-07-19 06:15:39.9133294] UScriptStruct::StructFlags = 0xB0
+[2025-07-19 06:15:39.9133445] UScriptStruct::CppStructOps = 0xB8
+[2025-07-19 06:15:39.9133690] UScriptStruct::bPrepareCppStructOpsCompleted = 0xB4
+[2025-07-19 06:15:39.9133845] UScriptStruct::ICppStructOps::Alignment = 0xC
+[2025-07-19 06:15:39.9133974] UScriptStruct::ICppStructOps::Size = 0x8
+[2025-07-19 06:15:39.9134092] FField::ClassPrivate = 0x8
+[2025-07-19 06:15:39.9134197] FField::NamePrivate = 0x28
+[2025-07-19 06:15:39.9134309] FField::FlagsPrivate = 0x30
+[2025-07-19 06:15:39.9134417] FField::Next = 0x20
+[2025-07-19 06:15:39.9134518] FField::Owner = 0x10
+[2025-07-19 06:15:39.9134629] FOutputDevice::bAutoEmitLineTerminator = 0x9
+[2025-07-19 06:15:39.9134867] FOutputDevice::bSuppressEventTag = 0x8
+[2025-07-19 06:15:39.9135254] FEnumProperty::Enum = 0x80
+[2025-07-19 06:15:39.9135486] FEnumProperty::UnderlyingProp = 0x78
+[2025-07-19 06:15:39.9135626] UStruct::DestructorLink = 0x80
+[2025-07-19 06:15:39.9135738] UStruct::Children = 0x48
+[2025-07-19 06:15:39.9135849] UStruct::ChildProperties = 0x50
+[2025-07-19 06:15:39.9136041] UStruct::PostConstructLink = 0x88
+[2025-07-19 06:15:39.9136174] UStruct::UnresolvedScriptProperties = 0xA0
+[2025-07-19 06:15:39.9136290] UStruct::MinAlignment = 0x5C
+[2025-07-19 06:15:39.9136398] UStruct::PropertiesSize = 0x58
+[2025-07-19 06:15:39.9136509] UStruct::PropertyLink = 0x70
+[2025-07-19 06:15:39.9136698] UStruct::RefLink = 0x78
+[2025-07-19 06:15:39.9136801] UStruct::Script = 0x60
+[2025-07-19 06:15:39.9137055] UStruct::ScriptAndPropertyObjectReferences = 0x90
+[2025-07-19 06:15:39.9137273] UStruct::SuperStruct = 0x40
+[2025-07-19 06:15:39.9137514] UFunction::EventGraphCallOffset = 0xD0
+[2025-07-19 06:15:39.9137648] UFunction::EventGraphFunction = 0xC8
+[2025-07-19 06:15:39.9138834] UFunction::RPCId = 0xBA
+[2025-07-19 06:15:39.9139043] UFunction::FirstPropertyToInit = 0xC0
+[2025-07-19 06:15:39.9139172] UFunction::Func = 0xD8
+[2025-07-19 06:15:39.9139288] UFunction::FunctionFlags = 0xB0
+[2025-07-19 06:15:39.9139410] UFunction::NumParms = 0xB4
+[2025-07-19 06:15:39.9139526] UFunction::ParmsSize = 0xB6
+[2025-07-19 06:15:39.9139642] UFunction::RPCResponseId = 0xBC
+[2025-07-19 06:15:39.9139865] UFunction::ReturnValueOffset = 0xB8
+[2025-07-19 06:15:39.9140013] UField::Next = 0x28
+[2025-07-19 06:15:39.9140118] FProperty::ArrayDim = 0x38
+[2025-07-19 06:15:39.9140380] FProperty::DestructorLinkNext = 0x68
+[2025-07-19 06:15:39.9140578] FProperty::ElementSize = 0x3C
+[2025-07-19 06:15:39.9140696] FProperty::NextRef = 0x60
+[2025-07-19 06:15:39.9140799] FProperty::Offset_Internal = 0x4C
+[2025-07-19 06:15:39.9141005] FProperty::PostConstructLinkNext = 0x70
+[2025-07-19 06:15:39.9141266] FProperty::PropertyLinkNext = 0x58
+[2025-07-19 06:15:39.9141454] FProperty::PropertyFlags = 0x40
+[2025-07-19 06:15:39.9141603] FProperty::RepIndex = 0x48
+[2025-07-19 06:15:39.9142071] FProperty::RepNotifyFunc = 0x50
+[2025-07-19 06:15:39.9142347] UWorld::BlockTillLevelStreamingCompletedEpoch = 0x144
+[2025-07-19 06:15:39.9142497] UWorld::bAllowAudioPlayback = 0x13E
+[2025-07-19 06:15:39.9142619] UWorld::ActiveLevelCollectionIndex = 0x190
+[2025-07-19 06:15:39.9142736] UWorld::AudioTimeSeconds = 0x678
+[2025-07-19 06:15:39.9142849] UWorld::CommittedPersistentLevelName = 0x700
+[2025-07-19 06:15:39.9143138] UWorld::bInTick = 0x13B
+[2025-07-19 06:15:39.9143379] UWorld::LWILastAssignedUID = 0x258
+[2025-07-19 06:15:39.9143518] UWorld::CleanupWorldTag = 0x70C
+[2025-07-19 06:15:39.9143819] UWorld::BuildStreamingDataTimer = 0x448
+[2025-07-19 06:15:39.9143955] UWorld::AuthorityGameMode = 0x150
+[2025-07-19 06:15:39.9144163] UWorld::bTickNewlySpawned = 0x13B
+[2025-07-19 06:15:39.9144292] UWorld::DeltaRealTimeSeconds = 0x680
+[2025-07-19 06:15:39.9144416] UWorld::bPlayersOnly = 0x13D
+[2025-07-19 06:15:39.9144621] UWorld::DeltaTimeSeconds = 0x684
+[2025-07-19 06:15:39.9145145] UWorld::ExtraReferencedObjects = 0x68
+[2025-07-19 06:15:39.9145403] UWorld::PreparingLevelNames = 0x6F0
+[2025-07-19 06:15:39.9145621] UWorld::IsInBlockTillLevelStreamingCompleted = 0x140
+[2025-07-19 06:15:39.9146178] UWorld::bIsRunningConstructionScript = 0x13C
+[2025-07-19 06:15:39.9146345] UWorld::bAllowDeferredPhysicsStateCreation = 0x108
+[2025-07-19 06:15:39.9146474] UWorld::LastRenderTime = 0x130
+[2025-07-19 06:15:39.9146753] UWorld::LastTimeUnbuiltLightingWasEncountered = 0x658
+[2025-07-19 06:15:39.9146893] UWorld::bHasEverBeenInitialized = 0x13F
+[2025-07-19 06:15:39.9147006] UWorld::NextSwitchCountdown = 0x6C0
+[2025-07-19 06:15:39.9147122] UWorld::bMaterialParameterCollectionInstanceNeedsDeferredUpdate = 0x13F
+[2025-07-19 06:15:39.9147446] UWorld::RealTimeSeconds = 0x670
+[2025-07-19 06:15:39.9147759] UWorld::NextURL = 0x6E0
+[2025-07-19 06:15:39.9147881] UWorld::NumStreamingLevelsBeingLoaded = 0x6DA
+[2025-07-19 06:15:39.9148015] UWorld::PauseDelay = 0x688
+[2025-07-19 06:15:39.9148126] UWorld::PerModuleDataObjects = 0x78
+[2025-07-19 06:15:39.9148543] UWorld::bIsDefaultLevel = 0x13C
+[2025-07-19 06:15:39.9148786] UWorld::PlayerNum = 0x618
+[2025-07-19 06:15:39.9148946] UWorld::bAggressiveLOD = 0x13C
+[2025-07-19 06:15:39.9149422] UWorld::StreamingLevelsPrefix = 0xC8
+[2025-07-19 06:15:39.9149642] UWorld::bTriggerPostLoadMap = 0x13B
+[2025-07-19 06:15:39.9149789] UWorld::bIsLevelStreamingFrozen = 0x13B
+[2025-07-19 06:15:39.9149913] UWorld::StreamingVolumeUpdateDelay = 0x61C
+[2025-07-19 06:15:39.9150334] UWorld::bIsBuilt = 0x13B
+[2025-07-19 06:15:39.9150517] UWorld::TimeSeconds = 0x660
+[2025-07-19 06:15:39.9150627] UWorld::UnpausedTimeSeconds = 0x668
+[2025-07-19 06:15:39.9150757] UWorld::bActorsInitialized = 0x13C
+[2025-07-19 06:15:39.9150872] UWorld::bIsTearingDown = 0x13D
+[2025-07-19 06:15:39.9151065] UWorld::bAreConstraintsDirty = 0x13E
+[2025-07-19 06:15:39.9151188] UWorld::bBegunPlay = 0x13D
+[2025-07-19 06:15:39.9151319] UWorld::bDebugPauseExecution = 0x13D
+[2025-07-19 06:15:39.9151440] UWorld::bDoDelayedUpdateCullDistanceVolumes = 0x13C
+[2025-07-19 06:15:39.9151570] UWorld::bRequestedBlockOnAsyncLoading = 0x13C
+[2025-07-19 06:15:39.9151684] UWorld::bDropDetail = 0x13C
+[2025-07-19 06:15:39.9151841] UWorld::bMatchStarted = 0x13D
+[2025-07-19 06:15:39.9151955] UWorld::bIsCameraMoveableWhenPaused = 0x13E
+[2025-07-19 06:15:39.9152067] UWorld::bShouldSimulatePhysics = 0x13C
+[2025-07-19 06:15:39.9152180] UWorld::bIsWorldInitialized = 0x13B
+[2025-07-19 06:15:39.9152304] UWorld::bKismetScriptError = 0x13D
+[2025-07-19 06:15:39.9152427] UWorld::bMarkedObjectsPendingKill = 0x708
+[2025-07-19 06:15:39.9152550] UWorld::bWorldWasLoadedThisTick = 0x13B
+[2025-07-19 06:15:39.9152668] UWorld::bPlayersOnlyPending = 0x13D
+[2025-07-19 06:15:39.9152783] UWorld::bPostTickComponentUpdate = 0x13B
+[2025-07-19 06:15:39.9152916] UWorld::bRequiresHitProxies = 0x13E
+[2025-07-19 06:15:39.9153029] UWorld::bShouldForceUnloadStreamingLevels = 0x13E
+[2025-07-19 06:15:39.9153223] UWorld::bShouldForceVisibleStreamingLevels = 0x13E
+[2025-07-19 06:15:39.9153685] UWorld::bShouldTick = 0x13E
+[2025-07-19 06:15:39.9153821] UWorld::bStartup = 0x13D
+[2025-07-19 06:15:39.9153932] UWorld::bStreamingDataDirty = 0x13E
+[2025-07-19 06:15:39.9154059] UClass::bLayoutChanging = 0xD1
+[2025-07-19 06:15:39.9154182] UClass::ClassWithin = 0xE0
+[2025-07-19 06:15:39.9154294] UClass::bCooked = 0xD0
+[2025-07-19 06:15:39.9154416] UClass::ClassConfigName = 0xE8
+[2025-07-19 06:15:39.9154537] UClass::ClassConstructor = 0xB0
+[2025-07-19 06:15:39.9154848] UClass::ClassDefaultObject = 0x110
+[2025-07-19 06:15:39.9154992] UClass::ClassFlags = 0xD4
+[2025-07-19 06:15:39.9155136] UClass::ClassUnique = 0xC8
+[2025-07-19 06:15:39.9155265] UClass::ClassVTableHelperCtorCaller = 0xB8
+[2025-07-19 06:15:39.9155401] UClass::FirstOwnedClassRep = 0xCC
+[2025-07-19 06:15:39.9155522] UClass::Interfaces = 0x1D0
+[2025-07-19 06:15:39.9155654] UClass::NetFields = 0x100
+[2025-07-19 06:15:39.9155759] UClass::SparseClassData = 0x118
+[2025-07-19 06:15:39.9155870] UClass::SparseClassDataStruct = 0x120
+[2025-07-19 06:15:39.9155983] UClass::FuncMap = 0x128
+[2025-07-19 06:15:39.9156095] UClass::SuperFuncMap = 0x178
+[2025-07-19 06:15:39.9156198] UEnum::CppForm = 0x58
+[2025-07-19 06:15:39.9156296] UEnum::CppType = 0x30
+[2025-07-19 06:15:39.9156411] UEnum::EnumDisplayNameFn = 0x60
+[2025-07-19 06:15:39.9156535] UEnum::Names = 0x48
+[2025-07-19 06:15:39.9156641] UEnum::EnumFlags_Internal = 0x5C
+[2025-07-19 06:15:39.9156751] UEnum::EnumPackage = 0x68
+[2025-07-19 06:15:39.9156867] FObjectPropertyBase::PropertyClass = 0x78
+[2025-07-19 06:15:39.9156989] FDelegateProperty::SignatureFunction = 0x78
+[2025-07-19 06:15:39.9157109] FMulticastDelegateProperty::SignatureFunction = 0x78
+[2025-07-19 06:15:39.9157232] FSetProperty::ElementProp = 0x78
+[2025-07-19 06:15:39.9157357] FStructProperty::Struct = 0x78
+[2025-07-19 06:15:39.9157471] FArrayProperty::ArrayFlags = 0x80
+[2025-07-19 06:15:39.9157578] FArrayProperty::Inner = 0x78
+[2025-07-19 06:15:39.9157681] FMapProperty::KeyProp = 0x78
+[2025-07-19 06:15:39.9157786] FMapProperty::ValueProp = 0x80
+[2025-07-19 06:15:39.9157918] FMapProperty::MapFlags = 0xA0
+[2025-07-19 06:15:39.9158043] FBoolProperty::FieldMask = 0x7B
+[2025-07-19 06:15:39.9158172] FBoolProperty::ByteMask = 0x7A
+[2025-07-19 06:15:39.9158796] FBoolProperty::FieldSize = 0x78
+[2025-07-19 06:15:39.9158972] FBoolProperty::ByteOffset = 0x79
+[2025-07-19 06:15:39.9159404] FByteProperty::Enum = 0x78
+[2025-07-19 06:15:39.9160507] FClassProperty::MetaClass = 0x80
+[2025-07-19 06:15:39.9160817] FSoftClassProperty::MetaClass = 0x80
+[2025-07-19 06:15:39.9161211] FInterfaceProperty::InterfaceClass = 0x78
+[2025-07-19 06:15:39.9161357] FFieldPathProperty::PropertyClass = 0x78
+[2025-07-19 06:15:39.9161487] 
+##### MEMBER OFFSETS END #####
+
+[2025-07-19 06:15:39.9161624] m_shared_functions: 0x29acb0290e8
+[2025-07-19 06:15:40.0095821] Enabling custom events
+[2025-07-19 06:15:40.0128424] Starting mods (from mods.txt load order)...
+[2025-07-19 06:15:40.0133133] Starting Lua mod 'CheatManagerEnablerMod'
+[2025-07-19 06:15:40.0163291] [RegisterHook] Registered native hook (1, 2) for Function /Script/Engine.PlayerController:ClientRestart
+[2025-07-19 06:15:40.0163967] Mod 'ActorDumperMod' disabled in mods.txt.
+[2025-07-19 06:15:40.0164215] Starting Lua mod 'ConsoleCommandsMod'
+[2025-07-19 06:15:40.0237394] Starting Lua mod 'ConsoleEnablerMod'
+[2025-07-19 06:15:40.0422486] [Lua] ConsoleClass, GameViewport, or ViewportConsole is invalid
+[2025-07-19 06:15:40.0425681] Mod 'SplitScreenMod' disabled in mods.txt.
+[2025-07-19 06:15:40.0426159] Mod 'LineTraceMod' disabled in mods.txt.
+[2025-07-19 06:15:40.0426418] Starting Lua mod 'BPML_GenericFunctions'
+[2025-07-19 06:15:40.0440551] Starting Lua mod 'BPModLoaderMod'
+[2025-07-19 06:15:40.0751521] [Lua] [BPModLoaderMod] Mods/BPModLoaderMod/load_order.txt not present or no matching mods, loading all BP mods in random order.[2025-07-19 06:15:40.0752642] [Lua] [BPModLoaderMod] RotateIt == table: 0000029AEFDF2880
+[2025-07-19 06:15:40.0752952] [Lua] [BPModLoaderMod]     AssetNameAsFName == FNameUserdata: 0000029AEFDDB638
+[2025-07-19 06:15:40.0753177] [Lua] [BPModLoaderMod]     Name == RotateIt
+[2025-07-19 06:15:40.0753329] [Lua] [BPModLoaderMod]     AssetPath == /Game/Mods/RotateIt/ModActor
+[2025-07-19 06:15:40.0753491] [Lua] [BPModLoaderMod]     AssetName == ModActor_C
+[2025-07-19 06:15:40.0753658] [Lua] [BPModLoaderMod] PalAnalyzer == table: 0000029AEFDF1D40
+[2025-07-19 06:15:40.0753830] [Lua] [BPModLoaderMod]     AssetNameAsFName == FNameUserdata: 0000029AEFDDB638
+[2025-07-19 06:15:40.0753995] [Lua] [BPModLoaderMod]     Name == PalAnalyzer
+[2025-07-19 06:15:40.0754134] [Lua] [BPModLoaderMod]     AssetPath == /Game/Mods/PalAnalyzer/ModActor
+[2025-07-19 06:15:40.0754291] [Lua] [BPModLoaderMod]     AssetName == ModActor_C
+[2025-07-19 06:15:40.0793150] Mod 'jsbLuaProfilerMod' disabled in mods.txt.
+[2025-07-19 06:15:40.0793875] Starting Lua mod 'Keybinds'
+[2025-07-19 06:15:40.0805557] Starting mods (from enabled.txt, no defined load order)...
+[2025-07-19 06:15:40.0811512] Mod 'AlternativePalSummon' has enabled.txt, starting mod.
+[2025-07-19 06:15:40.0833890] Mod 'BetterRidingGroundMounts' has enabled.txt, starting mod.
+[2025-07-19 06:15:40.0853946] [Lua] [31mBetter Riding Ground Mounts version 1.10 loaded for game version 0.1.4.0[0m
+[2025-07-19 06:15:40.0864129] [RegisterHook] Registered native hook (3, 4) for Function /Script/Engine.PlayerController:ClientRestart
+[2025-07-19 06:15:40.0875161] [RegisterHook] Registered native hook (5, 6) for Function /Script/Engine.PlayerController:ServerAcknowledgePossession
+[2025-07-19 06:15:40.0878418] Mod 'BetterShieldFastButLowRegen' has enabled.txt, starting mod.
+[2025-07-19 06:15:40.0904470] [Lua] [31mBetter Shields version 1.10 loaded for game version 0.1.4.0[0m
+[2025-07-19 06:15:40.0914507] [RegisterHook] Registered native hook (7, 8) for Function /Script/Engine.PlayerController:ClientRestart
+[2025-07-19 06:15:40.0922598] Mod 'FasterTrustGrowthx10' has enabled.txt, starting mod.
+[2025-07-19 06:15:40.0943229] [Lua] [31mFasterTrustGrowth version 1.0 loaded for game version 0.6.0.75[0m
+[2025-07-19 06:15:40.0955731] [RegisterHook] Registered native hook (9, 10) for Function /Script/Engine.PlayerController:ClientRestart
+[2025-07-19 06:15:40.0963574] [RegisterHook] Registered native hook (11, 12) for Function /Script/Engine.PlayerController:ServerAcknowledgePossession
+[2025-07-19 06:15:40.0967993] Mod 'LessRestrictiveBuilding' has enabled.txt, starting mod.
+[2025-07-19 06:15:40.0991920] [Lua] [31mLess Restrictive Building version 1.20 loaded for game version 0.4.11.0[0m
+[2025-07-19 06:15:40.0998454] [RegisterHook] Registered native hook (13, 14) for Function /Script/Engine.PlayerController:ClientRestart
+[2025-07-19 06:15:40.1007663] [RegisterHook] Registered native hook (15, 16) for Function /Script/Engine.PlayerController:ServerAcknowledgePossession
+[2025-07-19 06:15:40.1065315] [RegisterHook] Registered native hook (17, 18) for Function /Script/Engine.PlayerController:ClientRestart
+[2025-07-19 06:15:40.1073173] [RegisterHook] Registered native hook (19, 20) for Function /Script/Engine.PlayerController:ServerAcknowledgePossession
+[2025-07-19 06:15:40.1079506] Mod 'LoginRewards' has enabled.txt, starting mod.
+[2025-07-19 06:15:40.1145255] [RegisterHook] Registered native hook (21, 22) for Function /Script/Pal.PalPlayerCharacter:OnCompleteInitializeParameter
+[2025-07-19 06:15:40.1158757] Mod 'TehExtraBaseArea' has enabled.txt, starting mod.
+[2025-07-19 06:15:40.1184155] [Lua] [TEBA] Edit Game Settings is Enabled[2025-07-19 06:15:40.1188426] Mod 'TehExtraBaseArea-Client' has enabled.txt, starting mod.
+[2025-07-19 06:15:40.1198791] Event loop start
+[2025-07-19 06:15:41.2989606] [PalSchema] DT_PassiveSkill_Main: 1 rows updated, 0 rows added, 0 rows deleted, 0 errors.
+[2025-07-19 06:15:41.4737224] [Lua] [BPModLoaderMod] Loading mod: RotateIt
+[2025-07-19 06:15:41.6207807] [Lua] [BPModLoaderMod] Actor: ModActor_C /Temp/Untitled_0.Untitled:PersistentLevel.ModActor_C_2147482468
+[2025-07-19 06:15:41.6210114] [Lua] [BPModLoaderMod] Loading mod: PalAnalyzer
+[2025-07-19 06:15:41.6333052] [Lua] [BPModLoaderMod] Actor: ModActor_C /Temp/Untitled_0.Untitled:PersistentLevel.ModActor_C_2147482467
+[2025-07-19 06:15:41.6424352] Asset loaded
+[2025-07-19 06:15:41.6542068] [RegisterHook] Registered script hook (23, 23) for Function /Game/Pal/Blueprint/Component/OtomoHolder/BP_OtomoPalHolderComponent.BP_OtomoPalHolderComponent_C:ActivateCurrentOtomo
+[2025-07-19 06:15:41.6689376] [Lua] [TEBA] Found PalGameSetting: BP_PalGameSetting_C /Engine/Transient.PalGameEngine_2147482597:BP_PalGameInstance_C_2147482517.BP_PalGameSetting_C_2147482378 | Editing Game Settings[2025-07-19 06:15:44.0263649] [PalSchema] DT_ItemShopCreateData: 2 rows updated, 0 rows added, 0 rows deleted, 0 errors.
+[2025-07-19 06:15:44.0264837] [PalSchema] DT_MapObjectMasterDataTable: 1 rows updated, 0 rows added, 0 rows deleted, 0 errors.
+[2025-07-19 06:15:44.0669683] [PalSchema] DT_PalDropItem: 611 rows updated, 0 rows added, 0 rows deleted, 0 errors.
+[2025-07-19 06:15:44.0712762] [PalSchema] DT_PalBPClass: 14 rows updated, 2 rows added, 0 rows deleted, 0 errors.
+[2025-07-19 06:15:44.0718412] [PalSchema] DT_OperatingTablePassiveSkillDataTable: 37 rows updated, 26 rows added, 0 rows deleted, 0 errors.
+[2025-07-19 06:15:44.0745272] [PalSchema] DT_ItemLotteryDataTable: 337 rows updated, 0 rows added, 0 rows deleted, 0 errors.
+[2025-07-19 06:15:44.0749620] [PalSchema] DT_CharacterTeamMissionDataTable: 14 rows updated, 0 rows added, 0 rows deleted, 0 errors.
+[2025-07-19 06:15:44.0750989] [PalSchema] DT_TechnologyRecipeUnlock: 1 rows updated, 1 rows added, 0 rows deleted, 0 errors.
+[2025-07-19 06:15:44.0751772] [PalSchema] DT_BuildObjectDataTable: 0 rows updated, 1 rows added, 0 rows deleted, 0 errors.
+[2025-07-19 06:15:44.0982631] [PalSchema] DT_ItemRecipeDataTable: 2 rows updated, 641 rows added, 0 rows deleted, 0 errors.
+[2025-07-19 06:15:44.1044595] [PalSchema] Language override not set, using current language.
+[2025-07-19 06:15:44.2838700] [PalSchema] Loading mod: 1Chu3UltimateAccessories2
+[2025-07-19 06:15:44.2850388] [PalSchema] Added new Recipe for Item '1Chu3Gloves'.
+[2025-07-19 06:15:44.2851147] [PalSchema] Added Item '1Chu3Gloves'
+[2025-07-19 06:15:44.2851980] [PalSchema] Added new Recipe for Item '1Chu3Gloves2'.
+[2025-07-19 06:15:44.2852224] [PalSchema] Added Item '1Chu3Gloves2'
+[2025-07-19 06:15:44.2853176] [PalSchema] Added new Recipe for Item '1Chu3Mask'.
+[2025-07-19 06:15:44.2853513] [PalSchema] Added Item '1Chu3Mask'
+[2025-07-19 06:15:44.2854428] [PalSchema] Added new Recipe for Item '1Chu3Necklace'.
+[2025-07-19 06:15:44.2854667] [PalSchema] Added Item '1Chu3Necklace'
+[2025-07-19 06:15:44.2855348] [PalSchema] Added new Recipe for Item '1Chu3Pendant1'.
+[2025-07-19 06:15:44.2855536] [PalSchema] Added Item '1Chu3Pendant1'
+[2025-07-19 06:15:44.2856220] [PalSchema] Added new Recipe for Item '1chu3Goggles'.
+[2025-07-19 06:15:44.2857035] [PalSchema] Added Item '1chu3Goggles'
+[2025-07-19 06:15:44.2861787] [PalSchema] Loading mod: AccessoryCondenserHard
+[2025-07-19 06:15:44.2873141] [PalSchema] Added Item 'AccessoryParts_AT_1'
+[2025-07-19 06:15:44.2873737] [PalSchema] Added Item 'AccessoryParts_AT_2'
+[2025-07-19 06:15:44.2874171] [PalSchema] Added Item 'AccessoryParts_CoolResist_1'
+[2025-07-19 06:15:44.2874604] [PalSchema] Added Item 'AccessoryParts_CoolResist_2'
+[2025-07-19 06:15:44.2875037] [PalSchema] Added Item 'AccessoryParts_CoolResist_3'
+[2025-07-19 06:15:44.2875526] [PalSchema] Added Item 'AccessoryParts_HP_1'
+[2025-07-19 06:15:44.2876195] [PalSchema] Added Item 'AccessoryParts_HP_2'
+[2025-07-19 06:15:44.2876927] [PalSchema] Added Item 'AccessoryParts_HeatColdResist_1'
+[2025-07-19 06:15:44.2877405] [PalSchema] Added Item 'AccessoryParts_HeatColdResist_2'
+[2025-07-19 06:15:44.2877846] [PalSchema] Added Item 'AccessoryParts_HeatResist_1'
+[2025-07-19 06:15:44.2878255] [PalSchema] Added Item 'AccessoryParts_HeatResist_2'
+[2025-07-19 06:15:44.2878654] [PalSchema] Added Item 'AccessoryParts_HeatResist_3'
+[2025-07-19 06:15:44.2879174] [PalSchema] Added Item 'AccessoryParts_defense_1'
+[2025-07-19 06:15:44.2879655] [PalSchema] Added Item 'AccessoryParts_defense_2'
+[2025-07-19 06:15:44.2885322] [PalSchema] Modified Item 'Lotus_attack_01'
+[2025-07-19 06:15:44.2885910] [PalSchema] Modified Item 'Lotus_hp_01'
+[2025-07-19 06:15:44.2886166] [PalSchema] Modified Item 'Lotus_stamina_01'
+[2025-07-19 06:15:44.2886372] [PalSchema] Modified Item 'PalItem_ToSell_01'
+[2025-07-19 06:15:44.2886619] [PalSchema] Modified Item 'PalItem_ToSell_03'
+[2025-07-19 06:15:44.2886961] [PalSchema] Modified Item 'PalItem_ToSell_04'
+[2025-07-19 06:15:44.2887167] [PalSchema] Modified Item 'PalItem_ToSell_05'
+[2025-07-19 06:15:44.2887419] [PalSchema] Modified Item 'Ruby'
+[2025-07-19 06:15:44.2887612] [PalSchema] Modified Item 'Sapphire'
+[2025-07-19 06:15:44.2895957] [PalSchema] Loading mod: CoralumBooster
+[2025-07-19 06:15:44.2900258] [PalSchema] Loading mod: Custom Boost Structures
+[2025-07-19 06:15:44.2908487] [PalSchema] Loading mod: Dek
+[2025-07-19 06:15:44.2915773] [PalSchema] Loading mod: Devils3003Mods
+[2025-07-19 06:15:44.2919866] [PalSchema] Loading mod: Fuacks_useful_recipies
+[2025-07-19 06:15:44.2929778] [PalSchema] Loading mod: increaze drop
+[2025-07-19 06:15:44.2939010] [PalSchema] Added Item 'PalPassiveSkillChange_Alien'
+[2025-07-19 06:15:44.2940181] [PalSchema] Added Item 'PalPassiveSkillChange_ElementBoost_Aqua_2_PAL'
+[2025-07-19 06:15:44.2941412] [PalSchema] Added Item 'PalPassiveSkillChange_ElementBoost_Dark_2_PAL'
+[2025-07-19 06:15:44.2942312] [PalSchema] Added Item 'PalPassiveSkillChange_ElementBoost_Dragon_2_PAL'
+[2025-07-19 06:15:44.2943371] [PalSchema] Added Item 'PalPassiveSkillChange_ElementBoost_Earth_2_PAL'
+[2025-07-19 06:15:44.2944118] [PalSchema] Added Item 'PalPassiveSkillChange_ElementBoost_Fire_2_PAL'
+[2025-07-19 06:15:44.2944968] [PalSchema] Added Item 'PalPassiveSkillChange_ElementBoost_Ice_2_PAL'
+[2025-07-19 06:15:44.2945994] [PalSchema] Added Item 'PalPassiveSkillChange_ElementBoost_Leaf_2_PAL'
+[2025-07-19 06:15:44.2946951] [PalSchema] Added Item 'PalPassiveSkillChange_ElementBoost_Normal_2_PAL'
+[2025-07-19 06:15:44.2947797] [PalSchema] Added Item 'PalPassiveSkillChange_ElementBoost_Thunder_2_PAL'
+[2025-07-19 06:15:44.2948652] [PalSchema] Added Item 'PalPassiveSkillChange_EternalFlame'
+[2025-07-19 06:15:44.2949322] [PalSchema] Added Item 'PalPassiveSkillChange_Invader'
+[2025-07-19 06:15:44.2949969] [PalSchema] Added Item 'PalPassiveSkillChange_Legend'
+[2025-07-19 06:15:44.2950393] [PalSchema] Added Item 'PalPassiveSkillChange_Nushi'
+[2025-07-19 06:15:44.2950911] [PalSchema] Added Item 'PalPassiveSkillChange_PAL_CorporateSlave'
+[2025-07-19 06:15:44.2951389] [PalSchema] Added Item 'PalPassiveSkillChange_Rare'
+[2025-07-19 06:15:44.2951820] [PalSchema] Added Item 'PalPassiveSkillChange_SwimSpeed_up_1'
+[2025-07-19 06:15:44.2952214] [PalSchema] Added Item 'PalPassiveSkillChange_SwimSpeed_up_2'
+[2025-07-19 06:15:44.2952603] [PalSchema] Added Item 'PalPassiveSkillChange_SwimSpeed_up_3'
+[2025-07-19 06:15:44.2953000] [PalSchema] Added Item 'PalPassiveSkillChange_TrainerATK_UP_1'
+[2025-07-19 06:15:44.2953411] [PalSchema] Added Item 'PalPassiveSkillChange_TrainerDEF_UP_1'
+[2025-07-19 06:15:44.2953809] [PalSchema] Added Item 'PalPassiveSkillChange_TrainerWorkSpeed_UP_1'
+[2025-07-19 06:15:44.2954266] [PalSchema] Added Item 'PalPassiveSkillChange_Vampire'
+[2025-07-19 06:15:44.2955222] [PalSchema] Added Item 'PalPassiveSkillChange_Witch'
+[2025-07-19 06:15:44.2959189] [PalSchema] Loading mod: Make Dog Coins (Assembly Line II)
+[2025-07-19 06:15:44.2967773] [PalSchema] Loading mod: Make Dog Coins (Blast Furnace)
+[2025-07-19 06:15:44.2975740] [PalSchema] Loading mod: MelwenMods
+[2025-07-19 06:15:44.2983547] [PalSchema] Modified Item 'CopperArmorCold'
+[2025-07-19 06:15:44.2983921] [PalSchema] Modified Item 'CopperArmorCold_2'
+[2025-07-19 06:15:44.2984198] [PalSchema] Modified Item 'CopperArmorCold_3'
+[2025-07-19 06:15:44.2984448] [PalSchema] Modified Item 'CopperArmorCold_4'
+[2025-07-19 06:15:44.2984654] [PalSchema] Modified Item 'CopperArmorCold_5'
+[2025-07-19 06:15:44.2984946] [PalSchema] Modified Item 'CopperArmorHeat'
+[2025-07-19 06:15:44.2985174] [PalSchema] Modified Item 'CopperArmorHeat_2'
+[2025-07-19 06:15:44.2985436] [PalSchema] Modified Item 'CopperArmorHeat_3'
+[2025-07-19 06:15:44.2985838] [PalSchema] Modified Item 'CopperArmorHeat_4'
+[2025-07-19 06:15:44.2986307] [PalSchema] Modified Item 'CopperArmorHeat_5'
+[2025-07-19 06:15:44.2986583] [PalSchema] Modified Item 'IronArmorCold'
+[2025-07-19 06:15:44.2986779] [PalSchema] Modified Item 'IronArmorCold_2'
+[2025-07-19 06:15:44.2986962] [PalSchema] Modified Item 'IronArmorCold_3'
+[2025-07-19 06:15:44.2987146] [PalSchema] Modified Item 'IronArmorCold_4'
+[2025-07-19 06:15:44.2987325] [PalSchema] Modified Item 'IronArmorCold_5'
+[2025-07-19 06:15:44.2987506] [PalSchema] Modified Item 'IronArmorHeat'
+[2025-07-19 06:15:44.2987685] [PalSchema] Modified Item 'IronArmorHeat_2'
+[2025-07-19 06:15:44.2987867] [PalSchema] Modified Item 'IronArmorHeat_3'
+[2025-07-19 06:15:44.2988222] [PalSchema] Modified Item 'IronArmorHeat_4'
+[2025-07-19 06:15:44.2988704] [PalSchema] Modified Item 'IronArmorHeat_5'
+[2025-07-19 06:15:44.2989133] [PalSchema] Modified Item 'PlasticArmorCold'
+[2025-07-19 06:15:44.2989432] [PalSchema] Modified Item 'PlasticArmorCold_2'
+[2025-07-19 06:15:44.2989634] [PalSchema] Modified Item 'PlasticArmorCold_3'
+[2025-07-19 06:15:44.2989823] [PalSchema] Modified Item 'PlasticArmorCold_4'
+[2025-07-19 06:15:44.2990009] [PalSchema] Modified Item 'PlasticArmorCold_5'
+[2025-07-19 06:15:44.2990198] [PalSchema] Modified Item 'PlasticArmorHeat'
+[2025-07-19 06:15:44.2990420] [PalSchema] Modified Item 'PlasticArmorHeat_2'
+[2025-07-19 06:15:44.2990885] [PalSchema] Modified Item 'PlasticArmorHeat_3'
+[2025-07-19 06:15:44.2991203] [PalSchema] Modified Item 'PlasticArmorHeat_4'
+[2025-07-19 06:15:44.2991401] [PalSchema] Modified Item 'PlasticArmorHeat_5'
+[2025-07-19 06:15:44.2991593] [PalSchema] Modified Item 'PlasticArmorWeight_5'
+[2025-07-19 06:15:44.2991785] [PalSchema] Modified Item 'SFArmorCold'
+[2025-07-19 06:15:44.2991969] [PalSchema] Modified Item 'SFArmorCold_2'
+[2025-07-19 06:15:44.2992171] [PalSchema] Modified Item 'SFArmorCold_3'
+[2025-07-19 06:15:44.2992352] [PalSchema] Modified Item 'SFArmorCold_4'
+[2025-07-19 06:15:44.2992531] [PalSchema] Modified Item 'SFArmorCold_5'
+[2025-07-19 06:15:44.2992711] [PalSchema] Modified Item 'SFArmorHeat'
+[2025-07-19 06:15:44.2992890] [PalSchema] Modified Item 'SFArmorHeat_2'
+[2025-07-19 06:15:44.2993099] [PalSchema] Modified Item 'SFArmorHeat_3'
+[2025-07-19 06:15:44.2993349] [PalSchema] Modified Item 'SFArmorHeat_4'
+[2025-07-19 06:15:44.2993537] [PalSchema] Modified Item 'SFArmorHeat_5'
+[2025-07-19 06:15:44.2993774] [PalSchema] Modified Item 'SFArmorWeight_5'
+[2025-07-19 06:15:44.2993981] [PalSchema] Modified Item 'StealArmorCold'
+[2025-07-19 06:15:44.2994206] [PalSchema] Modified Item 'StealArmorCold_2'
+[2025-07-19 06:15:44.2994424] [PalSchema] Modified Item 'StealArmorCold_3'
+[2025-07-19 06:15:44.2994632] [PalSchema] Modified Item 'StealArmorCold_4'
+[2025-07-19 06:15:44.2994859] [PalSchema] Modified Item 'StealArmorCold_5'
+[2025-07-19 06:15:44.2995054] [PalSchema] Modified Item 'StealArmorHeat'
+[2025-07-19 06:15:44.2995288] [PalSchema] Modified Item 'StealArmorHeat_2'
+[2025-07-19 06:15:44.2995565] [PalSchema] Modified Item 'StealArmorHeat_3'
+[2025-07-19 06:15:44.2995918] [PalSchema] Modified Item 'StealArmorHeat_4'
+[2025-07-19 06:15:44.2996141] [PalSchema] Modified Item 'StealArmorHeat_5'
+[2025-07-19 06:15:44.2998881] [PalSchema] Loading mod: Mounted Overhaul
+[2025-07-19 06:15:44.3255525] [PalSchema] Applied modifications to BP_Alpaca_C
+[2025-07-19 06:15:44.3433358] [PalSchema] Applied modifications to BP_AmaterasuWolf_C
+[2025-07-19 06:15:44.3497620] [PalSchema] Applied modifications to BP_AmaterasuWolf_Dark_C
+[2025-07-19 06:15:44.3729494] [PalSchema] Applied modifications to BP_BlackCentaur_C
+[2025-07-19 06:15:44.4015343] [PalSchema] Applied modifications to BP_BlueThunderHorse_C
+[2025-07-19 06:15:44.4156000] [PalSchema] Applied modifications to BP_Boar_C
+[2025-07-19 06:15:44.4749187] [PalSchema] Applied modifications to BP_DarkScorpion_C
+[2025-07-19 06:15:44.4976810] [PalSchema] Applied modifications to BP_Deer_C
+[2025-07-19 06:15:44.5036523] [PalSchema] Applied modifications to BP_Deer_Ground_C
+[2025-07-19 06:15:44.5319943] [PalSchema] Applied modifications to BP_FeatherOstrich_C
+[2025-07-19 06:15:44.5604169] [PalSchema] Applied modifications to BP_FengyunDeeper_C
+[2025-07-19 06:15:44.5654240] [PalSchema] Applied modifications to BP_FengyunDeeper_Electric_C
+[2025-07-19 06:15:44.5826650] [PalSchema] Applied modifications to BP_FireKirin_C
+[2025-07-19 06:15:44.5954874] [PalSchema] Applied modifications to BP_FireKirin_Dark_C
+[2025-07-19 06:15:44.6254860] [PalSchema] Applied modifications to BP_FlameBuffalo_C
+[2025-07-19 06:15:44.6561937] [PalSchema] Applied modifications to BP_Garm_C
+[2025-07-19 06:15:44.6945878] [PalSchema] Applied modifications to BP_GhostBeast_C
+[2025-07-19 06:15:44.7207606] [PalSchema] Applied modifications to BP_GoldenHorse_C
+[2025-07-19 06:15:44.7589731] [PalSchema] Applied modifications to BP_IceDeer_C
+[2025-07-19 06:15:44.7796491] [PalSchema] Applied modifications to BP_IceHorse_C
+[2025-07-19 06:15:44.7904357] [PalSchema] Applied modifications to BP_IceHorse_Dark_C
+[2025-07-19 06:15:44.8470156] [PalSchema] Applied modifications to BP_KingBahamut_C
+[2025-07-19 06:15:44.8564493] [PalSchema] Applied modifications to BP_KingBahamut_Dragon_C
+[2025-07-19 06:15:44.8856964] [PalSchema] Applied modifications to BP_Kirin_C
+[2025-07-19 06:15:44.9120948] [PalSchema] Applied modifications to BP_Manticore_C
+[2025-07-19 06:15:44.9192136] [PalSchema] Applied modifications to BP_Manticore_Dark_C
+[2025-07-19 06:15:44.9383012] [PalSchema] Applied modifications to BP_MopKing_C
+[2025-07-19 06:15:44.9606625] [PalSchema] Applied modifications to BP_MushroomDragon_C
+[2025-07-19 06:15:44.9648736] [PalSchema] Applied modifications to BP_MushroomDragon_Dark_C
+[2025-07-19 06:15:44.9963819] [PalSchema] Applied modifications to BP_NightBlueHorse_C
+[2025-07-19 06:15:45.0550349] [PalSchema] Applied modifications to BP_PurpleSpider_C
+[2025-07-19 06:15:45.0729338] [PalSchema] Applied modifications to BP_SaintCentaur_C
+[2025-07-19 06:15:45.1039566] [PalSchema] Applied modifications to BP_SnowTigerBeastman_C
+[2025-07-19 06:15:45.1230865] [PalSchema] Applied modifications to BP_SweetsSheep_C
+[2025-07-19 06:15:45.1415842] [PalSchema] Applied modifications to BP_ThunderDog_C
+[2025-07-19 06:15:45.1618793] [PalSchema] Applied modifications to BP_ThunderDragonMan_C
+[2025-07-19 06:15:45.1830615] [PalSchema] Applied modifications to BP_WeaselDragon_C
+[2025-07-19 06:15:45.1897744] [PalSchema] Applied modifications to BP_WeaselDragon_Fire_C
+[2025-07-19 06:15:45.2220092] [PalSchema] Applied modifications to BP_WhiteDeer_C
+[2025-07-19 06:15:45.2228333] [PalSchema] Loading mod: zzzMelwenMods
+[2025-07-19 06:15:45.2243159] [PalSchema] Modified Item 'PalPassiveSkillChange_Alien'
+[2025-07-19 06:15:45.2244014] [PalSchema] Modified Item 'PalPassiveSkillChange_ElementBoost_Aqua_2_PAL'
+[2025-07-19 06:15:45.2244675] [PalSchema] Modified Item 'PalPassiveSkillChange_ElementBoost_Dark_2_PAL'
+[2025-07-19 06:15:45.2245311] [PalSchema] Modified Item 'PalPassiveSkillChange_ElementBoost_Dragon_2_PAL'
+[2025-07-19 06:15:45.2246008] [PalSchema] Modified Item 'PalPassiveSkillChange_ElementBoost_Earth_2_PAL'
+[2025-07-19 06:15:45.2246762] [PalSchema] Modified Item 'PalPassiveSkillChange_ElementBoost_Fire_2_PAL'
+[2025-07-19 06:15:45.2247408] [PalSchema] Modified Item 'PalPassiveSkillChange_ElementBoost_Ice_2_PAL'
+[2025-07-19 06:15:45.2248042] [PalSchema] Modified Item 'PalPassiveSkillChange_ElementBoost_Leaf_2_PAL'
+[2025-07-19 06:15:45.2248592] [PalSchema] Modified Item 'PalPassiveSkillChange_ElementBoost_Normal_2_PAL'
+[2025-07-19 06:15:45.2249060] [PalSchema] Modified Item 'PalPassiveSkillChange_ElementBoost_Thunder_2_PAL'
+[2025-07-19 06:15:45.2249728] [PalSchema] Modified Item 'PalPassiveSkillChange_EternalFlame'
+[2025-07-19 06:15:45.2250170] [PalSchema] Modified Item 'PalPassiveSkillChange_Invader'
+[2025-07-19 06:15:45.2250598] [PalSchema] Modified Item 'PalPassiveSkillChange_Legend'
+[2025-07-19 06:15:45.2251004] [PalSchema] Modified Item 'PalPassiveSkillChange_Nushi'
+[2025-07-19 06:15:45.2251374] [PalSchema] Modified Item 'PalPassiveSkillChange_PAL_CorporateSlave'
+[2025-07-19 06:15:45.2251713] [PalSchema] Modified Item 'PalPassiveSkillChange_Rare'
+[2025-07-19 06:15:45.2252056] [PalSchema] Modified Item 'PalPassiveSkillChange_SwimSpeed_up_1'
+[2025-07-19 06:15:45.2252385] [PalSchema] Modified Item 'PalPassiveSkillChange_SwimSpeed_up_2'
+[2025-07-19 06:15:45.2252713] [PalSchema] Modified Item 'PalPassiveSkillChange_SwimSpeed_up_3'
+[2025-07-19 06:15:45.2253041] [PalSchema] Modified Item 'PalPassiveSkillChange_TrainerATK_UP_1'
+[2025-07-19 06:15:45.2253373] [PalSchema] Modified Item 'PalPassiveSkillChange_TrainerDEF_UP_1'
+[2025-07-19 06:15:45.2254175] [PalSchema] Added Item 'PalPassiveSkillChange_TrainerLogging_up1'
+[2025-07-19 06:15:45.2254608] [PalSchema] Added Item 'PalPassiveSkillChange_TrainerMining_up1'
+[2025-07-19 06:15:45.2254967] [PalSchema] Modified Item 'PalPassiveSkillChange_TrainerWorkSpeed_UP_1'
+[2025-07-19 06:15:45.2255311] [PalSchema] Modified Item 'PalPassiveSkillChange_Vampire'
+[2025-07-19 06:15:45.2255632] [PalSchema] Modified Item 'PalPassiveSkillChange_Witch'
+[2025-07-19 06:15:45.2300488] [Lua] [ConsoleEnabler] ConsoleKey[1]: Tilde
+[2025-07-19 06:15:45.2300877] [Lua] [ConsoleEnabler] ConsoleKey[2]: @
+[2025-07-19 06:15:45.2301034] [Lua] [ConsoleEnabler] ConsoleKey[3]: ^
+[2025-07-19 06:15:45.2301162] [Lua] [ConsoleEnabler] ConsoleKey[4]: F10
+[2025-07-19 06:15:45.3588019] [Lua] [BPModLoaderMod] Loading mod: RotateIt
+[2025-07-19 06:15:45.4042136] [Lua] [BPModLoaderMod] Actor: ModActor_C /Game/Pal/Maps/Login/PL_Login.PL_Login:PersistentLevel.ModActor_C_2147481972
+[2025-07-19 06:15:45.4043294] [Lua] [BPModLoaderMod] Loading mod: PalAnalyzer
+[2025-07-19 06:15:45.4183565] [Lua] [BPModLoaderMod] Executing 'PostBeginPlay' for mod 'ModActor_C /Game/Pal/Maps/Login/PL_Login.PL_Login:PersistentLevel.ModActor_C_2147481971'
+[2025-07-19 06:15:45.4185095] [Lua] [BPModLoaderMod] Actor: ModActor_C /Game/Pal/Maps/Login/PL_Login.PL_Login:PersistentLevel.ModActor_C_2147481971
+[2025-07-19 06:15:46.8238080] [Lua] [ConsoleEnabler] ConsoleKey[1]: Tilde
+[2025-07-19 06:15:46.8238668] [Lua] [ConsoleEnabler] ConsoleKey[2]: @
+[2025-07-19 06:15:46.8238850] [Lua] [ConsoleEnabler] ConsoleKey[3]: ^
+[2025-07-19 06:15:46.8238995] [Lua] [ConsoleEnabler] ConsoleKey[4]: F10
+[2025-07-19 06:15:46.8589189] [Lua] [BPModLoaderMod] Loading mod: RotateIt
+[2025-07-19 06:15:47.0453659] [Lua] [BPModLoaderMod] Actor: ModActor_C /Game/Pal/Maps/Title/PL_Title.PL_Title:PersistentLevel.ModActor_C_2147481853
+[2025-07-19 06:15:47.0454426] [Lua] [BPModLoaderMod] Loading mod: PalAnalyzer
+[2025-07-19 06:15:47.0567034] [Lua] [BPModLoaderMod] Executing 'PostBeginPlay' for mod 'ModActor_C /Game/Pal/Maps/Title/PL_Title.PL_Title:PersistentLevel.ModActor_C_2147481852'
+[2025-07-19 06:15:47.0568854] [Lua] [BPModLoaderMod] Actor: ModActor_C /Game/Pal/Maps/Title/PL_Title.PL_Title:PersistentLevel.ModActor_C_2147481852
+[2025-07-19 06:15:47.1132230] Unregistering hook
+[2025-07-19 06:16:09.9184293] [Lua] [ConsoleEnabler] ConsoleKey[1]: Tilde
+[2025-07-19 06:16:09.9185199] [Lua] [ConsoleEnabler] ConsoleKey[2]: @
+[2025-07-19 06:16:09.9185419] [Lua] [ConsoleEnabler] ConsoleKey[3]: ^
+[2025-07-19 06:16:09.9185597] [Lua] [ConsoleEnabler] ConsoleKey[4]: F10
+[2025-07-19 06:16:10.0675056] [Lua] [BPModLoaderMod] Loading mod: RotateIt
+[2025-07-19 06:16:10.1035625] [Lua] [BPModLoaderMod] Actor: ModActor_C /Game/Pal/Maps/MainWorld_5/PL_MainWorld5.PL_MainWorld5:PersistentLevel.ModActor_C_2147481197
+[2025-07-19 06:16:10.1036865] [Lua] [BPModLoaderMod] Loading mod: PalAnalyzer
+[2025-07-19 06:16:10.1146137] [Lua] [BPModLoaderMod] Actor: ModActor_C /Game/Pal/Maps/MainWorld_5/PL_MainWorld5.PL_MainWorld5:PersistentLevel.ModActor_C_2147481196
+[2025-07-19 06:16:10.4337031] [Lua] [ConsoleEnabler] ConsoleKey[1]: Tilde
+[2025-07-19 06:16:10.4337880] [Lua] [ConsoleEnabler] ConsoleKey[2]: @
+[2025-07-19 06:16:10.4338210] [Lua] [ConsoleEnabler] ConsoleKey[3]: ^
+[2025-07-19 06:16:10.4338705] [Lua] [ConsoleEnabler] ConsoleKey[4]: F10
+[2025-07-19 06:16:11.0085804] [Lua] [CheatManager Creator] Constructed CheatManager [0x29B0DF0AEA0]
+[2025-07-19 06:16:11.0086410] [Lua] [CheatManager Creator] Enabled CheatManager
+[2025-07-19 06:16:11.0443029] [Lua] [31m[Better Riding Ground Mounts] Max angle of obstacle climible by ground mount set to 70[0m
+[2025-07-19 06:16:11.0788088] [Lua] [31m[Better Shields] Delay before shield recovery set to 10.0[0m
+[2025-07-19 06:16:11.0862184] [Lua] [31m[Better Shields] Speed of shield recovery set to 8.0[0m
+[2025-07-19 06:16:11.1222318] [Lua] [31m[FasterTrustGrowth] Trust growth for pals set to 10[0m
+[2025-07-19 06:16:11.1222811] [Lua] [31m[FasterTrustGrowth] Trust growth for active pals set to 50[0m
+[2025-07-19 06:16:11.1223054] [Lua] [31m[FasterTrustGrowth] Trust growth for workers set to 1[0m
+[2025-07-19 06:16:11.1223171] [Lua] [31m[FasterTrustGrowth] Trust Gain from petting set to 300[0m
+[2025-07-19 06:16:11.1223275] [Lua] [31m[FasterTrustGrowth] Trust Gain from sleeping with pal set to 1000[0m
+[2025-07-19 06:16:11.1569233] [Lua] [31m[Less Restrictive Building] Floating Allowance Height set to 99999999[0m
+[2025-07-19 06:16:11.1569901] [Lua] [31m[Less Restrictive Building] Building Lean Angle set to 90[0m
+[2025-07-19 06:16:11.1570067] [Lua] [31m[Less Restrictive Building] Building Max Height set to 99999999[0m
+[2025-07-19 06:16:11.1570191] [Lua] [31m[Less Restrictive Building] Max Number of Buildings set to 99999999[0m
+[2025-07-19 06:16:11.1764508] [Lua] [RotateIt] Read Config Done,Use Keys:
+[2025-07-19 06:16:11.1765722] [Lua] [RotateIt] R
+[2025-07-19 06:16:11.1766115] [Lua] [RotateIt] V
+[2025-07-19 06:16:11.1766435] [Lua] [RotateIt] C
+[2025-07-19 06:16:11.1766768] [Lua] [RotateIt] F5
+[2025-07-19 06:16:11.1767086] [Lua] [RotateIt] Left
+[2025-07-19 06:16:11.1767381] [Lua] [RotateIt] Right
+[2025-07-19 06:16:11.1767972] [Lua] [RotateIt] Up
+[2025-07-19 06:16:11.1768349] [Lua] [RotateIt] Down
+[2025-07-19 06:16:11.1768652] [Lua] [RotateIt] F6
+[2025-07-19 06:16:11.1768939] [Lua] [RotateIt] `
+[2025-07-19 06:16:11.1769259] [Lua] [RotateIt] F7
+[2025-07-19 06:16:11.1769560] [Lua] [RotateIt] F8
+[2025-07-19 06:16:11.1769835] [Lua] [RotateIt] F4
+[2025-07-19 06:16:11.1770101] [Lua] [RotateIt] J
+[2025-07-19 06:16:11.1770792] [Lua] [RotateIt] L
+[2025-07-19 06:16:11.1771099] [Lua] [RotateIt] I
+[2025-07-19 06:16:11.1771384] [Lua] [RotateIt] K
+[2025-07-19 06:16:11.1771650] [Lua] [RotateIt] U
+[2025-07-19 06:16:11.1771905] [Lua] [RotateIt] O
+[2025-07-19 06:16:11.1772200] [Lua] [RotateIt] Comma
+[2025-07-19 06:16:11.1772478] [Lua] [RotateIt] Period
+[2025-07-19 06:16:11.1772764] [Lua] [RotateIt] Left Shift
+[2025-07-19 06:16:11.1773043] [Lua] [RotateIt] Right Shift
+[2025-07-19 06:16:11.1773327] [Lua] [RotateIt] Left Alt
+[2025-07-19 06:16:11.1773613] [Lua] [RotateIt] Right Alt
+[2025-07-19 06:16:11.1773896] [Lua] [RotateIt] F9
+[2025-07-19 06:16:11.1774174] [Lua] [RotateIt] F10
+[2025-07-19 06:16:11.1774820] [Lua] [RotateIt] InitDone
+[2025-07-19 06:16:11.1775977] [Lua] [BPModLoaderMod] Executing 'PostBeginPlay' for mod 'ModActor_C /Game/Pal/Maps/MainWorld_5/PL_MainWorld5.PL_MainWorld5:PersistentLevel.ModActor_C_2147481196'
+[2025-07-19 06:16:11.1805160] [Lua] [PalAnalyzer] Loading configs
+[2025-07-19 06:16:14.5903693] [Lua] [CheatManager Creator] Constructed CheatManager [0x29B1D4CE4E0]
+[2025-07-19 06:16:14.5904391] [Lua] [CheatManager Creator] Enabled CheatManager
+[2025-07-19 06:16:19.7623759] [Lua] [TEBA] Moved blue line...[2025-07-19 06:16:19.8340920] [Lua] [TEBA-C] Area Range not loaded, couldn't move blue line[2025-07-19 06:16:20.1379810] [PalSchema] Applied modifications to BP_BuildObject_Factory_Hard_02_C
+[2025-07-19 06:16:21.7546791] [PalSchema] Applied modifications to BP_BuildObject_BreedFarm_C
+[2025-07-19 06:16:21.9323688] [PalSchema] Applied modifications to BP_Mozzarina_C
+[2025-07-19 06:16:28.6543265] [Lua] [TEBA] Found Base: PalBaseCampModel /Game/Pal/Maps/MainWorld_5/PL_MainWorld5.PL_MainWorld5:PersistentLevel.BP_PalGameStateInGame_C_2147480978.PalBaseCampReplicator_2147462628.PalBaseCampModel_2147445829[2025-07-19 06:16:28.6544001] [Lua] [TEBA] Waiting 15 seconds to allow the model to finish initialization[2025-07-19 06:16:28.6558069] [Lua] [TEBA] Found Base: PalBaseCampModel /Game/Pal/Maps/MainWorld_5/PL_MainWorld5.PL_MainWorld5:PersistentLevel.BP_PalGameStateInGame_C_2147480978.PalBaseCampReplicator_2147462628.PalBaseCampModel_2147445783[2025-07-19 06:16:28.6558385] [Lua] [TEBA] Waiting 15 seconds to allow the model to finish initialization[2025-07-19 06:16:28.6563633] [Lua] [TEBA] Found Base: PalBaseCampModel /Game/Pal/Maps/MainWorld_5/PL_MainWorld5.PL_MainWorld5:PersistentLevel.BP_PalGameStateInGame_C_2147480978.PalBaseCampReplicator_2147462628.PalBaseCampModel_2147445730[2025-07-19 06:16:28.6563898] [Lua] [TEBA] Waiting 15 seconds to allow the model to finish initialization[2025-07-19 06:16:28.6567024] [Lua] [TEBA] Found Base: PalBaseCampModel /Game/Pal/Maps/MainWorld_5/PL_MainWorld5.PL_MainWorld5:PersistentLevel.BP_PalGameStateInGame_C_2147480978.PalBaseCampReplicator_2147462628.PalBaseCampModel_2147445684[2025-07-19 06:16:28.6567314] [Lua] [TEBA] Waiting 15 seconds to allow the model to finish initialization[2025-07-19 06:16:43.6552777] [Lua] [TEBA] Default AreaRange: 5000.0[2025-07-19 06:16:43.6554337] [Lua] [TEBA] New base Area: 5000.0[2025-07-19 06:16:43.6611556] [Lua] [TEBA] Default AreaRange: 5000.0[2025-07-19 06:16:43.6612187] [Lua] [TEBA] New base Area: 5000.0[2025-07-19 06:16:43.6612364] [Lua] [TEBA] Default AreaRange: 5000.0[2025-07-19 06:16:43.6612487] [Lua] [TEBA] New base Area: 5000.0[2025-07-19 06:16:43.6612599] [Lua] [TEBA] Default AreaRange: 5000.0[2025-07-19 06:16:43.6612708] [Lua] [TEBA] New base Area: 5000.0[2025-07-19 06:18:04.8931784] [Lua] [PalAnalyzer] Saving and Applying settings
+[2025-07-19 07:09:50.5780469] [PalSchema] Applied modifications to BP_BuildObject_WorkBench_SkillCard_C
+[2025-07-19 07:14:54.1395839] [Lua] [CheatManager Creator] Constructed CheatManager [0x29D1E62DD00]
+[2025-07-19 07:14:54.1396591] [Lua] [CheatManager Creator] Enabled CheatManager
+[2025-07-19 07:15:08.5938355] [Lua] [CheatManager Creator] Constructed CheatManager [0x29CAB146EC0]
+[2025-07-19 07:15:08.5939363] [Lua] [CheatManager Creator] Enabled CheatManager
+[2025-07-19 07:15:25.7475441] [Lua] [CheatManager Creator] Constructed CheatManager [0x29D20EA7CC0]
+[2025-07-19 07:15:25.7476429] [Lua] [CheatManager Creator] Enabled CheatManager
+[2025-07-19 07:15:28.8497657] [Lua] [CheatManager Creator] Constructed CheatManager [0x29B3B7627E0]
+[2025-07-19 07:15:28.8498559] [Lua] [CheatManager Creator] Enabled CheatManager
+[2025-07-19 07:23:23.3535256] [Lua] [CheatManager Creator] Constructed CheatManager [0x29B188760C0]
+[2025-07-19 07:23:23.3536567] [Lua] [CheatManager Creator] Enabled CheatManager
+[2025-07-19 07:23:44.6342943] [Lua] [CheatManager Creator] Constructed CheatManager [0x29CAA435020]
+[2025-07-19 07:23:44.6343790] [Lua] [CheatManager Creator] Enabled CheatManager
+[2025-07-19 07:24:26.8334050] [Lua] [CheatManager Creator] Constructed CheatManager [0x29BDE883340]
+[2025-07-19 07:24:26.8334910] [Lua] [CheatManager Creator] Enabled CheatManager
+[2025-07-19 07:24:55.8954869] [Lua] [CheatManager Creator] Constructed CheatManager [0x29BFAA02D20]
+[2025-07-19 07:24:55.8955559] [Lua] [CheatManager Creator] Enabled CheatManager
+[2025-07-19 07:26:34.4817723] [Lua] [CheatManager Creator] Constructed CheatManager [0x29B2A2D4140]
+[2025-07-19 07:26:34.4818588] [Lua] [CheatManager Creator] Enabled CheatManager
+[2025-07-19 07:26:49.3309635] [Lua] [CheatManager Creator] Constructed CheatManager [0x29D77A83F80]
+[2025-07-19 07:26:49.3310493] [Lua] [CheatManager Creator] Enabled CheatManager
+[2025-07-19 07:28:52.8637450] [Lua] [TEBA] Moved blue line...[2025-07-19 07:28:52.9241669] [Lua] [TEBA-C] Moved deadly blue line...[2025-07-19 07:29:07.2993003] [Lua] [TEBA] Moved blue line...[2025-07-19 07:29:07.3604972] [Lua] [TEBA-C] Moved deadly blue line...[2025-07-19 07:29:07.5103128] [Lua] [TEBA] Found Base: PalBaseCampModel /Game/Pal/Maps/MainWorld_5/PL_MainWorld5.PL_MainWorld5:PersistentLevel.BP_PalGameStateInGame_C_2147480978.PalBaseCampReplicator_2147462628.PalBaseCampModel_2146797779[2025-07-19 07:29:07.5104217] [Lua] [TEBA] Waiting 15 seconds to allow the model to finish initialization[2025-07-19 07:29:22.5146661] [Lua] [TEBA] Default AreaRange: 10000.0[2025-07-19 07:29:22.5147798] [Lua] [TEBA] New base Area: 5000.0[2025-07-19 07:33:26.7414872] [Lua] [CheatManager Creator] Constructed CheatManager [0x29B39D61F20]
+[2025-07-19 07:33:26.7416671] [Lua] [CheatManager Creator] Enabled CheatManager
+[2025-07-19 07:33:38.6829218] [Lua] [CheatManager Creator] Constructed CheatManager [0x29DFBE3C800]
+[2025-07-19 07:33:38.6830655] [Lua] [CheatManager Creator] Enabled CheatManager
+[2025-07-19 07:34:21.3885062] [Lua] [CheatManager Creator] Constructed CheatManager [0x29DF97BB760]
+[2025-07-19 07:34:21.3886200] [Lua] [CheatManager Creator] Enabled CheatManager
+[2025-07-19 07:34:38.2526767] [Lua] [CheatManager Creator] Constructed CheatManager [0x29DFA818120]
+[2025-07-19 07:34:38.2527696] [Lua] [CheatManager Creator] Enabled CheatManager
+[2025-07-19 07:34:38.4346385] [Lua] [TEBA] Moved blue line...[2025-07-19 07:34:38.4977810] [Lua] [TEBA-C] Moved deadly blue line...[2025-07-19 07:34:38.9950393] [PalSchema] Applied modifications to BP_BuildObject_BreedFarm_C
+[2025-07-19 07:34:40.8659131] [PalSchema] Applied modifications to BP_BuildObject_WorkBench_SkillCard_C
+[2025-07-19 07:35:07.2614724] [Lua] [ConsoleEnabler] ConsoleKey[1]: Tilde
+[2025-07-19 07:35:07.2615377] [Lua] [ConsoleEnabler] ConsoleKey[2]: @
+[2025-07-19 07:35:07.2615569] [Lua] [ConsoleEnabler] ConsoleKey[3]: ^
+[2025-07-19 07:35:07.2615714] [Lua] [ConsoleEnabler] ConsoleKey[4]: F10
+[2025-07-19 07:35:08.2768207] [Lua] [BPModLoaderMod] Loading mod: RotateIt
+[2025-07-19 07:35:08.3154667] [Lua] [BPModLoaderMod] Actor: ModActor_C /Game/Pal/Maps/Title/PL_Title.PL_Title:PersistentLevel.ModActor_C_2146728308
+[2025-07-19 07:35:08.3155357] [Lua] [BPModLoaderMod] Loading mod: PalAnalyzer
+[2025-07-19 07:35:08.3227977] [Lua] [BPModLoaderMod] Executing 'PostBeginPlay' for mod 'ModActor_C /Game/Pal/Maps/Title/PL_Title.PL_Title:PersistentLevel.ModActor_C_2146728307'
+[2025-07-19 07:35:08.3228974] [Lua] [BPModLoaderMod] Actor: ModActor_C /Game/Pal/Maps/Title/PL_Title.PL_Title:PersistentLevel.ModActor_C_2146728307

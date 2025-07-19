@@ -1,0 +1,19 @@
+{
+  "PackName": "Birchs_MOOreVixy",
+  "SkelMeshSwap": [
+    {
+      "CharacterID": "CuteFox",
+      "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Vixy/Albino/SK_Vixy_Albino"
+    },
+    {
+      "CharacterID": "CuteFox",
+      "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Vixy/Beach/SK_Vixy_Beach"
+    },
+    {
+      "CharacterID": "CuteFox",
+      "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Vixy/Pink/SK_Vixy_Pink"
+    },
+    {
+      "CharacterID": "CuteFox",
+      "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Vixy/Purple/SK_Vixy_Purple"
+    }]}

@@ -1,0 +1,56 @@
+{
+  "DT_ItemLotteryDataTable": {
+    "3530": {
+      "MinNum": 3,
+      "MaxNum": 6
+    },
+    "3569": {
+      "MinNum": 18,
+      "MaxNum": 33
+    },
+    "4610": {
+      "MinNum": 3,
+      "MaxNum": 6
+    },
+    "4688": {
+      "MinNum": 3,
+      "MaxNum": 6
+    },
+    "4740": {
+      "MinNum": 6,
+      "MaxNum": 12
+    },
+    "4824": {
+      "MinNum": 6,
+      "MaxNum": 12
+    },
+    "4828": {
+      "MinNum": 6,
+      "MaxNum": 15
+    },
+    "4877": {
+      "MinNum": 6,
+      "MaxNum": 15
+    },
+    "4880": {
+      "MinNum": 54,
+      "MaxNum": 87
+    },
+    "4984": {
+      "MinNum": 6,
+      "MaxNum": 15
+    },
+    "5092": {
+      "MinNum": 3,
+      "MaxNum": 9
+    },
+    "5112": {
+      "MinNum": 6,
+      "MaxNum": 12
+    },
+    "5132": {
+      "MinNum": 6,
+      "MaxNum": 15
+    }
+  }
+}

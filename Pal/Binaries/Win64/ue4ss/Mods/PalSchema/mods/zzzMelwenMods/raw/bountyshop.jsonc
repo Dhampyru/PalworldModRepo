@@ -1,0 +1,108 @@
+{
+	"DT_ItemShopCreateData": {
+		"Bounty_Shop_1": {
+			"productDataArray": {
+				"Items": [
+					{	/*Implant: Work Slave*/
+						"StaticItemId": "PalPassiveSkillChange_PAL_CorporateSlave",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 15,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{	/*Implant: Sleek Stroke*/
+						"StaticItemId": "PalPassiveSkillChange_SwimSpeed_up_1",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 15,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{	/*Implant: Ace Swimmer*/
+						"StaticItemId": "PalPassiveSkillChange_SwimSpeed_up_2",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{	/*Implant: King of the Waves*/
+						"StaticItemId": "PalPassiveSkillChange_SwimSpeed_up_3",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 70,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{	/*Implant: Nimble*/
+						"StaticItemId": "PalPassiveSkillChange_MoveSpeed_up_1",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 70,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{	/*Implant: Swift*/
+						"StaticItemId": "PalPassiveSkillChange_MoveSpeed_up_3",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 70,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{	/*Implant: Eternal Engine*/
+						"StaticItemId": "PalPassiveSkillChange_Stamina_Up_3",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 70,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{	/*Implant: Vanguard*/
+						"StaticItemId": "PalPassiveSkillChange_TrainerATK_UP_1",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{	/*Implant: Stronghold Strategist*/
+						"StaticItemId": "PalPassiveSkillChange_TrainerDEF_UP_1",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{	/*Implant: Motivational Leader*/
+						"StaticItemId": "PalPassiveSkillChange_TrainerWorkSpeed_UP_1",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{	/*Implant: Logging Foreman*/
+						"StaticItemId": "PalPassiveSkillChange_TrainerLogging_up1",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{	/*Implant: Mine Foreman*/
+						"StaticItemId": "PalPassiveSkillChange_TrainerMining_up1",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{	/*Implant: Lucky*/
+						"StaticItemId": "PalPassiveSkillChange_Rare",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 70,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{	/*Implant: Vampiric*/
+						"StaticItemId": "PalPassiveSkillChange_Vampire",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 70,
+						"ProductNum": 1,
+						"Stock": 0
+					}
+				]
+			}
+		}
+	}
+}

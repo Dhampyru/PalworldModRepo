@@ -1,0 +1,20 @@
+{
+  "DT_PalDropItem": {
+        "IceNarwhal000": {
+        "min2": 15,
+        "Max2": 30
+      },
+      "IceNarwhal_Fire000": {
+        "min2": 6,
+        "Max2": 9
+      },
+      "BOSS_IceNarwhal_Fire000": {
+        "min3": 15,
+        "Max3": 30
+      },
+      "BOSS_IceNarwhal000": {
+        "min3": 15,
+        "Max3": 30
+      }
+  }
+}

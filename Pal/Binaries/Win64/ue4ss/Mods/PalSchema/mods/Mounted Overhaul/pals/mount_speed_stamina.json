@@ -1,0 +1,915 @@
+{
+    "Alpaca": {
+        "RunSpeed": 800,
+        "RideSprintSpeed": 1300
+    },
+
+    "BOSS_Alpaca": {
+        "RunSpeed": 800,
+        "RideSprintSpeed": 1300
+    },
+
+    "MopKing": {
+        "RideSprintSpeed": 900,
+        "RunSpeed": 500,
+        "Stamina": 150
+    },
+
+    "BOSS_MopKing": {
+        "RideSprintSpeed": 900,
+        "RunSpeed": 500,
+        "Stamina": 150
+    },
+
+    "Boar": {
+        "RideSprintSpeed": 1200,
+        "RunSpeed": 700,
+        "Stamina": 110
+    },
+
+    "BOSS_Boar": {
+        "RideSprintSpeed": 1200,
+        "RunSpeed": 700,
+        "Stamina": 110
+    },
+
+    "Garm": {
+        "RideSprintSpeed": 1400
+    },
+
+    "BOSS_Garm": {
+        "RideSprintSpeed": 1400
+    },
+
+    "Deer": {
+        "RideSprintSpeed": 1350,
+        "Stamina": 110
+    },
+
+    "BOSS_Deer": {
+        "RideSprintSpeed": 1350,
+        "Stamina": 110
+    },
+
+    "Deer_Ground": {
+        "RideSprintSpeed": 1350,
+        "Stamina": 110
+    },
+
+    "BOSS_Deer_Ground": {
+        "RideSprintSpeed": 1350,
+        "Stamina": 110
+    },
+
+    "NaughtyCat": {
+        "RideSprintSpeed": 950,
+        "Stamina": 125
+    },
+
+    "BOSS_NaughtyCat": {
+        "RideSprintSpeed": 950,
+        "Stamina": 125
+    },
+
+    "Kirin": {
+        "RideSprintSpeed": 1600,
+        "RunSpeed": 1100
+    },
+
+    "BOSS_Kirin": {
+        "RideSprintSpeed": 1600,
+        "RunSpeed": 1100
+    },
+    
+    "HawkBird": {
+        "RunSpeed": 900,
+        "RideSprintSpeed": 1100
+    },
+
+    "BOSS_HawkBird": {
+        "RunSpeed": 900,
+        "RideSprintSpeed": 1100
+    },
+
+    "FlameBuffalo": {
+        "RunSpeed": 800,
+        "RideSprintSpeed": 1000,
+        "Stamina": 115
+    },
+
+    "BOSS_FlameBuffalo": {
+        "RunSpeed": 800,
+        "RideSprintSpeed": 1000,
+        "Stamina": 115
+    },
+
+    "FlowerDinosaur": {
+        "RunSpeed": 680,
+        "RideSprintSpeed": 980,
+        "Stamina": 125
+    },
+
+    "BOSS_FlowerDinosaur": {
+        "RunSpeed": 680,
+        "RideSprintSpeed": 980,
+        "Stamina": 125
+    },
+
+    "FlowerDinosaur_Electric": {
+        "RunSpeed": 680,
+        "RideSprintSpeed": 980,
+        "Stamina": 125
+    },
+
+    "BOSS_FlowerDinosaur_Electric": {
+        "RunSpeed": 680,
+        "RideSprintSpeed": 980,
+        "Stamina": 125
+    },
+
+    "SakuraSaurus": {
+        "RunSpeed": 550,
+        "RideSprintSpeed": 860,
+        "Stamina": 140
+    },
+
+    "BOSS_SakuraSaurus": {
+        "RunSpeed": 550,
+        "RideSprintSpeed": 860,
+        "Stamina": 140
+    },
+
+    "SakuraSaurus_Water": {
+        "RunSpeed": 550,
+        "RideSprintSpeed": 860,
+        "Stamina": 140
+    },
+
+    "BOSS_SakuraSaurus_Water": {
+        "RunSpeed": 550,
+        "RideSprintSpeed": 860,
+        "Stamina": 140
+    },
+
+    "BirdDragon": {
+        "RunSpeed": 1000,
+        "RideSprintSpeed": 1300,
+        "Stamina": 110
+    },
+
+    "BOSS_BirdDragon": {
+        "RunSpeed": 1000,
+        "RideSprintSpeed": 1300,
+        "Stamina": 110
+    },
+
+    "WeaselDragon": {
+        "RideSprintSpeed": 1500,
+        "RunSpeed": 1200
+    },
+
+    "BOSS_WeaselDragon": {
+        "RideSprintSpeed": 1500,
+        "RunSpeed": 1200
+    },
+
+    "WeaselDragon_Fire": {
+        "RideSprintSpeed": 1500,
+        "RunSpeed": 1200
+    },
+
+    "BOSS_WeaselDragon_Fire": {
+        "RideSprintSpeed": 1500,
+        "RunSpeed": 1200
+    },
+
+    "KingAlpaca": {
+        "RideSprintSpeed": 950,
+        "RunSpeed": 750,
+        "Stamina": 170
+    },
+
+    "BOSS_KingAlpaca": {
+        "RideSprintSpeed": 950,
+        "RunSpeed": 750,
+        "Stamina": 170
+    },
+
+    "KingAlpaca_Ice": {
+        "RideSprintSpeed": 950,
+        "RunSpeed": 750,
+        "Stamina": 170
+    },
+
+    "BOSS_KingAlpaca_Ice": {
+        "RideSprintSpeed": 950,
+        "RunSpeed": 750,
+        "Stamina": 170
+    },
+
+    "FairyDragon": {
+        "RideSprintSpeed": 1150,
+        "RunSpeed": 830
+    },
+
+    "BOSS_FairyDragon": {
+        "RideSprintSpeed": 1150,
+        "RunSpeed": 830
+    },
+
+    "FairyDragon_Water": {
+        "RideSprintSpeed": 1150,
+        "RunSpeed": 830
+    },
+
+    "BOSS_FairyDragon_Water": {
+        "RideSprintSpeed": 1150,
+        "RunSpeed": 830
+    },
+
+    "FeatherOstrich": {
+        "RideSprintSpeed": 1500,
+        "RunSpeed": 1100
+    },
+
+    "BOSS_FeatherOstrich": {
+        "RideSprintSpeed": 1500,
+        "RunSpeed": 1100
+    },
+
+    "GhostBeast": {
+        "RideSprintSpeed": 1300,
+        "RunSpeed": 900,
+        "Stamina": 110
+    },
+
+    "BOSS_GhostBeast": {
+        "RideSprintSpeed": 1300,
+        "RunSpeed": 900,
+        "Stamina": 110
+    },
+
+    "GrassPanda": {
+        "RideSprintSpeed": 1050,
+        "RunSpeed": 650,
+        "Stamina": 135
+    },
+
+    "BOSS_GrassPanda": {
+        "RideSprintSpeed": 1050,
+        "RunSpeed": 650,
+        "Stamina": 135
+    },
+
+    "GrassPanda_Electric": {
+        "RideSprintSpeed": 1050,
+        "RunSpeed": 650,
+        "Stamina": 135
+    },
+
+    "BOSS_GrassPanda_Electric": {
+        "RideSprintSpeed": 1050,
+        "RunSpeed": 650,
+        "Stamina": 135
+    },
+
+    "PurpleSpider": {
+        "RideSprintSpeed": 1450,
+        "RunSpeed": 800
+    },
+
+    "BOSS_PurpleSpider": {
+        "RideSprintSpeed": 1450,
+        "RunSpeed": 800
+    },
+
+    "VolcanicMonster": {
+        "RideSprintSpeed": 900,
+        "RunSpeed": 500,
+        "Stamina": 150
+    },
+
+    "BOSS_VolcanicMonster": {
+        "RideSprintSpeed": 900,
+        "RunSpeed": 500,
+        "Stamina": 150
+    },
+
+    "VolcanicMonster_Ice": {
+        "RideSprintSpeed": 900,
+        "RunSpeed": 500,
+        "Stamina": 150
+    },
+
+    "BOSS_VolcanicMonster_Ice": {
+        "RideSprintSpeed": 900,
+        "RunSpeed": 500,
+        "Stamina": 150
+    },
+
+    "FireKirin": {
+        "RideSprintSpeed": 1700,
+        "RunSpeed": 1150
+    },
+
+    "BOSS_FireKirin": {
+        "RideSprintSpeed": 1700,
+        "RunSpeed": 1150
+    },
+
+    "FireKirin_Dark": {
+        "RideSprintSpeed": 1700,
+        "RunSpeed": 1150
+    },
+
+    "BOSS_FireKirin_Dark": {
+        "RideSprintSpeed": 1700,
+        "RunSpeed": 1150
+    },
+
+    "GrassMammoth": {
+        "RideSprintSpeed": 850,
+        "RunSpeed": 500,
+        "Stamina": 250
+    },
+
+    "BOSS_GrassMammoth": {
+        "RideSprintSpeed": 850,
+        "RunSpeed": 500,
+        "Stamina": 250
+    },
+
+    "GrassMammoth_Ice": {
+        "RideSprintSpeed": 850,
+        "RunSpeed": 500,
+        "Stamina": 250
+    },
+
+    "BOSS_GrassMammoth_Ice": {
+        "RideSprintSpeed": 850,
+        "RunSpeed": 500,
+        "Stamina": 250
+    },
+
+    "Umihebi_Fire": {
+        "RideSprintSpeed": 800,
+        "Stamina": 125
+    },
+
+    "BOSS_Umihebi_Fire": {
+        "RideSprintSpeed": 800,
+        "Stamina": 125
+    },
+
+    "Umihebi": {
+        "RideSprintSpeed": 800,
+        "Stamina": 125
+    },
+
+    "BOSS_Umihebi": {
+        "RideSprintSpeed": 800,
+        "Stamina": 125
+    },
+
+    "AmaterasuWolf": {
+        "RideSprintSpeed": 1800,
+        "RunSpeed": 1200
+    },
+
+    "BOSS_AmaterasuWolf": {
+        "RideSprintSpeed": 1800,
+        "RunSpeed": 1200
+    },
+
+    "AmaterasuWolf_Dark": {
+        "RideSprintSpeed": 1800,
+        "RunSpeed": 1200
+    },
+
+    "BOSS_AmaterasuWolf_Dark": {
+        "RideSprintSpeed": 1800,
+        "RunSpeed": 1200
+    },
+
+    "ThunderDog": {
+        "WalkSpeed": 230,
+        "RunSpeed": 1200,
+        "RideSprintSpeed": 1800
+    },
+
+    "BOSS_ThunderDog": {
+        "WalkSpeed": 230,
+        "RunSpeed": 1200,
+        "RideSprintSpeed": 1800
+    },
+
+    "Manticore": {
+        "RideSprintSpeed": 1600,
+        "Stamina": 130
+    },
+
+    "BOSS_Manticore": {
+        "RideSprintSpeed": 1600,
+        "Stamina": 130
+    },
+
+    "Manticore_Dark": {
+        "RideSprintSpeed": 1600,
+        "Stamina": 130
+    },
+
+    "BOSS_Manticore_Dark": {
+        "RideSprintSpeed": 1600,
+        "Stamina": 130
+    },
+
+    "IceDeer": {
+        "RideSprintSpeed": 1300,
+        "RunSpeed": 800,
+        "Stamina": 115
+    },
+
+    "BOSS_IceDeer": {
+        "RideSprintSpeed": 1300,
+        "RunSpeed": 800,
+        "Stamina": 115
+    },
+
+    "ThunderBird": {
+        "RideSprintSpeed": 1500,
+        "RunSpeed": 1000,
+        "Stamina": 105
+    },
+
+    "BOSS_ThunderBird": {
+        "RideSprintSpeed": 1500,
+        "RunSpeed": 1000,
+        "Stamina": 105
+    },
+
+    "RedArmorBird": {
+        "RideSprintSpeed": 1550,
+        "RunSpeed": 1000
+    },
+
+    "BOSS_RedArmorBird": {
+        "RideSprintSpeed": 1550,
+        "RunSpeed": 1000
+    },
+
+    "SkyDragon": {
+        "RideSprintSpeed": 1200,
+        "RunSpeed": 900
+    },
+
+    "BOSS_SkyDragon": {
+        "RideSprintSpeed": 1200,
+        "RunSpeed": 900
+    },
+
+    "SkyDragon_Grass": {
+        "RideSprintSpeed": 1200,
+        "RunSpeed": 900
+    },
+
+    "BOSS_SkyDragon_Grass": {
+        "RideSprintSpeed": 1200,
+        "RunSpeed": 900
+    },
+
+    "HadesBird": {
+        "RideSprintSpeed": 1500,
+        "RunSpeed": 1000,
+        "Stamina": 185
+    },
+
+    "BOSS_HadesBird": {
+        "RideSprintSpeed": 1500,
+        "RunSpeed": 1000,
+        "Stamina": 185
+    },
+
+    "HadesBird_Electric": {
+        "RideSprintSpeed": 1500,
+        "RunSpeed": 1000,
+        "Stamina": 185
+    },
+
+    "BOSS_HadesBird_Electric": {
+        "RideSprintSpeed": 1500,
+        "RunSpeed": 1000,
+        "Stamina": 185
+    },
+
+    "FengyunDeeper": {
+        "RideSprintSpeed": 1600,
+        "RunSpeed": 1000,
+        "Stamina": 120
+    },
+
+    "BOSS_FengyunDeeper": {
+        "RideSprintSpeed": 1600,
+        "RunSpeed": 1000,
+        "Stamina": 120
+    },
+
+    "FengyunDeeper_Electric": {
+        "RideSprintSpeed": 1600,
+        "RunSpeed": 1000,
+        "Stamina": 120
+    },
+
+    "BOSS_FengyunDeeper_Electric": {
+        "RideSprintSpeed": 1600,
+        "RunSpeed": 1000,
+        "Stamina": 120
+    },
+
+    "Suzaku": {
+        "RideSprintSpeed": 1750,
+        "RunSpeed": 1100,
+        "Stamina": 110
+    },
+
+    "BOSS_Suzaku": {
+        "RideSprintSpeed": 1750,
+        "RunSpeed": 1100,
+        "Stamina": 110
+    },
+
+    "Suzaku_Water": {
+        "RideSprintSpeed": 1750,
+        "RunSpeed": 1100,
+        "Stamina": 110
+    },
+
+    "BOSS_Suzaku_Water": {
+        "RideSprintSpeed": 1750,
+        "RunSpeed": 1100,
+        "Stamina": 110
+    },
+
+    "GuardianDog": {
+        "RideSprintSpeed": 1000,
+        "RunSpeed": 500,
+        "Stamina": 125
+    },
+
+    "BOSS_GuardianDog": {
+        "RideSprintSpeed": 1000,
+        "RunSpeed": 500,
+        "Stamina": 125
+    },
+
+    "KingBahamut": {
+        "RideSprintSpeed": 1300,
+        "RunSpeed": 800,
+        "Stamina": 170
+    },
+
+    "BOSS_KingBahamut": {
+        "RideSprintSpeed": 1300,
+        "RunSpeed": 800,
+        "Stamina": 170
+    },
+
+    "KingBahamut_Dragon": {
+        "RideSprintSpeed": 1300,
+        "RunSpeed": 800,
+        "Stamina": 170
+    },
+
+    "BOSS_KingBahamut_Dragon": {
+        "RideSprintSpeed": 1300,
+        "RunSpeed": 800,
+        "Stamina": 170
+    },
+
+    "Yeti": {
+        "RideSprintSpeed": 800,
+        "RunSpeed": 400,
+        "Stamina": 200
+    },
+
+    "BOSS_Yeti": {
+        "RideSprintSpeed": 800,
+        "RunSpeed": 400,
+        "Stamina": 200
+    },
+
+    "Yeti_Grass": {
+        "RideSprintSpeed": 800,
+        "RunSpeed": 400,
+        "Stamina": 200
+    },
+
+    "BOSS_Yeti_Grass": {
+        "RideSprintSpeed": 800,
+        "RunSpeed": 400,
+        "Stamina": 200
+    },
+
+    "ElecPanda": {
+        "RideSprintSpeed": 900,
+        "RunSpeed": 500,
+        "Stamina": 160
+    },
+
+    "BOSS_ElecPanda": {
+        "RideSprintSpeed": 900,
+        "RunSpeed": 500,
+        "Stamina": 160
+    },
+
+    "BlackGriffon": {
+        "RideSprintSpeed": 1600,
+        "RunSpeed": 950
+    },
+
+    "BOSS_BlackGriffon": {
+        "RideSprintSpeed": 1600,
+        "RunSpeed": 950
+    },
+
+    "BlackMetalDragon": {
+        "RideSprintSpeed": 1300,
+        "RunSpeed": 700
+    },
+
+    "BOSS_BlackMetalDragon": {
+        "RideSprintSpeed": 1300,
+        "RunSpeed": 700
+    },
+
+    "LazyDragon": {
+        "RideSprintSpeed": 1000,
+        "Stamina": 140
+    },
+
+    "BOSS_LazyDragon": {
+        "RideSprintSpeed": 1000,
+        "Stamina": 140
+    },
+
+    "LazyDragon_Electric": {
+        "RideSprintSpeed": 1000,
+        "Stamina": 140
+    },
+
+    "BOSS_LazyDragon_Electric": {
+        "RideSprintSpeed": 1000,
+        "Stamina": 140
+    },
+
+    "MushroomDragon": {
+        "RideSprintSpeed": 1000,
+        "Stamina": 135
+    },
+
+    "BOSS_MushroomDragon": {
+        "RideSprintSpeed": 1000,
+        "Stamina": 135
+    },
+
+    "MushroomDragon_Dark": {
+        "RideSprintSpeed": 1000,
+        "Stamina": 135
+    },
+
+    "BOSS_MushroomDragon_Dark": {
+        "RideSprintSpeed": 1000,
+        "Stamina": 135
+    },
+
+    "IceHorse": {
+        "RideSprintSpeed": 2750,
+        "RunSpeed": 1300
+    },
+
+    "BOSS_IceHorse": {
+        "RideSprintSpeed": 2750,
+        "RunSpeed": 1300
+    },
+
+    "IceHorse_Dark": {
+        "RideSprintSpeed": 2750,
+        "RunSpeed": 1300
+    },
+
+    "BOSS_IceHorse_Dark": {
+        "RideSprintSpeed": 2750,
+        "RunSpeed": 1300
+    },
+
+    "BlackCentaur": {
+        "RideSprintSpeed": 2500,
+        "RunSpeed": 1000,
+        "Stamina": 150
+    },
+
+    "BOSS_BlackCentaur": {
+        "RideSprintSpeed": 2500,
+        "RunSpeed": 1200,
+        "Stamina": 150
+    },
+
+    "SaintCentaur": {
+        "RideSprintSpeed": 2200,
+        "RunSpeed": 1200,
+        "Stamina": 175
+    },
+
+    "BOSS_SaintCentaur": {
+        "RideSprintSpeed": 2200,
+        "RunSpeed": 1200,
+        "Stamina": 175
+    },
+
+    "JetDragon": {
+        "RideSprintSpeed": 3500,
+        "Stamina": 150
+    },
+
+    "BOSS_JetDragon": {
+        "RideSprintSpeed": 3500,
+        "Stamina": 150
+    },
+
+    "WhiteAlienDragon": {
+        "RideSprintSpeed": 1600,
+        "RunSpeed": 1000,
+        "Stamina": 200
+    },
+
+    "BOSS_WhiteAlienDragon": {
+        "RideSprintSpeed": 1600,
+        "RunSpeed": 1000,
+        "Stamina": 200
+    },
+
+    "MoonQueen": {
+        "RunSpeed": 800,
+        "RideSprintSpeed": 1600
+    },
+
+    "BOSS_MoonQueen": {
+        "RunSpeed": 800,
+        "RideSprintSpeed": 1600
+    },
+
+    "NightBlueHorse": {
+        "RunSpeed": 1100,
+        "RideSprintSpeed": 1700,
+        "Stamina": 120
+    },
+
+    "BOSS_NightBlueHorse": {
+        "RunSpeed": 1100,
+        "RideSprintSpeed": 1700,
+        "Stamina": 120
+    },
+
+    "BlueThunderHorse": {
+        "RunSpeed": 1200,
+        "RideSprintSpeed": 2400
+    },
+
+    "BOSS_BlueThunderHorse": {
+        "RunSpeed": 1200,
+        "RideSprintSpeed": 2400
+    },
+
+    "GoldenHorse": {
+        "RunSpeed": 940,
+        "RideSprintSpeed": 1450,
+        "Stamina": 140
+    },
+
+    "BOSS_GoldenHorse": {
+        "RunSpeed": 940,
+        "RideSprintSpeed": 1450,
+        "Stamina": 140
+    },
+
+    "Horus": {
+        "RideSprintSpeed": 1700
+    },
+
+    "BOSS_Horus": {
+        "RideSprintSpeed": 1700
+    },
+
+    "Horus_Water": {
+        "RideSprintSpeed": 1700
+    },
+
+    "BOSS_Horus_Water": {
+        "RideSprintSpeed": 1700
+    },
+
+    "WhiteDeer": {
+        "RideSprintSpeed": 1500,
+        "Stamina": 160
+    },
+
+    "BOSS_WhiteDeer": {
+        "RideSprintSpeed": 1500,
+        "Stamina": 160
+    },
+
+    "WhiteShieldDragon": {
+        "RideSprintSpeed": 1200,
+        "RunSpeed": 600,
+        "Stamina": 250
+    },
+
+    "BOSS_WhiteShieldDragon": {
+        "RideSprintSpeed": 1200,
+        "RunSpeed": 600,
+        "Stamina": 250
+    },
+
+    "SnowTigerBeastman": {
+        "RideSprintSpeed": 1200,
+        "Stamina": 150
+    },
+
+    "BOSS_SnowTigerBeastman": {
+        "RideSprintSpeed": 1200,
+        "Stamina": 150
+    },
+
+    "DarkScorpion": {
+        "RideSprintSpeed": 1450,
+        "Stamina": 150
+    },
+
+    "BOSS_DarkScorpion": {
+        "RideSprintSpeed": 1450,
+        "Stamina": 150
+    },
+
+    "DarkScorpion_Ground": {
+        "RideSprintSpeed": 1450,
+        "Stamina": 150
+    },
+
+    "BOSS_DarkScorpion_Ground": {
+        "RideSprintSpeed": 1450,
+        "Stamina": 150
+    },
+
+    "CowPal": {
+        "Stamina": 160
+    },
+
+    "BOSS_CowPal": {
+        "Stamina": 160
+    },
+
+    "SweetsSheep": {
+        "Stamina": 130,
+        "RideSprintSpeed": 850,
+        "RunSpeed": 600
+    },
+
+    "BOSS_SweetsSheep": {
+        "Stamina": 130,
+        "RideSprintSpeed": 850,
+        "RunSpeed": 600
+    },
+
+    "HerculesBeetle": {
+        "Stamina": 180,
+        "RideSprintSpeed": 1000,
+        "RunSpeed": 600
+    },
+
+    "BOSS_HerculesBeetle": {
+        "Stamina": 180,
+        "RideSprintSpeed": 1000,
+        "RunSpeed": 600
+    },
+
+    "HerculesBeetle_Ground": {
+        "Stamina": 180,
+        "RideSprintSpeed": 1000,
+        "RunSpeed": 600
+    },
+
+    "BOSS_HerculesBeetle_Ground": {
+        "Stamina": 180,
+        "RideSprintSpeed": 1000,
+        "RunSpeed": 600
+    },
+
+    "ThunderDragonMan": {
+        "RideSprintSpeed": 1900,
+        "RunSpeed": 1400
+    },
+
+    "BOSS_ThunderDragonMan": {
+        "RideSprintSpeed": 1900,
+        "RunSpeed": 1400
+    }
+}

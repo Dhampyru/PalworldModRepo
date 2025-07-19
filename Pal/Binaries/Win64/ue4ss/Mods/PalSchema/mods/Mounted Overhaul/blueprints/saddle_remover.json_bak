@@ -1,0 +1,657 @@
+{
+    "BP_Alpaca_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_MopKing_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Boar_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Garm_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Serpent_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Serpent_Ground_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Deer_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Deer_Ground_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_NaughtyCat_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Kirin_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_HawkBird_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_FlameBuffalo_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_FlowerDinosaur_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_FlowerDinosaur_Electric_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_SakuraSaurus_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_SakuraSaurus_Water_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_BirdDragon_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_BirdDragon_Ice_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_WeaselDragon_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_WeaselDragon_Fire_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_KingAlpaca_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_KingAlpaca_Ice_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_FairyDragon_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_FairyDragon_Water_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_FeatherOstrich_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_GhostBeast_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_GrassPanda_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_GrassPanda_Electric_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_PurpleSpider_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_VolcanicMonster_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_VolcanicMonster_Ice_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_FireKirin_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_FireKirin_Dark_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_GrassMammoth_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_GrassMammoth_Ice_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_BlueDragon_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Umihebi_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Umihebi_Fire_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_AmaterasuWolf_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_AmaterasuWolf_Dark_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_ThunderDog_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Manticore_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Manticore_Dark_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_IceDeer_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_ThunderBird_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_RedArmorBird_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_SkyDragon_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_SkyDragon_Grass_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_HadesBird_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_HadesBird_Electric_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_FengyunDeeper_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_FengyunDeeper_Electric_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Suzaku_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Suzaku_Water_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_GuardianDog_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_KingBahamut_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_KingBahamut_Dragon_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Yeti_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Yeti_Grass_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_ElecPanda_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_BlackGriffon_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_BlackMetalDragon_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_LazyDragon_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_LazyDragon_Electric_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_MushroomDragon_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_MushroomDragon_Dark_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_IceHorse_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_IceHorse_Dark_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_BlackCentaur_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_SaintCentaur_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_JetDragon_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_WhiteAlienDragon_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_MoonQueen_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_NightBlueHorse_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_BlueThunderHorse_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_GoldenHorse_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Horus_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_Horus_Water_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_WhiteDeer_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_WhiteShieldDragon_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_DarkMechaDragon_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    },
+
+    "BP_SnowTigerBeastman_C": {
+        "PalPartnerSkillParameter": {
+            "RestrictionItems": {
+                "Action": "Clear"
+            }
+        }
+    }
+}

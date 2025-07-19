@@ -1,0 +1,226 @@
+{
+    "BP_Menasting_C": {
+        "BP_PalRideMarkerSaddle": {
+            "RelativeLocation": {
+                "X": 0.0,
+                "Y": -10.0,
+                "Z": 0.0
+            },
+            "RidePositionType": "BiggerHorseRide"
+        },
+        "StaticCharacterParameterComponent": {
+            "MovementType": "GroundOnly"
+        }
+    },
+
+    "BP_Menasting_Alpha_C": {
+        "BP_PalRideMarkerSaddle": {
+            "RelativeLocation": {
+                "X": 0.0,
+                "Y": -10.0,
+                "Z": 0.0
+            },
+            "RidePositionType": "BiggerHorseRide"
+        },
+        "StaticCharacterParameterComponent": {
+            "MovementType": "GroundOnly"
+        }
+    },
+
+    "BP_Menasting_Tera_C": {
+        "BP_PalRideMarkerSaddle": {
+            "RelativeLocation": {
+                "X": 0.0,
+                "Y": -10.0,
+                "Z": 0.0
+            },
+            "RidePositionType": "BiggerHorseRide"
+        },
+        "StaticCharacterParameterComponent": {
+            "MovementType": "GroundOnly"
+        }
+    },
+
+    "BP_Menasting_Tera_Alpha_C": {
+        "BP_PalRideMarkerSaddle": {
+            "RelativeLocation": {
+                "X": 0.0,
+                "Y": -10.0,
+                "Z": 0.0
+            },
+            "RidePositionType": "BiggerHorseRide"
+        },
+        "StaticCharacterParameterComponent": {
+            "MovementType": "GroundOnly"
+        }
+    },
+
+    "BP_Mozzarina_C": {
+        "BP_PalRideMarkerSaddle": {
+            "RelativeLocation": {
+                "X": 30.0,
+                "Y": -40.0,
+                "Z": 0.0
+            },
+            "RidePositionType": "BiggerHorseRide"
+        },
+        "StaticCharacterParameterComponent": {
+            "MovementType": "GroundOnly"
+        }
+    },
+
+
+    "BP_Mozzarina_Alpha_C": {
+        "BP_PalRideMarkerSaddle": {
+            "RelativeLocation": {
+                "X": 30.0,
+                "Y": -40.0,
+                "Z": 0.0
+            },
+            "RidePositionType": "BiggerHorseRide"
+        },
+        "StaticCharacterParameterComponent": {
+            "MovementType": "GroundOnly"
+        }
+    },
+
+    "BP_Woolipop_C": {
+        "BP_PalRideMarkerSaddle": {
+            "RelativeLocation": {
+                "X": 0.0,
+                "Y": 80.0,
+                "Z": 0.0
+            },
+            "RidePositionType": "HorseRide"
+        },
+        "StaticCharacterParameterComponent": {
+            "MovementType": "GroundOnly"
+        }
+    },
+
+    "BP_Woolipop_Alpha_C": {
+        "BP_PalRideMarkerSaddle": {
+            "RelativeLocation": {
+                "X": 0.0,
+                "Y": 80.0,
+                "Z": 0.0
+            },
+            "RidePositionType": "HorseRide"
+        },
+        "StaticCharacterParameterComponent": {
+            "MovementType": "GroundOnly"
+        }
+    },
+
+    "BP_Warsect_C": {
+        "BP_PalRideMarkerSaddle": {
+            "RelativeLocation": {
+                "X": 50.0,
+                "Y": -40.0,
+                "Z": 5.0
+            },
+            "RidePositionType": "HorseRide"
+        },
+        "StaticCharacterParameterComponent": {
+            "MovementType": "Fly"
+        }
+    },
+
+    "BP_Warsect_Alpha_C": {
+        "BP_PalRideMarkerSaddle": {
+            "RelativeLocation": {
+                "X": 50.0,
+                "Y": -40.0,
+                "Z": 5.0
+            },
+            "RidePositionType": "HorseRide"
+        },
+        "StaticCharacterParameterComponent": {
+            "MovementType": "Fly"
+        }
+    },
+
+    "BP_Warsect_Tera_C": {
+        "BP_PalRideMarkerSaddle": {
+            "RelativeLocation": {
+                "X": 50.0,
+                "Y": -40.0,
+                "Z": 5.0
+            },
+            "RidePositionType": "HorseRide"
+        },
+        "StaticCharacterParameterComponent": {
+            "MovementType": "Fly"
+        }
+    },
+
+    "BP_Warsect_Tera_Alpha_C": {
+        "BP_PalRideMarkerSaddle": {
+            "RelativeLocation": {
+                "X": 50.0,
+                "Y": -40.0,
+                "Z": 5.0
+            },
+            "RidePositionType": "HorseRide"
+        },
+        "StaticCharacterParameterComponent": {
+            "MovementType": "Fly"
+        }
+    },
+
+    "BP_Orserk_C": {
+        "BP_PalRideMarkerSaddle": {
+            "RelativeLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+            },
+            "RidePositionType": "HorseRide"
+        },
+        "StaticCharacterParameterComponent": {
+            "MovementType": "GroundOnly"
+        }
+    },
+
+    "BP_Orserk_Alpha_C": {
+        "BP_PalRideMarkerSaddle": {
+            "RelativeLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+            },
+            "RidePositionType": "HorseRide"
+        },
+        "StaticCharacterParameterComponent": {
+            "MovementType": "GroundOnly"
+        }
+    },
+
+    "BP_Orserk_S1_C": {
+        "BP_PalRideMarkerSaddle": {
+            "RelativeLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+            },
+            "RidePositionType": "HorseRide"
+        },
+        "StaticCharacterParameterComponent": {
+            "MovementType": "GroundOnly"
+        }
+    },
+
+    "BP_Orserk_Alpha_S1_C": {
+        "BP_PalRideMarkerSaddle": {
+            "RelativeLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+            },
+            "RidePositionType": "HorseRide"
+        },
+        "StaticCharacterParameterComponent": {
+            "MovementType": "GroundOnly"
+        }
+    }
+}

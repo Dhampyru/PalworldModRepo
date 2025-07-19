@@ -1,0 +1,4436 @@
+{
+  "PackName": "ShiningLuckies",
+  "SkelMeshSwap": [
+    {
+      "CharacterID": "Alpaca",
+      "SkelMeshPath": "/Game/Mods/ShiningLuckies/Alpaca/SK_Alpaca1",
+      "IsRarePal": "True"
+    },
+    {
+      "CharacterID": "AmaterasuWolf",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/AmaterasuWolf/SK_AmaterasuWolf",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/AmaterasuWolf/MI_AmaterasuWolf_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/AmaterasuWolf/MI_AmaterasuWolf_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/AmaterasuWolf/MI_AmaterasuWolf_Extra_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "AmaterasuWolf_Dark",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/AmaterasuWolf_Dark/SK_AmaterasuWolf_Dark",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/AmaterasuWolf_Dark/MI_AmaterasuWolf_Dark_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/AmaterasuWolf_Dark/MI_AmaterasuWolf_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/AmaterasuWolf_Dark/MI_AmaterasuWolf_Dark_Extra_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Anubis",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Anubis/SK_Anubis",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Anubis/MI_Anubis_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Anubis/MI_Anubis_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Anubis_Skin001",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Anubis_Skin001/SK_Anubis_Skin001",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Anubis/MI_Anubis_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Anubis/MI_Anubis_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "BadCatgirl",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/BadCatgirl/SK_BadCatgirl",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/BadCatgirl/MI_BadCatgirl_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/BadCatgirl/MI_BadCatgirl_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/BadCatgirl/MI_BadCatgirl_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Baphomet",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Baphomet/SK_Baphomet",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Baphomet/Ml_Baphomet_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Baphomet/MI_Baphomet_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Baphomet_Dark",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Baphomet/SK_Baphomet_Dark",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Baphomet_Dark/Ml_Baphomet_Dark_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Baphomet_Dark/MI_Baphomet_Dark_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Bastet",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Bastet/SK_Bastet",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Bastet/MI_Bastet_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Bastet/MI_Bastet_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Bastet/MI_Bastet_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Bastet_Ice",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Bastet/SK_Bastet_Ice",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Bastet_Ice/MI_Bastet_Ice_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Bastet_Ice/MI_Bastet_Ice_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Bastet_Ice/MI_Bastet_Ice_Extra_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/Bastet_Ice/MI_Bastet_Ice_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "BerryGoat",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/BerryGoat/SK_BerryGoat",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/BerryGoat/MI_BerryGoat_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/BerryGoat/MI_BerryGoat_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/BerryGoat/MI_BerryGoat_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "BerryGoat_Dark",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/BerryGoat_Dark/SK_BerryGoat_Dark",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/BerryGoat_Dark/MI_BerryGoat_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/BerryGoat_Dark/MI_BerryGoat_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/BerryGoat_Dark/MI_BerryGoat_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "BirdDragon",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/BirdDragon/SK_BirdDragon",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/BirdDragon/MI_BirdDragon_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/BirdDragon/MI_BirdDragon_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "BirdDragon_Ice",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/BirdDragon/SK_BirdDragon_Ice",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/BirdDragon_Ice/MI_BirdDragon_Ice_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/BirdDragon_Ice/MI_BirdDragon_Ice_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/BirdDragon_Ice/MI_BirdDragon_Ice_Jewel_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "BlackCentaur",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/BlackCentaur/SK_BlackCentaur",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlackCentaur/MI_BlackCentaur_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlackCentaur/MI_BlackCentaur_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlackCentaur/MI_BlackCentaur_Jewel_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "BlackGriffon",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/BlackGriffon/SK_BlackGriffon",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlackGriffon/MI_BlackGriffon_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlackGriffon/MI_BlackGriffon_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "BlackGriffon_Skin001",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/BlackGriffon_Skin001/SK_BlackGriffon_Skin001",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlackGriffon/MI_BlackGriffon_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlackGriffon/MI_BlackGriffon_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "BlackMetalDragon",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/BlackMetalDragon/SK_BlackMetalDragon",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlackMetalDragon/MI_BlackMetalDragon_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlackMetalDragon/MI_Pal_Fire_BlackMetalDragon_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlackMetalDragon/MI_BlackMetalDragon_Eye_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlackMetalDragon/MI_BlackMetalDragon_Jewel_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "BlackPuppy",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/BlackPuppy/SK_BlackPuppy",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlackPuppy/MI_BlackPuppy_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlackPuppy/MI_BlackPuppy_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlackPuppy/MI_BlackPuppy_Eye_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlackPuppy/MI_BlackPuppy_Mouth_Inst"
+        },
+        {
+          "Index": "4",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlackPuppy/MI_BlackPuppy_Extra_Star_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "BlueberryFairy",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/BlueberryFairy/SK_BlueberryFairy",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlueberryFairy/MI_BlueberryFairy_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlueberryFairy/MI_BlueberryFairy_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "BlueDragon",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/BlueDragon/SK_BlueDragon",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlueDragon/MI_BlueDragon_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlueDragon/MI_BlueDragon_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "BluePlatypus",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/BluePlatypus/SK_BluePlatypus",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/BluePlatypus/MI_BluePlatypus_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/BluePlatypus/MI_BluePlatypus_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "BlueThunderHorse",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/BlueThunderHorse/SK_BlueThunderHorse",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlueThunderHorse/MI_BlueThunderHorse_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlueThunderHorse/MI_BlueThunderHorse_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlueThunderHorse/MI_BlueThunderHorse_Extra_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Boar",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Boar/SK_Boar",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Boar/MI_Boar_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Boar/MI_Boar_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "CandleGhost",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CandleGhost/SK_CandleGhost",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/CandleGhost/MI_CandleGhost_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/CandleGhost/MI_CandleGhost_Extra_01_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/CandleGhost/MI_CandleGhost_Extra_02_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/CandleGhost/MI_CandleGhost_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "CaptainPenguin",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CaptainPenguin/SK_CaptainPenguin",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/CaptainPenguin/MI_CaptainPenguin_Brow_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/CaptainPenguin/MI_CaptainPenguin_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/CaptainPenguin/MI_CaptainPenguin_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Carbunclo",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Carbunclo/SK_Carbunclo",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Carbunclo/MI_Carbunclo_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Carbunclo/MI_Carbunclo_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Carbunclo/MI_Carbunclo_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "CatBat",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatBat/SK_CatBat",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/CatBat/MI_CatBat_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/CatBat/MI_CatBat_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/CatBat/MI_CatBat_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "CatMage",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatMage/SK_CatMage",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/CatMage/MI_CatMage_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/CatMage/MI_CatMage_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "CatMage_Skin001",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatMage/SK_CatMage_Skin001",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/CatMage/MI_CatMage_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/CatMage/MI_CatMage_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "CatMage_Fire",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatMage_Fire/SK_CatMage_Fire",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/CatMage_Fire/MI_CatMage_Fire_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/CatMage_Fire/MI_CatMage_Fire_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "CatVampire",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatVampire/SK_CatVampire",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/CatVampire/MI_CatVampire_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/CatVampire/MI_CatVampire_eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "ChickenPal",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/ChickenPal/SK_ChickenPal",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/ChickenPal/MI_ChickenPal_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/ChickenPal/MI_ChickenPal_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "ColorfulBird",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/ColorfulBird/SK_ColorfulBird",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/ColorfulBird/MI_ColorfulBird_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/ColorfulBird/MI_ColorfulBird_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "CowPal",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CowPal/SK_CowPal",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/CowPal/MI_CowPal_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/CowPal/MI_CowPal_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/CowPal/MI_CowPal_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "CuteButterfly",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CuteButterfly/SK_CuteButterfly",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/CuteButterfly/MI_CuteButterfly_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/CuteButterfly/MI_CuteButterfly_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/CuteButterfly/MI_CuteButterfly_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "CuteFox",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CuteFox/SK_CuteFox",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/CuteFox/MI_CuteFox_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/CuteFox/MI_CuteFox_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/CuteFox/MI_CuteFox_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "CuteMole",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CuteMole/SK_CuteMole",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/CuteMole/MI_CuteMole_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/CuteMole/MI_CuteMole_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/CuteMole/MI_CuteMole_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "DarkAlien",
+      "SkelMeshPath": "/Game/Mods/ShiningLuckies/DarkAlien/SK_DarkAlien1",
+      "IsRarePal": "True"
+    },
+    {
+      "CharacterID": "DarkCrow",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/DarkCrow/SK_DarkCrow",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/DarkCrow/MI_DarKCrow_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/DarkCrow/MI_DarKCrow_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "DarkMechaDragon",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/DarkMechaDragon/SK_DarkMechaDragon",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/DarkMechaDragon/MI_DarkMechaDragon_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/DarkMechaDragon/MI_DarkMechaDragon_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/DarkMechaDragon/MI_DarkMechaDragon_Eye_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/DarkMechaDragon/MI_DarkMechaDragon_Body02_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "DarkScorpion",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/DarkScorpion/SK_DarkScorpion",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/DarkScorpion/MI_Pal_Fire_DarkScorpion_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/DarkScorpion/MI_DarkScorpion_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/DarkScorpion/MI_DarkScorpion_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "DarkScorpion_Ground",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/DarkScorpion_Ground/SK_DarkScorpion_Ground",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/DarkScorpion_Ground/MI_Pal_Fire_Ground_DarkScorpion_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/DarkScorpion_Ground/MI_DarkScorpion_Ground_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/DarkScorpion_Ground/MI_DarkScorpion_Ground_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Deer",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Deer/SK_Deer",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Deer/MI_Deer_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Deer/MI_Deer_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Deer_Ground",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Deer/SK_Deer_Ground",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Deer_Ground/MI_Deer_Ground_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Deer_Ground/MI_Deer_Ground_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "DreamDemon",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/DreamDemon/SK_DreamDemon",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/DreamDemon/MI_DreamDemon_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/DreamDemon/MI_DreamDemon_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/DreamDemon/MI_Pal_Twinkle_DreamDemon_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/DreamDemon/MI_DreamDemon_Eye_Inst"
+        },
+        {
+          "Index": "4",
+          "MatPath": "/Game/Mods/ShiningLuckies/DreamDemon/MI_DreamDemon_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "DrillGame",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/DrillGame/SK_DrillGame",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/DrillGame/MI_Drillgame_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/DrillGame/MI_Drillgame_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Eagle",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Eagle/SK_Eagle",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Eagle/MI_Eagle_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Eagle/MI_Eagle_Wing_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Eagle/MI_Eagle_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "ElecCat",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/ElecCat/SK_ElecCat",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/ElecCat/MI_ElecCat_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/ElecCat/MI_ElecCat_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/ElecCat/MI_ElecCat_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "ElecPanda",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/ElecPanda/SK_ElecPanda",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/ElecPanda/MI_ElecPanda_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/ElecPanda/MI_ElecPanda_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "FairyDragon",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/FairyDragon/SK_FairyDragon",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/FairyDragon/MI_FairyDragon_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/FairyDragon/MI_FairyDragon_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/FairyDragon/MI_FairyDragon_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "FairyDragon_Water",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/FairyDragon/SK_FairyDragon_Water",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/FairyDragon_Water/MI_FairyDragon_Water_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/FairyDragon_Water/MI_FairyDragon_Water_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/FairyDragon_Water/MI_FairyDragon_Water_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "FeatherOstrich",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/FeatherOstrich/SK_FeatherOstrich",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/FeatherOstrich/MI_FeatherOstrich_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/FeatherOstrich/MI_FeatherOstrich_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "FengyunDeeper",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/FengyunDeeper/SK_FengyunDeeper",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/FengyunDeeper/MI_FengyunDeeper_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/FengyunDeeper/MI_FengyunDeeper_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "FengyunDeeper_Electric",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/FengyunDeeper_Electric/SK_FengyunDeeper_Electric",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/FengyunDeeper_Electric/MI_FengyunDeeper_Electric_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/FengyunDeeper_Electric/MI_FengyunDeeper_Electric_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "FireKirin",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/FireKirin/SK_FireKirin",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/FireKirin/MI_FireKirin_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/FireKirin/MI_FireKirin_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/FireKirin/MI_FireKirin_Extra_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "FireKirin_Dark",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/FireKirin/SK_FireKirin_Dark",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/FireKirin_Dark/MI_FireKirin_Dark_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/FireKirin_Dark/MI_FireKirn_Dark_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/FireKirin_Dark/MI_Manticore_Dark_Extra_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "FlameBambi",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/FlameBambi/SK_FlameBambi",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlameBambi/MI_FlameBambi_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlameBambi/MI_FlameBambi_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlameBambi/MI_FlameBambi_Mouth_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlameBambi/MI_FlameBambi_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "FlameBuffalo",
+      "SkelMeshPath": "/Game/Mods/ShiningLuckies/FlameBuffalo/SK_FlameBuffalo1",
+      "IsRarePal": "True"
+    },
+    {
+      "CharacterID": "FlowerDinosaur",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/FlowerDinosaur/SK_FlowerDinosaur",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlowerDinosaur/MI_FlowerDinosaur_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlowerDinosaur/MI_FlowerDinosaur_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "FlowerDinosaur_Electric",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/FlowerDinosaur_Electric/SK_FlowerDinosaur_Electric",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlowerDinosaur_Electric/MI_FlowerDinosaur_Electric_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlowerDinosaur_Electric/MI_FlowerDinosaur_Electric_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "FlowerDoll",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/FlowerDoll/SK_FlowerDoll",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlowerDoll/MI_FlowerDoll_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlowerDoll/MI_FlowerDoll_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlowerDoll/MI_FlowerDoll_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "FlowerRabbit",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/FlowerRabbit/SK_FlowerRabbit",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlowerRabbit/MI_FlowerRabbit_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlowerRabbit/MI_FlowerRabbit_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlowerRabbit/MI_FlowerRabbit_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "FlyingManta",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/FlyingManta/SK_FlyingManta",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlyingManta/MI_FlyingManta_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlyingManta/MI_FlyingManta_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlyingManta/MI_FlyingManta_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "FoxMage",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/FoxMage/SK_FoxMage",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/FoxMage/MI_FoxMage_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/FoxMage/MI_FoxMage_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/FoxMage/MI_FoxMage_Fire_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "FoxMage_Dark",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/FoxMage_Dark/SK_FoxMage_Dark",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/FoxMage_Dark/MI_FoxMage_Dark_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/FoxMage_Dark/MI_FoxMage_Dark_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/FoxMage_Dark/MI_FoxMage_Dark_Fire_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Ganesha",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Ganesha/SK_Ganesha",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Ganesha/Ml_Ganesha_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Ganesha/Ml_Ganesha_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Garm",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Garm/SK_Garm",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Garm/MI_Garm_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Garm/MI_Garm_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "GhostBeast",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/GhostBeast/SK_GhostBeast",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/GhostBeast/MI_GhostBeast_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/GhostBeast/MI_GhostBeast_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/GhostBeast/MI_Pal_Fire_GhostBeast_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "GhostRabbit",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/GhostRabbit/SK_GhostRabbit",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/GhostRabbit/MI_GhostRabbit_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/GhostRabbit/MI_GhostRabbit_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/GhostRabbit/MI_GhostRabbit_Mouth_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/GhostRabbit/MI_GhostRabbit_Eye_Inst"
+        },
+        {
+          "Index": "4",
+          "MatPath": "/Game/Mods/ShiningLuckies/GhostRabbit/MI_Pal_Fire_GhostRabbit_Flame_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "GoldenHorse",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/GoldenHorse/SK_GoldenHorse",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/GoldenHorse/MI_GoldenHorse_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/GoldenHorse/MI_GoldenHorse_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Gorilla",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Gorilla/SK_Gorilla",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Gorilla/MI_Gorilla_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Gorilla/MI_Gorilla_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Gorilla_Ground",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Gorilla_Ground/SK_Gorilla_Ground",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Gorilla_Ground/MI_Gorilla_Ground_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Gorilla_Ground/MI_Gorilla_Ground_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "GrassMammoth",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/GrassMammoth/SK_GrassMammoth",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/GrassMammoth/MI_GrassMammoth_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/GrassMammoth/MI_GrassMammoth_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "GrassMammoth_Ice",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/GrassMammoth/SK_GrassMammoth_Ice",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/GrassMammoth_Ice/MI_GrassMammoth_Ice_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/GrassMammoth_Ice/MI_GrassMammoth_Ice_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/GrassMammoth_Ice/MI_GrassMammoth_Ice_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "GrassPanda",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/GrassPanda/SK_GrassPanda",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/GrassPanda/MI_GrassPanda_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/GrassPanda/MI_GrassPanda_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "GrassPanda_Electric",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/GrassPanda/SK_GrassPanda_Electric",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/GrassPanda_Electric/MI_GrassPanda_Electric_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/GrassPanda_Electric/MI_GrassPanda_Electric_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/GrassPanda_Electric/MI_GrassPanda_Electric_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "GrassRabbitMan",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/GrassRabbitMan/SK_GrassRabbitMan",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/GrassRabbitMan/MI_GrassRabbitMan_Mouth_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/GrassRabbitMan/MI_GrassRabbitMan_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/GrassRabbitMan/MI_GrassRabbitMan_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "GrimGirl",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/GrimGirl/SK_GrimGirl",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/GrimGirl/MI_GrimGirl_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/GrimGirl/MI_GrimGirl_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/GrimGirl/MI_GrimGirl_Weapon_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "GuardianDog",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/GuardianDog/SK_GuardianDog",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/GuardianDog/MI_GuardianDog_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/GuardianDog/MI_GuardianDog_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/GuardianDog/MI_GuardianDog_Brow_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "HadesBird",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/HadesBird/SK_HadesBird",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/HadesBird/MI_HadesBird_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/HadesBird/MI_HadesBird_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/HadesBird/MI_HadesBird_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "HadesBird_Electric",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/HadesBird_Electric/SK_HadesBird_Electric",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/HadesBird_Electric/MI_HadesBird_Electric_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/HadesBird_Electric/MI_HadesBird_Electric_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/HadesBird_Electric/MI_HadesBird_Electric_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "HawkBird",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/HawkBird/SK_HawkBird",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/HawkBird/MI_HawkBird_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/HawkBird/MI_HawkBird_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Hedgehog",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Hedgehog/SK_Hedgehog",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Hedgehog/MI_Hedgehog_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Hedgehog/MI_Hedgehog_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Hedgehog/MI_Hedgehog_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Hedgehog_Ice",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Hedgehog/SK_Hedgehog_Ice",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Hedgehog_Ice/MI_Hedgehog_Ice_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Hedgehog_Ice/MI_Hedgehog_Ice_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Hedgehog_Ice/MI_Hedgehog_Ice_Eye_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/Hedgehog_Ice/MI_Hedgehog_Ice_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "HerculesBeetle",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/HerculesBeetle/SK_HerculesBeetle",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/HerculesBeetle/MI_HerculesBeetle_Eyes_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/HerculesBeetle/MI_HerculesBeetle_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "HerculesBeetle_Ground",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/HerculesBeetle_Ground/SK_HerculesBeetle_Ground",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/HerculesBeetle_Ground/MI_HerculesBeetle_Ground_Eyes_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/HerculesBeetle_Ground/MI_HerculesBeetle_Ground_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Horus",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Horus/SK_Horus",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Horus/MI_Horus_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Horus/MI_Horus_Brow_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Horus/MI_Horus_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Horus_Water",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Horus_Water/SK_Horus_Water",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Horus_Water/MI_Horus_Water_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Horus_Water/MI_Horus_Water_Brow_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Horus_Water/MI_Horus_Water_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "IceDeer",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/IceDeer/SK_IceDeer",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceDeer/MI_IceDeer_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceDeer/MI_IceDeer_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceDeer/MI_IceDeer_Extra_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "IceFox",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/IceFox/SK_IceFox",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceFox/MI_IceFox_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceFox/MI_IceFox_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "IceHorse",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/IceHorse/SK_IceHorse",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceHorse/MI_IceHorse_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceHorse/MI_IceHorse_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceHorse/MI_IceHorse_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "IceHorse_Skin002",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/IceHorse_Skin002/SK_IceHorse_Skin002",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceHorse/MI_IceHorse_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceHorse/MI_IceHorse_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceHorse/MI_IceHorse_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "IceHorse_Dark",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/IceHorse/SK_IceHorse_Dark",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceHorse_Dark/MI_IceHorse_Dark_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceHorse_Dark/MI_IceHorse_Dark_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceHorse_Dark/MI_IceHorse_Dark_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "JetDragon",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/JetDragon/SK_JetDragon",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/JetDragon/MI_JetDragon_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/JetDragon/MI_JetDragon_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/JetDragon/MI_JetDragon_Extra_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "JetDragon_Skin001",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/JetDragon_Skin001/SK_JetDragon_Skin001",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/JetDragon/MI_JetDragon_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/JetDragon/MI_JetDragon_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/JetDragon/MI_JetDragon_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Kelpie",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Kelpie/SK_Kelpie",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Kelpie/MI_Kelpie_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Kelpie/MI_Kelpie_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Kelpie_Fire",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Kelpie/SK_Kelpie_Fire",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Kelpie_Fire/MI_Kelpie_Fire_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Kelpie_Fire/MI_Kelpie_Fire_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "KendoFrog",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KendoFrog/SK_KendoFrog",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/KendoFrog/MI_KendoFrog_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/KendoFrog/MI_KendoFrog_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/KendoFrog/MI_KendoFrog_Weapon_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "KendoFrog_Skin001",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KendoFrog_Skin001/SK_KendoFrog_Skin001",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/KendoFrog/MI_KendoFrog_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/KendoFrog/MI_KendoFrog_Eye_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/KendoFrog/MI_KendoFrog_Weapon_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "KingAlpaca",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KingAlpaca/SK_KingAlpaca",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/KingAlpaca/MI_KingAlpaca__Mouth_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/KingAlpaca/MI_KingAlpaca__Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/KingAlpaca/Ml_KingAlpaca_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "KingAlpaca_Ice",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KingAlpaca/SK_KingAlpaca_Ice",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/KingAlpaca_Ice/MI_KingAlpaca__Ice_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/KingAlpaca_Ice/MI_KingAlpaca_Ice_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/KingAlpaca_Ice/Ml_KingAlpaca_Ice_Body_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/KingAlpaca_Ice/MI_KingAlpaca__Ice_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "KingBahamut",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KingBahamut/SK_KingBahamut",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/KingBahamut/MI_KingBahamut_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/KingBahamut/MI_KingBahamut_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "KingBahamut_Dragon",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KingBahamut_Dragon/SK_KingBahamut_Dragon",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/KingBahamut_Dragon/MI_KingBahamut_Dragon_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/KingBahamut_Dragon/MI_KingBahamut_Dragon_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Kirin",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Kirin/SK_Kirin",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Kirin/MI_Kirin_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Kirin/MI_Kirin_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Kitsunebi",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Kitsunebi/SK_Kitsunebi",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Kitsunebi/MI_Pal_Fire_Kitsunebi_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Kitsunebi/MI_Kitsunebi_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Kitsunebi/MI_Kitsunebi_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Kitsunebi_Ice",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Kitsunebi_Ice/SK_Kitsunebi_Ice",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Kitsunebi_Ice/MI_Kitsunebi_Ice_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Kitsunebi_Ice/MI_Kitsunebi_Ice_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Kitsunebi_Ice/MI_Kitsunebi_Ice_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "LavaGirl",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LavaGirl/SK_LavaGirl",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/LavaGirl/MI_LavaGirl_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/LavaGirl/MI_LavaGirl_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/LavaGirl/MI_LavaGirl_Mouth_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/LavaGirl/MI_LavaGirl_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "LazyCatfish",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LazyCatfish/SK_LazyCatfish",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/LazyCatfish/MI_LazyCatfish_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/LazyCatfish/MI_LazyCatfish_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "LazyDragon",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LazyDragon/SK_LazyDragon",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/LazyDragon/MI_LazyDragon_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/LazyDragon/MI_LazyDragon_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "LazyDragon_Electric",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LazyDragon/SK_LazyDragon_Electric",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/LazyDragon_Electric/MI_LazyDragon_Body_2_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/LazyDragon_Electric/MI_LazyDragon_Electric_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/LazyDragon_Electric/MI_LazyDragon_Electric_Extra_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "LeafPrincess",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LeafPrincess/SK_LeafPrincess",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/LeafPrincess/MI_LeafPrincess_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/LeafPrincess/MI_LeafPrincess_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/LeafPrincess/MI_LeafPrincess_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "LilyQueen",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LilyQueen/SK_LilyQueen",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/LilyQueen/MI_LilyQueen_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/LilyQueen/MI_LilyQueen_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/LilyQueen/MI_LilyQueen_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "LilyQueen_Dark",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LilyQueen/SK_LilyQueen_Ice",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/LilyQueen_Ice/MI_LilyQueen_Ice_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/LilyQueen_Ice/MI_LilyQueen_Ice_Body_Jewel_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/LilyQueen_Ice/MI_LilyQueen_Ice_Eye_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/LilyQueen_Ice/MI_LilyQueen_Ice_Mouth_Inst"
+        },
+        {
+          "Index": "4",
+          "MatPath": "/Game/Mods/ShiningLuckies/LilyQueen_Ice/MI_LilyQueen_Ice_Extra_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "LittleBriarRose",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LittleBriarRose/SK_LittleBriarRose",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/LittleBriarRose/MI_SleepingBeauty_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/LittleBriarRose/MI_SleepingBeauty_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/LittleBriarRose/MI_SleepingBeauty_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "LizardMan",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LizardMan/SK_LizardMan",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/LizardMan/MI_Lizard_man_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/LizardMan/MI_Lizard_man_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "LizardMan_Fire",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LizardMan/SK_LizardMan_Fire",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/LizardMan_Fire/MI_Lizard_man_Fire_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/LizardMan_Fire/MI_Lizard_man_Fire_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Manticore",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Manticore/SK_Manticore",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Manticore/MI_Manticore_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Manticore/MI_Manticore_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Manticore/MI_Pal_Manticore_Fire02_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/Manticore/MI_Pal_Manticore_Fire01_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Manticore_Dark",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Manticore/SK_Manticore_Dark",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Manticore_Dark/MI_Manticore_Dark_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Manticore_Dark/MI_Manticore_Dark_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Manticore_Dark/MI_Manticore_Dark_Extra_02_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/Manticore_Dark/MI_Manticore_Dark_Extra_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "MimicDog",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/MimicDog/SK_MimicDog",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/MimicDog/MI_MimicDog_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/MimicDog/MI_MimicDog_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Monkey",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Monkey/SK_Monkey",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Monkey/MI_Monkey_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Monkey/MI_Monkey_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "MoonQueen",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/MoonQueen/SK_MoonQueen",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/MoonQueen/MI_MoonQueen_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/MoonQueen/MI_MoonQueen_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/MoonQueen/MI_MoonQueen_Extra_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "MoonQueen_moon",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/MoonQueen/SK_MoonQueen_moon",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/MoonQueen_Weapon/MI_MoonQueen_Body_Weapon_Inst1"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/MoonQueen_Weapon/MI_MoonQueen_Extra_Weapon_Inst1"
+        }
+      ]
+    },
+    {
+      "CharacterID": "MopBaby",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/MopBaby/SK_MopBaby",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/MopBaby/MI_MopBaby_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/MopBaby/MI_MopBaby_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "MopKing",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/MopKing/SK_MopKing",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/MopKing/MI_MopKing_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/MopKing/MI_MopKing_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "MushroomDragon",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/MushroomDragon/SK_MushroomDragon",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/MushroomDragon/MI_MushroomDragon_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/MushroomDragon/MI_MushroomDragon_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "MushroomDragon_Dark",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/MushroomDragon_Dark/SK_MushroomDragon_Dark",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/MushroomDragon_Dark/MI_MushroomDragon_Dark_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/MushroomDragon_Dark/MI_MushroomDragon_Dark_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Mutant",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Mutant/SK_Mutant",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Mutant/MI_Mutant_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Mutant/MI_Mutant_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Mutant/MI_Mutant_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "MysteryMask",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/MysteryMask/SK_MysteryMask",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/MysteryMask/MI_MysteryMask_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/MysteryMask/MI_MysteryMask_Jewel_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/MysteryMask/MI_MysteryMask_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "NaughtyCat",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/NaughtyCat/SK_NaughtyCat",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/NaughtyCat/MI_NaughtyCat_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/NaughtyCat/MI_NaughtyCat_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/NaughtyCat/MI_NaughtyCat_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "NegativeKoala",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/NegativeKoala/SK_NegativeKoala",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/NegativeKoala/MI_NegativeKoala_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/NegativeKoala/MI_NegativeKoala_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/NegativeKoala/MI_NegativeKoala_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "NegativeKoala_Skin001",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/NegativeKoala_Skin001/SK_NegativeKoala_Skin001",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/NegativeKoala/MI_NegativeKoala_Mouth_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/NegativeKoala/MI_NegativeKoala_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/NegativeKoala/MI_NegativeKoala_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "NegativeOctopus",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/NegativeOctopus/SK_NegativeOctopus",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/NegativeOctopus/MI_NegativeOctopus_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/NegativeOctopus/MI_NegativeOctopus_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "NightBlueHorse",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/NightBlueHorse/SK_NightBlueHorse",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/NightBlueHorse/MI_NightBlueHorse_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/NightBlueHorse/MI_NightBlueHorse_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/NightBlueHorse/MI_NightBlueHorse_Brow_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/NightBlueHorse/MI_NightBlueHorse_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "NightFox",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/NightFox/SK_NightFox",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/NightFox/MI_NightFox_Brow_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/NightFox/MI_NightFox_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/NightFox/MI_NightFox_Mouth_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/NightFox/MI_NightFox_Body_Inst"
+        },
+        {
+          "Index": "4",
+          "MatPath": "/Game/Mods/ShiningLuckies/NightFox/MI_NightFox_Body_Jewel_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "NightLady",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/NightLady/SK_NightLady",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/NightLady/MI_NightLady_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/NightLady/MI_NightLady_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/NightLady/MI_NightLady_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "NightLady_Dark",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/NightLady_Pink/SK_NightLady_Pink",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/NightLady_Pink/MI_NightLady_Pink_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/NightLady_Pink/MI_NightLady_Pink_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/NightLady_Pink/MI_NightLady_Pink_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Penguin",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin/SK_Penguin",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Penguin/MI_Penguin_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Penguin/MI_Penguin_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Penguin_Skin001",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin_Skin001/SK_Penguin_Skin001",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Penguin/MI_Penguin_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Penguin/MI_Penguin_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "PinkCat",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat/SK_PinkCat",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkCat/MI_PinkCat_Mouth_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkCat/MI_PinkCat_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkCat/MI_PinkCat_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "PinkCat_Skin001",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin001/PinkCat_Skin001",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkCat/MI_PinkCat_Mouth_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkCat/MI_PinkCat_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkCat/MI_PinkCat_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "PinkCat_Skin003",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin003/PinkCat_Skin003",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkCat/MI_PinkCat_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkCat/MI_PinkCat_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "PinkCat_Skin004",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin004/PinkCat_Skin004",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkCat/MI_PinkCat_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkCat/MI_PinkCat_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkCat/MI_PinkCat_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "PinkLizard",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkLizard/SK_PinkLizard",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkLizard/MI_PinkLizard_Brow_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkLizard/MI_PinkLizard_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkLizard/MI_PinkLizard_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "PinkRabbit",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkRabbit/SK_PinkRabbit",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkRabbit/MI_PinkRabbit_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkRabbit/MI_PinkRabbit_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkRabbit/MI_PinkRabbit_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "PinkRabbit_Grass",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkRabbit_Grass/SK_PinkRabbit_Grass",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkRabbit_Grass/MI_PinkRabbit_Grass_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkRabbit_Grass/MI_PinkRabbit_Grass_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/PinkRabbit_Grass/MI_PinkRabbit_Grass_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "PlantSlime",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PlantSlime/SK_PlantSlime",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/PlantSlime/MI_PlantSlime_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/PlantSlime/MI_PlantSlime_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "PlantSlime_Skin001",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PlantSlime_Skin001/SK_PlantSlime_Skin001",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/PlantSlime/MI_PlantSlime_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/PlantSlime/MI_PlantSlime_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "PurpleSpider",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PurpleSpider/SK_PurpleSpider",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/PurpleSpider/MI_PurpleSpider_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/PurpleSpider/MI_PurpleSpider_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/PurpleSpider/MI_PurpleSpider_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "QueenBee",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/QueenBee/SK_QueenBee",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/QueenBee/MI_QueenBee_Wing_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/QueenBee/MI_QueenBee_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/QueenBee/MI_QueenBee_Brow_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/QueenBee/MI_QueenBee_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "QueenBee_spear",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/QueenBee/SK_QueenBee_spear",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/QueenBee_Weapon/MI_QueenBee_Spear_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "RaijinDaughter",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/RaijinDaughter/SK_RaijinDaughter",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/RaijinDaughter/MI_RaijinDaughter_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/RaijinDaughter/Ml_RaijinDaughter_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "RaijinDaughter_Water",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/RaijinDaughter_Water/SK_RaijinDaughter_Water",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/RaijinDaughter_Water/MI_RaijinDaughter_Water_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/RaijinDaughter_Water/Ml_RaijinDaughter_Water_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "RedArmorBird",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/RedArmorBird/SK_RedArmorBird",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/RedArmorBird/MI_RedArmorBird_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/RedArmorBird/MI_RedArmorBird_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "RobinHood",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/RobinHood/SK_RobinHood",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/RobinHood/MI_RobinHood_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/RobinHood/MI_RobinHood_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "RobinHood_Ground",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/RobinHood/SK_RobinHood_Ground",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/RobinHood_Ground/MI_RobinHood_Ground_Body_Inst"
+        },
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/RobinHood_Ground/MI_RobinHood_Ground_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "RobinHood_arrow",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/RobinHood/SK_RobinHood_arrow",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/RobinHood_Weapon/MI_RobinHood_WeaponArrow_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "RobinHood_bow",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/RobinHood/SK_RobinHood_bow",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/RobinHood_Weapon/MI_RobinHood_WeaponBow_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Ronin",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Ronin/SK_Ronin",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Ronin/MI_Ronin_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Ronin/MI_Ronin_Extra_02_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Ronin/MI_Ronin_Eye_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/Ronin/MI_Ronin_Mouth_Inst"
+        },
+        {
+          "Index": "4",
+          "MatPath": "/Game/Mods/ShiningLuckies/Ronin/MI_Ronin_Weapon_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Ronin_Dark",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Ronin_Dark/SK_Ronin_Dark",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Ronin_Dark/MI_Ronin_Dark_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Ronin_Dark/MI_Ronin_Dark_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Ronin_Dark/MI_Ronin_Dark_Eye_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/Ronin_Dark/MI_Ronin_Dark_Mouth_Inst"
+        },
+        {
+          "Index": "4",
+          "MatPath": "/Game/Mods/ShiningLuckies/Ronin_Dark/MI_Ronin_Dark_Weapon_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "SaintCentaur",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SaintCentaur/SK_SaintCentaur",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/SaintCentaur/MI_SaintCentaur_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/SaintCentaur/MI_SaintCentaur_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/SaintCentaur/MI_SaintCentaur_Jewel_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "SakuraSaurus",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SakuraSaurus/SK_SakuraSaurus",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/SakuraSaurus/MI_SakuraSaurus_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/SakuraSaurus/MI_SakuraSaurus_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/SakuraSaurus/MI_SakuraSaurus_Brow_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/SakuraSaurus/MI_SakuraSaurus_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "SakuraSaurus_Water",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SakuraSaurus/SK_SakuraSaurus_water",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/SakuraSaurus_Water/MI_SakuraSaurus_Eye_Water_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/SakuraSaurus_Water/MI_SakuraSaurus_Mouth_Water_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/SakuraSaurus_Water/MI_SakuraSaurus_Water_Brow_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/SakuraSaurus_Water/MI_SakuraSaurus_Water_Body_Inst"
+        },
+        {
+          "Index": "4",
+          "MatPath": "/Game/Mods/ShiningLuckies/SakuraSaurus_Water/MI_SakuraSaurus_Extra_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "ScorpionMan",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/ScorpionMan/SK_ScorpionMan",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/ScorpionMan/MI_ScorpionMan_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/ScorpionMan/MI_ScorpionMan_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/ScorpionMan/MI_ScorpionMan_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Serpent",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Serpent/SK_Serpent",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Serpent/MI_Serpent_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Serpent/MI_Serpent_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Serpent_Ground",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Serpent/SK_Serpent_Ground",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Serpent_Ground/MI_Serpent_Eye_Ground_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Serpent_Ground/MI_Serpent_Ground_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "SharkKid",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SharkKid/SK_SharkKid",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/SharkKid/MI_SharkKid_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/SharkKid/MI_SharkKid_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "SharkKid_Fire",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SharkKid/SK_SharkKid_Fire",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/SharkKid_Fire/MI_SharkKid_Fire_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/SharkKid_Fire/MI_SharkKid_Eye_Fire_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "SheepBall",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SheepBall/SK_SheepBall",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/SheepBall/MI_Sheepball_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/SheepBall/MI_Sheepball_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/SheepBall/MI_Sheepball_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "SifuDog",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SifuDog/SK_SifuDog",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/SifuDog/MI_SifuDog_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/SifuDog/MI_SifuDog_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/SifuDog/MI_SifuDog_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "SkyDragon",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SkyDragon/SK_SkyDragon",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/SkyDragon/MI_SkyDragon_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/SkyDragon/MI_SkyDragon_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "SkyDragon_Skin001",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SkyDragon_Skin001/SK_SkyDragon_Skin001",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/SkyDragon/MI_SkyDragon_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/SkyDragon/MI_SkyDragon_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "SkyDragon_Grass",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SkyDragon_Grass/SK_SkyDragon_Grass",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/SkyDragon_Grass/MI_SkyDragon_Grass_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/SkyDragon_Grass/MI_SkyDragon_Grass_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "SmallArmadillo",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SmallArmadillo/SK_SmallArmadillo",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/SmallArmadillo/MI_SmallArmadillo_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/SmallArmadillo/MI_SmallArmadillo_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/SmallArmadillo/MI_SmallArmadillo_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "SnowTigerBeastman",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SnowTigerBeastman/SK_SnowTigerBeastman",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/SnowTigerBeastman/MI_SnowTigerBeastman_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/SnowTigerBeastman/MI_SnowTigerBeastman_Brow_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/SnowTigerBeastman/MI_SnowTigerBeastman_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "SoldierBee",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SoldierBee/SK_SoldierBee",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/SoldierBee/MI_SoldierBee_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/SoldierBee/MI_SoldierBee_Brow_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/SoldierBee/MI_SoldierBee_Eye_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/SoldierBee/MI_SoldierBee_Wing_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "SoldierBee_spear",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SoldierBee/SK_SoldierBee_spear",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/SoldierBee_Weapon/MI_SoldierBee_Spear_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Suzaku",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Suzaku/SK_Suzaku",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Suzaku/MI_Suzaku_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Suzaku/MI_Suzaku_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Suzaku_Water",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Suzaku/SK_Suzaku_Water",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Suzaku_Water/MI_Suzaku_Water_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Suzaku_Water/MI_Suzaku_Water_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Suzaku_Water/MI_Suzaku_Water_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "SweetsSheep",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SweetsSheep/SK_SweetsSheep",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/SweetsSheep/MI_SweetsSheep_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/SweetsSheep/MI_SweetsSheep_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "ThunderBird",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/ThunderBird/SK_ThunderBird",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/ThunderBird/MI_ThunderBird_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/ThunderBird/MI_ThunderBird_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "ThunderDog",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/ThunderDog/SK_ThunderDog",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/ThunderDog/MI_ThunderDog_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/ThunderDog/MI_ThunderDog_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "ThunderDragonMan",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/ThunderDragonMan/SK_ThunderDragonMan",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/ThunderDragonMan/MI_ThunderDragonMan_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/ThunderDragonMan/MI_ThunderDragonMan_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/ThunderDragonMan/MI_ThunderDragonMan_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Umihebi",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Umihebi/SK_Umihebi",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Umihebi/MI_Umihebi_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Umihebi/MI_Umihebi_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Umihebi_Fire",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Umihebi/SK_Umihebi_Fire",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Umihebi_Fire/MI_Umihebi_Fire_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Umihebi_Fire/MI_Umihebi_Eye_Fire_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Umihebi_Fire",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Umihebi/SK_Umihebi_Fire",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Umihebi_Fire/MI_Umihebi_Fire_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Umihebi_Fire/MI_Umihebi_Eye_Fire_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "VioletFairy",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/VioletFairy/SK_VioletFairy",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/VioletFairy/MI_VioletFairy_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/VioletFairy/MI_VioletFairy_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "VolcanicMonster",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/VolcanicMonster/SK_VolcanicMonster",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/VolcanicMonster/MI_VolcanicMonster_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/VolcanicMonster/MI_Pal_Fire_VolcanicMonster_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/VolcanicMonster/MI_VolcanicMonster_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "VolcanicMonster_Ice",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/VolcanicMonster/SK_VolcanicMonster_Ice",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/VolcanicMonster_Ice/MI_VolcanicMonster_Icr_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/VolcanicMonster_Ice/MI_VolcanicMonster_Ice_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/VolcanicMonster_Ice/MI_VolcanicMonster_Ice_Extra_02_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/VolcanicMonster_Ice/MI_VolcanicMonster_Ice_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WeaselDragon",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WeaselDragon/SK_WeaselDragon",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon/MI_WeaselDragon_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon/MI_WeaselDragon_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon/MI_WeaselDragon_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WeaselDragon_Skin001",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WeaselDragon_Skin001/SK_WeaselDragon_Skin001",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon/MI_WeaselDragon_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon/MI_WeaselDragon_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon/MI_WeaselDragon_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WeaselDragon_Skin002",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WeaselDragon_Skin002/SK_WeaselDragon_Skin002",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon/MI_WeaselDragon_Mouth_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon/MI_WeaselDragon_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon/MI_WeaselDragon_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WeaselDragon_Skin003",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WeaselDragon_Skin003/SK_WeaselDragon_Skin003",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon/MI_WeaselDragon_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon/MI_WeaselDragon_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon/MI_WeaselDragon_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WeaselDragon_Skin004",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WeaselDragon_Skin004/SK_WeaselDragon_Skin004",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon/MI_WeaselDragon_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon/MI_WeaselDragon_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon/MI_WeaselDragon_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WeaselDragon_Fire",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WeaselDragon_Fire/SK_WeaselDragon_Fire",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon_Fire/MI_WeaselDragon_Fire_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon_Fire/MI_WeaselDragon_Fire_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon_Fire/MI_WeaselDragon_Fire_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WeaselDragon_Fire_Skin002",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WeaselDragon_Fire_Skin002/SK_WeaselDragon_Fire_Skin002",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon_Fire/MI_WeaselDragon_Fire_Mouth_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon_Fire/MI_WeaselDragon_Fire_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon_Fire/MI_WeaselDragon_Fire_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WeaselDragon_Fire_Skin003",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WeaselDragon_Fire_Skin003/SK_WeaselDragon_Fire_Skin003",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon_Fire/MI_WeaselDragon_Fire_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon_Fire/MI_WeaselDragon_Fire_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/WeaselDragon_Fire/MI_WeaselDragon_Fire_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Werewolf",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Werewolf/SK_Werewolf",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Werewolf/MI_Werewolf_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Werewolf/MI_Werewolf_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Werewolf/MI_Werewolf_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Werewolf_Ice",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Werewolf_Ice/SK_Werewolf_Ice",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Werewolf_Ice/MI_Werewolf_Ice_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Werewolf_Ice/MI_Werewolf_Ice_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Werewolf_Ice/MI_Werewolf_Ice_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WhiteAlienDragon",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WhiteAlienDragon/SK_WhiteAlienDragon",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WhiteAlienDragon/MI_WhiteAlienDragon_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WhiteAlienDragon/MI_WhiteAlienDragon_Jewel_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/WhiteAlienDragon/MI_WhiteAlienDragon_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WhiteDeer",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WhiteDeer/SK_WhiteDeer",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WhiteDeer/Ml_WhiteDeer_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WhiteDeer/MI_WhiteDeer_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WhiteMoth",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WhiteMoth/SK_WhiteMoth",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WhiteMoth/MI_WhiteMoth_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WhiteMoth/MI_WhiteMoth_Brow_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/WhiteMoth/MI_WhiteMoth_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WhiteShieldDragon",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WhiteShieldDragon/SK_WhiteShieldDragon",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WhiteShieldDragon/MI_WhiteShieldDragon_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WhiteShieldDragon/MI_WhiteShieldDragon_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WhiteTiger",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WhiteTiger/SK_WhiteTiger",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WhiteTiger/MI_WhiteTiger_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WhiteTiger/MI_WhiteTiger_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WhiteTiger_Ground",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WhiteTiger_Ground/SK_WhiteTiger_Ground",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WhiteTiger_Ground/MI_WhiteTiger_Ground_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WhiteTiger_Ground/MI_WhiteTiger_Ground_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WindChimes",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WindChimes/SK_WindChimes",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WindChimes/MI_WindChimes_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WindChimes/MI_WindChimes_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/WindChimes/MI_WindChimes_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WindChimes_Ice",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WindChimes/SK_WindChimes_Ice",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WindChimes_Ice/MI_WindChimes_Ice_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WindChimes_Ice/MI_WindChimes_Eye_Ice_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/WindChimes_Ice/MI_WindChimes_Mouth_Ice_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WingGolem",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WingGolem/SK_WingGolem",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WingGolem/MI_WingGolem_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WingGolem/MI_WingGolem_Hair_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/WingGolem/MI_WingGolem_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WingGolem_cutter",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WingGolem/SK_WingGolem_cutter",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WingGolem_Weapon/MI_WingGolem_Body_Weapon_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WizardOwl",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WizardOwl/SK_WizardOwl",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WizardOwl/MI_WizardOwl_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WizardOwl/MI_WizardOwl_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "WoolFox",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WoolFox/SK_WoolFox",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/WoolFox/MI_WoolFox_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/WoolFox/MI_WoolFox_Mouth_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/WoolFox/MI_WoolFox_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Yeti",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Yeti/SK_Yeti",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Yeti/MI_Yeti_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Yeti/MI_Yeti_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Yeti_Grass",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Yeti/SK_Yeti_Grass",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Yeti_Grass/MI_Yeti_Grass_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Yeti_Grass/MI_Yeti_Eye_Grass_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/Yeti_Grass/MI_Yeti_Grass_Extra_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "GhostAnglerfish",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/GhostAnglerfish/SK_GhostAnglerfish",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/GhostAnglerfish/MI_GhostAnglerfish_Extra"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/GhostAnglerfish/MI_GhostAnglerfish_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/GhostAnglerfish/MI_GhostAnglerfish_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "GhostAnglerfish_Fire",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/GhostAnglerfish_Fire/SK_GhostAnglerfish_Fire",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/GhostAnglerfish_Fire/MI_GhostAnglerfish_Fire_Extra"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/GhostAnglerfish_Fire/MI_GhostAnglerfish_Fish_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/GhostAnglerfish_Fire/MI_GhostAnglerFish_Fire_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "BluePlatypus_Fire",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/BluePlatypus_Fire/SK_BluePlatypus_Fire",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/BluePlatypus_Fire/MI_BluePlatypus_Fire_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/BluePlatypus_Fire/MI_BluePlatypus_Fire_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "IceCrocodile",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/IceCrocodile/SK_IceCrocodile",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceCrocodile/MI_IceCrocodile_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceCrocodile/MI_IceCrocodile_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "BlueDragon_Ice",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/BlueDragon_Ice/SK_BlueDragon_Ice",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlueDragon_Ice/MI_BlueDragon_Ice_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/BlueDragon_Ice/MI_BlueDragon_Ice_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "IceNarwhal",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/IceNarwhal/SK_IceNarwhal",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceNarwhal/MI_IceNarwhal_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceNarwhal/MI_IceNarwhal_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceNarwhal/MI_IceNarwhal_Extra_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "IceNarwhal_Fire",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/IceNarwhal_Fire/SK_IceNarwhal_Fire",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceNarwhal_Fire/MI_IceNarwhal_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceNarwhal_Fire/MI_IceNarwhal_Fire_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceNarwhal_Fire/MI_IceNarwhal_Fire_Extra_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "IceSeal",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/IceSeal/SK_IceSeal",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceSeal/MI_IceSeal_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceSeal/MI_IceSeal_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceSeal/MI_IceSeal_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "IceWitch",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/IceWitch/SK_IceWitch",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceWitch/MI_IceWitch_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceWitch/MI_IceWitch_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceWitch/MI_IceWitch_Fire_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceWitch/MI_IceWitch_Eye_Inst"
+        },
+        {
+          "Index": "4",
+          "MatPath": "/Game/Mods/ShiningLuckies/IceWitch/MI_IceWitch_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "JellyfishFairy",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/JellyfishFairy/SK_JellyfishFairy",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/JellyfishFairy/MI_JellyfishFairy_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/JellyfishFairy/MI_JellyfishFairy_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/JellyfishFairy/MI_JellyfishFairy_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "JellyfishGhost",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/JellyfishGhost/SK_JellyfishGhost",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/JellyfishGhost/MI_JellyfishGhost_Mouth_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/JellyfishGhost/MI_JellyfishGhost_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "KendoFrog_Dark",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KendoFrog_Dark/SK_KendoFrog_Dark",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/KendoFrog_Dark/MI_KendoFrog_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/KendoFrog_Dark/MI_KendoFrog_Dark_Weapon_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/KendoFrog_Dark/MI_KendoFrog_Dark_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "LeafMomonga",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LeafMomonga/SK_LeafMomonga",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/LeafMomonga/MI_LeafMomonga_Mouth_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/LeafMomonga/MI_LeafMomonga_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/LeafMomonga/MI_LeafMomonga_Eye_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/LeafMomonga/MI_LeafMomonga_Blow_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "NegativeOctopus_Neutral",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/NegativeOctopus_Neutral/SK_NegativeOctopus_Neutral",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/NegativeOctopus_Neutral/MI_NegativeOctopus_Neutral_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/NegativeOctopus_Neutral/MI_NegativeOctopus_Neutral_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "OctopusGirl",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/OctopusGirl/SK_OctopusGirl",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/OctopusGirl/MI_OctopusGirl_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/OctopusGirl/MI_OctopusGirl_Blow_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/OctopusGirl/MI_OctopusGirl_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Penguin_Electric",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin_Electric/SK_Penguin_Electric",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Penguin_Electric/MI_Penguin_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Penguin_Electric/MI_Penguin_Electric_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "Plesiosaur",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Plesiosaur/SK_Plesiosaur",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/Plesiosaur/MI_Plesiosaur_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/Plesiosaur/MI_Plesiosaur_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "PoseidonOrca",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PoseidonOrca/SK_PoseidonOrca",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/PoseidonOrca/MI_PoseidonOrca_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/PoseidonOrca/MI_PoseidonOrca_Extra_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/PoseidonOrca/MI_PoseidonOrca_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "SnowPeafowl",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SnowPeafowl/SK_SnowPeafowl",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/SnowPeafowl/MI_SnowPeafowl_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/SnowPeafowl/MI_SnowPeafowl_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/SnowPeafowl/MI_SnowPeafowl_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "StuffedShark",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/StuffedShark/SK_StuffedShark",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/StuffedShark/MI_StuffedShark_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/StuffedShark/MI_StuffedShark_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "StuffedShark_Fire",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/StuffedShark_Fire/SK_StuffedShark_Fire",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/StuffedShark_Fire/MI_StuffedShark_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/StuffedShark_Fire/MI_StuffedShark_Fire_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "TentacleTurtle",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/TentacleTurtle/SK_TentacleTurtle",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/TentacleTurtle/MI_TentacleTurtle_Mouth_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/TentacleTurtle/MI_TentacleTurtle_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/TentacleTurtle/MI_TentacleTurtle_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "TentacleTurtle_Ground",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/TentacleTurtle_Ground/SK_TentacleTurtle_Ground",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/TentacleTurtle_Ground/MI_TentacleTurtle_Mouth_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/TentacleTurtle_Ground/MI_TentacleTurtle_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/TentacleTurtle_Ground/MI_TentacleTurtle_Ground_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "TropicalOstrich",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/TropicalOstrich/SK_TropicalOstrich",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/TropicalOstrich/MI_TropicalOstrich_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/TropicalOstrich/MI_TropicalOstrich_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "YakushimaBoss001",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/YakushimaBoss001/SK_YakushimaBoss001",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaBoss001/MI_YakushimaBoss001_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaBoss001/MI_YakushimaBoss001_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaBoss001/MI_YakushimaBoss001_Grass_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaBoss001/MI_YakushimaBoss_Eye_Inst"
+        },
+        {
+          "Index": "4",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaBoss001/MI_YakushimaBoss001_Hilight_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "YakushimaBoss001_Green",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/YakushimaBoss001_Green/SK_YakushimaBoss001_Green",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaBoss001_Green/MI_YakushimaBoss001_Green_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaBoss001_Green/MI_YakushimaBoss001_Green_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaBoss001_Green/MI_YakushimaBoss001_Grass_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaBoss001_Green/MI_YakushimaBoss_Eye_Inst"
+        },
+        {
+          "Index": "4",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaBoss001_Green/MI_YakushimaBoss001_Hilight_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "YakushimaBoss001_Small",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/YakushimaBoss001_Green/SK_YakushimaBoss001_Green",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaBoss001_Green/MI_YakushimaBoss001_Green_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaBoss001_Green/MI_YakushimaBoss001_Green_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaBoss001_Green/MI_YakushimaBoss001_Grass_Inst"
+        },
+        {
+          "Index": "3",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaBoss001_Green/MI_YakushimaBoss_Eye_Inst"
+        },
+        {
+          "Index": "4",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaBoss001_Green/MI_YakushimaBoss001_Hilight_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "YakushimaMonster001",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/YakushimaMonster001/SK_YakushimaMonster001",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster001/MI_YakushimaMonster001_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster001/MI_YakushimaMonster001_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "YakushimaMonster001_Blue",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/YakushimaMonster001_Blue/SK_YakushimaMonster001_Blue",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster001_Blue/MI_YakushimaMonster001_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster001_Blue/MI_YakushimaMonster001_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "YakushimaMonster001_Pink",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/YakushimaMonster001_Pink/SK_YakushimaMonster001_Pink",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster001_Pink/MI_YakushimaMonster001_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster001_Pink/MI_YakushimaMonster001_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "YakushimaMonster001_Red",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/YakushimaMonster001_Red/SK_YakushimaMonster001_Red",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster001_Red/MI_YakushimaMonster001_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster001_Red/MI_YakushimaMonster001_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "YakushimaMonster001_Purple",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/YakushimaMonster001_Purple/SK_YakushimaMonster001_Purple",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster001_Purple/MI_YakushimaMonster001_Extra_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster001_Purple/MI_YakushimaMonster001_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "YakushimaMonster002",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/YakushimaMonster002/SK_YakushimaMonster002",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster002/MI_YakushimaMonster002_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "YakushimaMonster003",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/YakushimaMonster003/SK_YakushimaMonster003",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster003/MI_YakushimaMonster003_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster003/MI_YakushimaMonster003_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster003/MI_YakushimaMonster003_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "YakushimaMonster003_Purple",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/YakushimaMonster003_Purple/SK_YakushimaMonster003_Purple",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster003_Purple/MI_YakushimaMonster003_Eye_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster003_Purple/MI_YakushimaMonster003_Purple_Body_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/YakushimaMonster003_Purple/MI_YakushimaMonster003_Mouth_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "CaptainPenguin_Black",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CaptainPenguin/SK_CaptainPenguin_Black",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/CaptainPenguin_Black/MI_CaptainPenguin_Brow_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/CaptainPenguin_Black/MI_CaptainPenguin_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/CaptainPenguin_Black/MI_CaptainPenguin_Black_Body_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "LazyCatfish_Gold",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LazyCatfish/SK_LazyCatfish_Gold",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/LazyCatfish_Gold/MI_LazyCatfish_Gold_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/LazyCatfish_Gold/MI_LazyCatfish_Eye_Inst"
+        }
+      ]
+    },
+    {
+      "CharacterID": "FlyingManta_Thunder",
+      "SkelMeshPath": "/Game/Pal/Model/Character/Monster/FlyingManta/SK_FlyingManta_Thunder",
+      "IsRarePal": "True",
+      "MatReplace": [
+        {
+          "Index": "0",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlyingManta_Thunder/MI_FlyingManta_Thunder_Body_Inst"
+        },
+        {
+          "Index": "1",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlyingManta_Thunder/MI_FlyingManta_Eye_Inst"
+        },
+        {
+          "Index": "2",
+          "MatPath": "/Game/Mods/ShiningLuckies/FlyingManta_Thunder/MI_FlyingManta_Mouth_Inst"
+        }
+      ]
+    }
+  ]
+}

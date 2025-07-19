@@ -1,0 +1,23 @@
+{
+  "PackName": "Birchs_MOOreChickens",
+  "SkelMeshSwap": [
+    {
+      "CharacterID": "Chickenpal",
+      "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Chikipi/Black/SK_Chikipi_Black"
+    },
+    {
+      "CharacterID": "Chickenpal",
+      "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Chikipi/Brown/SK_Chikipi_Brown"
+    },
+    {
+      "CharacterID": "Chickenpal",
+      "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Chikipi/Cornish/SK_Chikipi_Cornish"
+    },
+    {
+      "CharacterID": "Chickenpal",
+      "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Chikipi/Hamburg/SK_Chikipi_Hamburg"
+    },
+    {
+      "CharacterID": "Chickenpal",
+      "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Chikipi/White/SK_Chikipi_White"
+    }]}

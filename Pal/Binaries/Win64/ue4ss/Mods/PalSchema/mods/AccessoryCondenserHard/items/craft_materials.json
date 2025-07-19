@@ -1,0 +1,29 @@
+{
+  "PalItem_ToSell_01": {
+    "OverrideDescMsgID": "A gemstone-like ball collected from Pals. Can be used for crafting accessories or sold to a merchant for a high price."
+  },
+  "PalItem_ToSell_03": {
+    "OverrideDescMsgID": "A heart that never stops beating collected from Pals. Can be used for crafting accessories or sold to a merchant for a high price."
+  },
+  "PalItem_ToSell_04": {
+    "OverrideDescMsgID": "Extremely sharp claws collected from Pals. Can be used for crafting accessories or sold to a merchant for a high price."
+  },
+  "PalItem_ToSell_05": {
+    "OverrideDescMsgID": "Fluffy fur collected from Pals. Can be used for crafting accessories or sold to a merchant for a high price."
+  },
+  "Lotus_hp_01": {
+    "OverrideDescMsgID": "Small green flower that is extremely difficult to obtain. Needed to craft accessories and make Vital Remedy."
+  },
+  "Lotus_stamina_01": {
+    "OverrideDescMsgID": "Small yellow flower that is extremely difficult to obtain. Needed to craft accessories and make Stamina Remedy."
+  },
+  "Lotus_attack_01": {
+    "OverrideDescMsgID": "Small red flower that is extremely difficult to obtain. Needed to craft accessories and make Might Remedy."
+  },
+  "Ruby": {
+    "OverrideDescMsgID": "A gemstone that glows red. Can be used for crafting accessories or sold to a merchant for a high price."
+  },
+  "Sapphire": {
+    "OverrideDescMsgID": "A gemstone that glows blue. Can be used for crafting accessories or sold to a merchant for a high price."
+  }
+}

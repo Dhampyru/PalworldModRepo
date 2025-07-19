@@ -1,0 +1,20 @@
+﻿KismetDebuggerMod : 0
+CheatManagerEnablerMod : 1
+ActorDumperMod : 0
+ConsoleCommandsMod : 1
+ConsoleEnablerMod : 1
+SplitScreenMod : 0
+LineTraceMod : 0
+BPML_GenericFunctions : 1
+BPModLoaderMod : 1
+jsbLuaProfilerMod : 0
+TehExtraBaseArea-Client = 1
+BetterShieldFastButLowRegen = 1
+BetterRidingGroundMounts = 1
+FasterTrustGrowthx10 = 1
+AlternativePalSummon = 1
+TehExtraBaseArea = 1
+LessRestrictiveBuilding = 1
+LoginRewards = 1
+; Built-in keybinds, do not move up!
+Keybinds : 1

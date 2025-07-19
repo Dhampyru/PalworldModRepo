@@ -1,0 +1,260 @@
+{
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Alpaca/BP_Alpaca.BP_Alpaca_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1300.0,
+            "MaxAcceleration": 1300.0,
+            "MaxWalkSpeed": 560.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/MopKing/BP_MopKing.BP_MopKing_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 400.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Boar/BP_Boar.BP_Boar_C": {
+        "CharacterMovement": {
+            "MaxAcceleration": 600.0,
+            "GravityScale": 2.7,
+            "MaxStepHeight": 200.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Garm/BP_Garm.BP_Garm_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 900.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Deer/BP_Deer.BP_Deer_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1200.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Deer/BP_Deer_Ground.BP_Deer_Ground_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1200.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Kirin/BP_Kirin.BP_Kirin_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1400.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/FlameBuffalo/BP_FlameBuffalo.BP_FlameBuffalo_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 850.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/WeaselDragon/BP_WeaselDragon.BP_WeaselDragon_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1000.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/WeaselDragon/BP_WeaselDragon_Fire.BP_WeaselDragon_Fire_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1000.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/FeatherOstrich/BP_FeatherOstrich.BP_FeatherOstrich_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1200.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/GhostBeast/BP_GhostBeast.BP_GhostBeast_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1300.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/PurpleSpider/BP_PurpleSpider.BP_PurpleSpider_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1200.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/FireKirin/BP_FireKirin.BP_FireKirin_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1900.0,
+            "GravityScale": 2.9,
+            "SprintMaxSpeed": 1900.0,
+            "MaxWalkSpeed": 1100.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/FireKirin/BP_FireKirin_Dark.BP_FireKirin_Dark_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1900.0,
+            "GravityScale": 2.9,
+            "SprintMaxSpeed": 1900.0,
+            "MaxWalkSpeed": 1100.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/AmaterasuWolf/BP_AmaterasuWolf.BP_AmaterasuWolf_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1800.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/AmaterasuWolf/BP_AmaterasuWolf_Dark.BP_AmaterasuWolf_Dark_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1800.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/IceDeer/BP_IceDeer.BP_IceDeer_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 2000.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/FengyunDeeper/BP_FengyunDeeper.BP_FengyunDeeper_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 2100.0,
+            "AirControl": 1.3
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/FengyunDeeper/BP_FengyunDeeper_Electric.BP_FengyunDeeper_Electric_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 2100.0,
+            "AirControl": 1.3
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/KingBahamut/BP_KingBahamut.BP_KingBahamut_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 3500.0,
+            "WalkableFloorAngle": 2000.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/KingBahamut/BP_KingBahamut_Dragon.BP_KingBahamut_Dragon_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 3500.0,
+            "WalkableFloorAngle": 2000.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/MushroomDragon/BP_MushroomDragon.BP_MushroomDragon_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1100.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/MushroomDragon/BP_MushroomDragon_Dark.BP_MushroomDragon_Dark_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1100.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/IceHorse/BP_IceHorse.BP_IceHorse_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1400.0,
+            "AirControl": 2.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/IceHorse/BP_IceHorse_Dark.BP_IceHorse_Dark_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1400.0,
+            "AirControl": 2.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/BlackCentaur/BP_BlackCentaur.BP_BlackCentaur_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1800.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/SaintCentaur/BP_SaintCentaur.BP_SaintCentaur_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 2000.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/NightBlueHorse/BP_NightBlueHorse.BP_NightBlueHorse_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 2000.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/BlueThunderHorse/BP_BlueThunderHorse.BP_BlueThunderHorse_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 2200.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/GoldenHorse/BP_GoldenHorse.BP_GoldenHorse_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1950.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/WhiteDeer/BP_WhiteDeer.BP_WhiteDeer_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 2200.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/SnowTigerBeastman/BP_SnowTigerBeastman.BP_SnowTigerBeastman_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1800.0
+        }
+    },
+    
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/ThunderDog/BP_ThunderDog.BP_ThunderDog_C": {
+        "CharacterMovement": {
+            "GravityScale": 2.4,
+            "JumpZVelocity": 2000.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/ThunderDragonMan/BP_ThunderDragonMan.BP_ThunderDragonMan_C": {
+        "CharacterMovement": {
+            "JumpZVelocity": 1900.0,
+            "GravityScale": 1.7,
+            "AirControl": 1.5
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/SweetsSheep/BP_SweetsSheep.BP_SweetsSheep_C": {
+        "CharacterMovement": {
+            "GravityScale": 0.3,
+            "JumpZVelocity": 700.0
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/DarkScorpion/BP_DarkScorpion.BP_DarkScorpion_C": {
+        "CharacterMovement": {
+            "GravityScale": 1.3,
+            "JumpZVelocity": 1350.0
+        }
+    },
+    
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Manticore/BP_Manticore.BP_Manticore_C": {
+        "CharacterMovement": {
+            "GravityScale": 0.5,
+            "JumpZVelocity": 2000.0,
+            "AirControl": 1.5
+        }
+    },
+
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Manticore/BP_Manticore_Dark.BP_Manticore_Dark_C": {
+        "CharacterMovement": {
+            "GravityScale": 0.5,
+            "JumpZVelocity": 2000.0,
+            "AirControl": 1.5
+        }
+    }
+}

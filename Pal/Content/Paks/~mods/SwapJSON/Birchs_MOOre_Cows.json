@@ -1,0 +1,21 @@
+{
+      "PackName": "BW_MOOreCows",
+      "SkelMeshSwap": [
+            {
+                  "CharacterID": "CowPal",
+                  "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Mozzarina/Black/SK_Mozzarina_Black"
+            },
+            {
+                  "CharacterID": "CowPal",
+                  "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Mozzarina/Cream/SK_Mozzarina_Cream"
+            },
+            {
+                  "CharacterID": "CowPal",
+                  "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Mozzarina/Pink/SK_Mozzarina_Pink"
+            },
+            {
+                  "CharacterID": "CowPal",
+                  "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Mozzarina/Red/SK_Mozzarina_Red"
+            }
+      ]
+}

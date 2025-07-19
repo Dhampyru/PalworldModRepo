@@ -1,0 +1,23 @@
+{
+  "PackName": "Birchs_MOOre_Sheep",
+  "SkelMeshSwap": [
+    {
+      "CharacterID": "Sheepball",
+      "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Lamball/Black/SK_Lamball_Black"
+    },
+    {
+      "CharacterID": "Sheepball",
+      "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Lamball/Brown/SK_Lamball_Brown"
+    },
+    {
+      "CharacterID": "Sheepball",
+      "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Lamball/Half/SK_Lamball_Half"
+    },
+    {
+      "CharacterID": "Sheepball",
+      "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Lamball/Piebald/SK_Lamball_Piebald"
+    },
+    {
+      "CharacterID": "Sheepball",
+      "SkelMeshPath": "/Game/Mods/BirchwoodHollow/Lamball/White/SK_Lamball_White"
+    }]}

@@ -1,0 +1,799 @@
+{
+    "DT_ItemLotteryDataTable": {
+        
+        "1740": {
+            "MinNum": 10,
+            "MaxNum": 14
+        },
+
+        "1741": {
+            "MinNum": 10,
+            "MaxNum": 20
+        },
+
+        "1742": {
+            "MinNum": 6,
+            "MaxNum": 14
+        },
+
+        "1743": {
+            "MinNum": 60,
+            "MaxNum": 100
+        },
+
+        "1744": {
+            "MinNum": 20,
+            "MaxNum": 60
+        },
+
+        "1745": {
+            "MinNum": 6,
+            "MaxNum": 10
+        },
+
+        "1746": {
+            "MinNum": 6,
+            "MaxNum": 16
+        },
+
+        "1747": {
+            "MinNum": 6,
+            "MaxNum": 16
+        },
+        
+        "1748": {
+            "MinNum": 6,
+            "MaxNum": 20
+        },
+
+        "1749": {
+            "MinNum": 4,
+            "MaxNum": 10
+        },
+
+        "1750": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1751": {
+            "MinNum": 14,
+            "MaxNum": 20
+        },
+
+        "1752": {
+            "MinNum": 8,
+            "MaxNum": 16
+        },
+
+        "1753": {
+            "MinNum": 6,
+            "MaxNum": 12
+        },
+
+        "1754": {
+            "MinNum": 60,
+            "MaxNum": 100
+        },
+
+        "1755": {
+            "MinNum": 40,
+            "MaxNum": 80
+        },
+
+        "1756": {
+            "MinNum": 10,
+            "MaxNum": 14
+        },
+
+        "1757": {
+            "MinNum": 6,
+            "MaxNum": 10
+        },
+
+        "1758": {
+            "MinNum": 6,
+            "MaxNum": 16
+        },
+
+        "1759": {
+            "MinNum": 6,
+            "MaxNum": 16
+        },
+
+        "1760": {
+            "MinNum": 6,
+            "MaxNum": 20
+        },
+
+        "1761": {
+            "MinNum": 6,
+            "MaxNum": 14
+        },
+
+        "1762": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1763": {
+            "MinNum": 4,
+            "MaxNum": 6
+        },
+
+        "1764": {
+            "MinNum": 20,
+            "MaxNum": 46
+        },
+
+        "1765": {
+            "MinNum": 8,
+            "MaxNum": 16
+        },
+
+        "1766": {
+            "MinNum": 6,
+            "MaxNum": 12
+        },
+
+        "1767": {
+            "MinNum": 40,
+            "MaxNum": 80
+        },
+
+        "1768": {
+            "MinNum": 30,
+            "MaxNum": 100
+        },
+
+        "1769": {
+            "MinNum": 10,
+            "MaxNum": 14
+        },
+
+        "1770": {
+            "MinNum": 6,
+            "MaxNum": 10
+        },
+
+        "1771": {
+            "MinNum": 6,
+            "MaxNum": 16
+        },
+
+        "1772": {
+            "MinNum": 6,
+            "MaxNum": 16
+        },
+
+        "1773": {
+            "MinNum": 8,
+            "MaxNum": 16
+        },
+
+        "1774": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1775": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1776": {
+            "MinNum": 6,
+            "MaxNum": 8
+        },
+
+        "1777": {
+            "MinNum": 26,
+            "MaxNum": 30
+        },
+
+        "1778": {
+            "MinNum": 10,
+            "MaxNum": 20
+        },
+
+        "1779": {
+            "MinNum": 8,
+            "MaxNum": 16
+        },
+
+        "1780": {
+            "MinNum": 40,
+            "MaxNum": 80
+        },
+
+        "1781": {
+            "MinNum": 60,
+            "MaxNum": 100
+        },
+
+        "1782": {
+            "MinNum": 10,
+            "MaxNum": 14
+        },
+
+        "1783": {
+            "MinNum": 6,
+            "MaxNum": 10
+        },
+
+        "1784": {
+            "MinNum": 6,
+            "MaxNum": 16
+        },
+
+        "1785": {
+            "MinNum": 6,
+            "MaxNum": 16
+        },
+
+        "1786": {
+            "MinNum": 8,
+            "MaxNum": 16
+        },
+
+        "1787": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1788": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1789": {
+            "MinNum": 8,
+            "MaxNum": 10
+        },
+
+        "1790": {
+            "MinNum": 30,
+            "MaxNum": 34
+        },
+
+        "1791": {
+            "MinNum": 10,
+            "MaxNum": 20
+        },
+
+        "1792": {
+            "MinNum": 8,
+            "MaxNum": 16
+        },
+
+        "1793": {
+            "MinNum": 40,
+            "MaxNum": 80
+        },
+
+        "1794": {
+            "MinNum": 80,
+            "MaxNum": 120
+        },
+
+        "1795": {
+            "MinNum": 10,
+            "MaxNum": 14
+        },
+
+        "1796": {
+            "MinNum": 6,
+            "MaxNum": 12
+        },
+
+        "1797": {
+            "MinNum": 6,
+            "MaxNum": 12
+        },
+
+        "1798": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1799": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1800": {
+            "MinNum": 10,
+            "MaxNum": 12
+        },
+
+        "1801": {
+            "MinNum": 2,
+            "MaxNum": 2
+        },
+
+        "1802": {
+            "MinNum": 34,
+            "MaxNum": 40
+        },
+
+        "1803": {
+            "MinNum": 10,
+            "MaxNum": 20
+        },
+
+        "1804": {
+            "MinNum": 8,
+            "MaxNum": 16
+        },
+
+        "1805": {
+            "MinNum": 100,
+            "MaxNum": 160
+        },
+
+        "1806": {
+            "MinNum": 30,
+            "MaxNum": 60
+        },
+
+        "1807": {
+            "MinNum": 10,
+            "MaxNum": 14
+        },
+
+        "1808": {
+            "MinNum": 6,
+            "MaxNum": 12
+        },
+
+        "1809": {
+            "MinNum": 6,
+            "MaxNum": 14
+        },
+
+        "1810": {
+            "MinNum": 6,
+            "MaxNum": 14
+        },
+
+        "1811": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1812": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1813": {
+            "MinNum": 12,
+            "MaxNum": 14
+        },
+
+        "1814": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1815": {
+            "MinNum": 40,
+            "MaxNum": 44
+        },
+
+        "1816": {
+            "MinNum": 10,
+            "MaxNum": 20
+        },
+
+        "1817": {
+            "MinNum": 8,
+            "MaxNum": 16
+        },
+
+        "1818": {
+            "MinNum": 30,
+            "MaxNum": 60
+        },
+
+        "1819": {
+            "MinNum": 60,
+            "MaxNum": 100
+        },
+
+        "1820": {
+            "MinNum": 8,
+            "MaxNum": 16
+        },
+
+        "1821": {
+            "MinNum": 6,
+            "MaxNum": 14
+        },
+
+        "1822": {
+            "MinNum": 6,
+            "MaxNum": 14
+        },
+
+        "1823": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1824": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1825": {
+            "MinNum": 14,
+            "MaxNum": 16
+        },
+
+        "1826": {
+            "MinNum": 4,
+            "MaxNum": 6
+        },
+
+        "1827": {
+            "MinNum": 20,
+            "MaxNum": 40
+        },
+
+        "1828": {
+            "MinNum": 20,
+            "MaxNum": 40
+        },
+
+        "1829": {
+            "MinNum": 20,
+            "MaxNum": 40
+        },
+
+        "1830": {
+            "MinNum": 20,
+            "MaxNum": 40
+        },
+
+        "1831": {
+            "MinNum": 20,
+            "MaxNum": 40
+        },
+
+        "1832": {
+            "MinNum": 20,
+            "MaxNum": 40
+        },
+
+        "1833": {
+            "MinNum": 20,
+            "MaxNum": 40
+        },
+
+        "1834": {
+            "MinNum": 20,
+            "MaxNum": 40
+        },
+
+        "1835": {
+            "MinNum": 20,
+            "MaxNum": 40
+        },
+
+        "1836": {
+            "MinNum": 20,
+            "MaxNum": 40
+        },
+
+        "1837": {
+            "MinNum": 10,
+            "MaxNum": 24
+        },
+
+        "1838": {
+            "MinNum": 10,
+            "MaxNum": 22
+        },
+
+        "1839": {
+            "MinNum": 10,
+            "MaxNum": 20
+        },
+
+        "1840": {
+            "MinNum": 8,
+            "MaxNum": 18
+        },
+
+        "1841": {
+            "MinNum": 8,
+            "MaxNum": 16
+        },
+
+        "1842": {
+            "MinNum": 6,
+            "MaxNum": 14
+        },
+
+        "1843": {
+            "MinNum": 6,
+            "MaxNum": 12
+        },
+
+        "1844": {
+            "MinNum": 6,
+            "MaxNum": 10
+        },
+
+        "1845": {
+            "MinNum": 40,
+            "MaxNum": 100
+        },
+
+        "1846": {
+            "MinNum": 20,
+            "MaxNum": 60
+        },
+
+        "1847": {
+            "MinNum": 10,
+            "MaxNum": 30
+        },
+
+        "1848": {
+            "MinNum": 40,
+            "MaxNum": 100
+        },
+
+        "1849": {
+            "MinNum": 30,
+            "MaxNum": 60
+        },
+
+        "1850": {
+            "MinNum": 20,
+            "MaxNum": 50
+        },
+
+        "1851": {
+            "MinNum": 20,
+            "MaxNum": 40
+        },
+
+        "1852": {
+            "MinNum": 20,
+            "MaxNum": 50
+        },
+
+        "1853": {
+            "MinNum": 10,
+            "MaxNum": 20
+        },
+
+        "1854": {
+            "MinNum": 10,
+            "MaxNum": 20
+        },
+
+        "1855": {
+            "MinNum": 10,
+            "MaxNum": 20
+        },
+
+        "1856": {
+            "MinNum": 10,
+            "MaxNum": 20
+        },
+
+        "1857": {
+            "MinNum": 10,
+            "MaxNum": 20
+        },
+
+        "1858": {
+            "MinNum": 6,
+            "MaxNum": 10
+        },
+
+        "1859": {
+            "MinNum": 6,
+            "MaxNum": 10
+        },
+
+        "1860": {
+            "MinNum": 6,
+            "MaxNum": 10
+        },
+
+        "1861": {
+            "MinNum": 60,
+            "MaxNum": 100
+        },
+
+        "1862": {
+            "MinNum": 60,
+            "MaxNum": 100
+        },
+
+        "1863": {
+            "MinNum": 40,
+            "MaxNum": 60
+        },
+
+        "1864": {
+            "MinNum": 40,
+            "MaxNum": 80
+        },
+
+        "1865": {
+            "MinNum": 20,
+            "MaxNum": 80
+        },
+
+        "1866": {
+            "MinNum": 40,
+            "MaxNum": 80
+        },
+
+        "1867": {
+            "MinNum": 40,
+            "MaxNum": 80
+        },
+
+        "1868": {
+            "MinNum": 40,
+            "MaxNum": 80
+        },
+
+        "1869": {
+            "MinNum": 30,
+            "MaxNum": 60
+        },
+
+        "1870": {
+            "MinNum": 30,
+            "MaxNum": 60
+        },
+
+        "1871": {
+            "MinNum": 12,
+            "MaxNum": 20
+        },
+
+        "1872": {
+            "MinNum": 10,
+            "MaxNum": 18
+        },
+
+        "1873": {
+            "MinNum": 8,
+            "MaxNum": 16
+        },
+
+        "1874": {
+            "MinNum": 6,
+            "MaxNum": 14
+        },
+
+        "1875": {
+            "MinNum": 2,
+            "MaxNum": 2
+        },
+
+        "1876": {
+            "MinNum": 2,
+            "MaxNum": 2
+        },
+
+        "1877": {
+            "MinNum": 2,
+            "MaxNum": 2
+        },
+        
+        "1878": {
+            "MinNum": 2,
+            "MaxNum": 2
+        },
+
+        "1879": {
+            "MinNum": 2,
+            "MaxNum": 2
+        },
+
+        "1881": {
+            "MinNum": 2,
+            "MaxNum": 2
+        },
+
+        "1882": {
+            "MinNum": 2,
+            "MaxNum": 2
+        },
+
+        "1883": {
+            "MinNum": 2,
+            "MaxNum": 2
+        },
+
+        "1884": {
+            "MinNum": 2,
+            "MaxNum": 2
+        },
+
+        "1885": {
+            "MinNum": 10,
+            "MaxNum": 20
+        },
+
+        "1886": {
+            "MinNum": 2,
+            "MaxNum": 6
+        },
+
+        "1887": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1888": {
+            "MinNum": 20,
+            "MaxNum": 30
+        },
+
+        "1889": {
+            "MinNum": 10000,
+            "MaxNum": 30000
+        },
+
+        "1890": {
+            "MinNum": 60,
+            "MaxNum": 100
+        },
+
+        "1891": {
+            "MinNum": 4,
+            "MaxNum": 6
+        },
+
+        "1892": {
+            "MinNum": 40,
+            "MaxNum": 60
+        },
+
+        "1893": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1894": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1895": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1896": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1897": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1898": {
+            "MinNum": 2,
+            "MaxNum": 4
+        },
+
+        "1899": {
+            "MinNum": 2,
+            "MaxNum": 4
+        }
+    }
+}
