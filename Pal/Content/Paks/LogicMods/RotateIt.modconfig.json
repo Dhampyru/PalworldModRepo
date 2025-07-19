@@ -2,14 +2,14 @@
   "TriggerKey": {
     "type": "string",
     "desc": "triggerKey",
-    "init": "F4",
-    "live": "F4"
+    "init": "F5",
+    "live": "F5"
   },
   "TriggerKeyLock": {
     "type": "string",
     "desc": "triggerKeyLock",
-    "init": "F5",
-    "live": "F5"
+    "init": "F6",
+    "live": "F6"
   },
   "Copy": {
     "type": "string",
