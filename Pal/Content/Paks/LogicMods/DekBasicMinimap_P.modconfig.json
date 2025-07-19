@@ -5,11 +5,6 @@
         "vers": "3.6",
         "auth": "DekitaRPG",
         "desc": "Adds a basic minimap to the game ui.",
-        "link": {
-            "nexus-mod-id": "146",
-            "curse-slug": "blueprint-code-mods/basic-minimap",
-            "donate": "https://www.patreon.com/DekitaRPG"
-        }
     },
     "General": {
         "type": "object",
