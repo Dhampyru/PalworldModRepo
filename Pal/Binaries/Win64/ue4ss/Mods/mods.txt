@@ -8,14 +8,14 @@ LineTraceMod : 0
 BPML_GenericFunctions : 1
 BPModLoaderMod : 1
 jsbLuaProfilerMod : 0
-DekModConfigMenu: 1
-TehExtraBaseArea-Client = 1
-BetterShieldFastButLowRegen = 1
-BetterRidingGroundMounts = 1
-FasterTrustGrowthx10 = 1
-AlternativePalSummon = 1
-TehExtraBaseArea = 1
-LessRestrictiveBuilding = 1
-LoginRewards = 1
+DekModConfigMenu : 1
+TehExtraBaseArea-Client : 1
+BetterShieldFastButLowRegen : 1
+BetterRidingGroundMounts : 1
+FasterTrustGrowthx10 : 1
+AlternativePalSummon : 1
+TehExtraBaseArea : 1
+LessRestrictiveBuilding : 1
+LoginRewards : 1
 ; Built-in keybinds, do not move up!
 Keybinds : 1
