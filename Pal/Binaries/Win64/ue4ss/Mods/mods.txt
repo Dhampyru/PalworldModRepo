@@ -19,5 +19,6 @@ LessRestrictiveBuilding : 1
 LoginRewards : 1
 CustomPalSize : 1
 StopDropRoll : 1
+TunedRaidsHarder : 1
 ; Built-in keybinds, do not move up!
 Keybinds : 1
