@@ -12,7 +12,7 @@ local _TehEBRConfig = {
     -- Default: 2000.0 | How far away from the base the pal combat range is increased by. Shouldn't need to increase this
     BaseCampPalCombatRange_AddCampRange = 2000.0,
     -- Default: 1500.0 | The minimum distance between bases. Can be set to 0 to allow bases to overlap, but this is not recommended
-    BaseCampNeighborMinimumDistance = 1500.0,
+    BaseCampNeighborMinimumDistance = 500.0,
 }
 
 return _TehEBRConfig
