@@ -10,6 +10,13 @@
 						"ProductNum": 1,
 						"Stock": 0
 					},
+					{	/*Implant: Artisan*/
+						"StaticItemId": "PalPassiveSkillChange_CraftSpeed_up2",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 50,
+						"ProductNum": 1,
+						"Stock": 0
+					},
 					{	/*Implant: Lord of the Sea*/
 						"StaticItemId": "PalPassiveSkillChange_ElementBoost_Aqua_2_PAL",
 						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",

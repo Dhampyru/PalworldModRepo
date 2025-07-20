@@ -1,0 +1,136 @@
+{
+  "DT_PalDropItem": {
+    "PREDATOR_Gorilla000": {
+      "min1": 3,
+      "Max1": 3
+    },
+    "PREDATOR_BirdDragon000": {
+      "min1": 3,
+      "Max1": 3
+    },
+    "PREDATOR_Garm000": {
+      "min1": 3,
+      "Max1": 3
+    },
+    "PREDATOR_PinkLizard000": {
+      "min1": 3,
+      "Max1": 3
+    },
+    "PREDATOR_SifuDog000": {
+      "min1": 3,
+      "Max1": 3
+    },
+    "PREDATOR_GrassPanda000": {
+      "min1": 3,
+      "Max1": 3
+    },
+    "PREDATOR_LazyDragon000": {
+      "min1": 3,
+      "Max1": 6
+    },
+    "PREDATOR_PurpleSpider000": {
+      "min1": 3,
+      "Max1": 6
+    },
+    "PREDATOR_MysteryMask000": {
+      "min1": 3,
+      "Max1": 6
+    },
+    "PREDATOR_NightBlueHorse000": {
+      "min1": 3,
+      "Max1": 6
+    },
+    "PREDATOR_ThunderDog000": {
+      "min1": 3,
+      "Max1": 6
+    },
+    "PREDATOR_RedArmorBird000": {
+      "min1": 3,
+      "Max1": 6
+    },
+    "PREDATOR_GhostBeast000": {
+      "min1": 3,
+      "Max1": 6
+    },
+    "PREDATOR_FlowerDinosaur000": {
+      "min1": 3,
+      "Max1": 6
+    },
+    "PREDATOR_VolcanicMonster_Ice000": {
+      "min1": 3,
+      "Max1": 6
+    },
+    "PREDATOR_DrillGame000": {
+      "min1": 6,
+      "Max1": 9
+    },
+    "PREDATOR_Umihebi_Fire000": {
+      "min1": 6,
+      "Max1": 9
+    },
+    "PREDATOR_GoldenHorse000": {
+      "min1": 6,
+      "Max1": 9
+    },
+    "PREDATOR_FeatherOstrich000": {
+      "min1": 6,
+      "Max1": 9
+    },
+    "PREDATOR_ScorpionMan000": {
+      "min1": 6,
+      "Max1": 9
+    },
+    "PREDATOR_WhiteTiger_Ground000": {
+      "min1": 6,
+      "Max1": 9
+    },
+    "PREDATOR_AmaterasuWolf000": {
+      "min1": 6,
+      "Max1": 12
+    },
+    "PREDATOR_Horus_Water000": {
+      "min1": 6,
+      "Max1": 12
+    },
+    "PREDATOR_Werewolf_Ice000": {
+      "min1": 6,
+      "Max1": 12
+    },
+    "PREDATOR_Yeti000": {
+      "min1": 6,
+      "Max1": 12
+    },
+    "PREDATOR_Manticore_Dark000": {
+      "min1": 6,
+      "Max1": 12
+    },
+    "PREDATOR_FairyDragon000": {
+      "min1": 9,
+      "Max1": 12
+    },
+    "PREDATOR_MushroomDragon000": {
+      "min1": 9,
+      "Max1": 12
+    },
+    "PREDATOR_GrimGirl000": {
+      "min1": 9,
+      "Max1": 12
+    },
+    "PREDATOR_HadesBird_Electric000": {
+      "min1": 12,
+      "Max1": 12
+    },
+    "PREDATOR_Ronin_Dark000": {
+      "min1": 12,
+      "Max1": 12
+    },
+    "PREDATOR_CandleGhost000": {
+      "min1": 12,
+      "Max1": 12
+    },
+    "PREDATOR_Baphomet_Dark000": {
+      "min1": 12,
+      "Max1": 12
+    }
+  }
+}

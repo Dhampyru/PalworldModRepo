@@ -1,10 +1,5 @@
 {
 	"DT_OperatingTablePassiveSkillDataTable": {
-		"PAL_CorporateSlave": {	/*Implant: Work Slave*/
-			"PassiveSkill": "PAL_CorporateSlave",
-			"Price": 25000,
-			"RequireItemId": "PalPassiveSkillChange_PAL_CorporateSlave"
-		},
 		"SwimSpeed_up_1": {	/*Implant: Sleek Stroke*/
 			"PassiveSkill": "SwimSpeed_up_1",
 			"Price": 25000,
@@ -104,6 +99,16 @@
 			"PassiveSkill": "Deffence_up3",
 			"Price": 100000,
 			"RequireItemId": "PalPassiveSkillChange_Deffence_up3"
+		},
+		"PAL_CorporateSlave": {	/*Implant: Work Slave*/
+			"PassiveSkill": "PAL_CorporateSlave",
+			"Price": 25000,
+			"RequireItemId": "PalPassiveSkillChange_PAL_CorporateSlave"
+		},
+		"CraftSpeed_up2": {	/*Implant: Artisan*/
+			"PassiveSkill": "CraftSpeed_up2",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_CraftSpeed_up2"
 		},
 		"CraftSpeed_up3": {	/*Implant: Remarkable Craftsmanship*/
 			"PassiveSkill": "CraftSpeed_up3",

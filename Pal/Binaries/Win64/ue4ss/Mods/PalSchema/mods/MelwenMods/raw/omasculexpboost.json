@@ -1,0 +1,19 @@
+{
+	"DT_PassiveSkill_Main": {
+		"PalExp_Increase_1": {
+			"EffectValue1": 25.0
+		},
+		"PalExp_Increase_2": {
+			"EffectValue1": 50.0
+		},
+		"PalExp_Increase_3": {
+			"EffectValue1": 100.0
+		},
+		"PalExp_Increase_4": {
+			"EffectValue1": 175.0
+		},
+		"PalExp_Increase_5": {
+			"EffectValue1": 250.0
+		}
+	}
+}

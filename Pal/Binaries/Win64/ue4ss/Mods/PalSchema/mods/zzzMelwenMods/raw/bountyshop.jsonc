@@ -34,7 +34,7 @@
 					{	/*Implant: Nimble*/
 						"StaticItemId": "PalPassiveSkillChange_MoveSpeed_up_1",
 						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
-						"OverridePrice": 70,
+						"OverridePrice": 15,
 						"ProductNum": 1,
 						"Stock": 0
 					},
