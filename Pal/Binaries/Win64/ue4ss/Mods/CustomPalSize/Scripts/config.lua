@@ -6,7 +6,7 @@ local config = {}
 -- Settings
 
 -- Rare pals
-config.affectsRarePalsOnly = false
+config.affectsRarePalsOnly = true
 config.scaleRarePal = 0.3
 
 -- XL pals
