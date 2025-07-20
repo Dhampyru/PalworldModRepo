@@ -1,0 +1,142 @@
+{
+	"DT_StatusEffectFood": {
+		"Salad": {	// Salad
+			"EffectTime": 6000
+		},
+		"Omelet": {	// Omelet
+			"EffectTime": 6000
+		},
+		"FriedVegetables": {	// Stir-Fried Veggies
+			"EffectTime": 6000
+		},
+		"HotDog": {	// Hot Dog
+			"EffectTime": 6000
+		},
+		"Pancake": {	// Pancake
+			"EffectTime": 6000
+		},
+		"MarinatedMushrooms": {	// Marinated Mushrooms
+			"EffectTime": 6000
+		},
+		"MushroomSoup": {	// Mushroom Soup
+			"EffectTime": 6000
+		},
+		"Carbonara": {	// Carbonara
+			"EffectTime": 6000
+		},
+		"BLT": {	// BLT
+			"EffectTime": 6000
+		},
+		"Hamburger": {	// Hamburger
+			"EffectTime": 6000
+		},
+		"CheeseBurger": {	// Cheeseburger
+			"EffectTime": 6000
+		},
+		"Pizza": {	// Pizza
+			"EffectTime": 6000
+		},
+		"MeatSauce": {	// Bolognese Sauce
+			"EffectTime": 6000
+		},
+		"MushroomStew": {	// Mushroom Stew
+			"EffectTime": 6000
+		},
+		"Opium": {	// Suspicious Juice
+			"EffectTime": 1000
+		},
+		"Narcotic": {	// Strange Juice
+			"EffectTime": 1000
+		},
+		"ChickenSaute": {	// Chikipi Sauté
+			"EffectTime": 6000
+		},
+		"GrilledSheepHerbs": {	// Herb Roasted Lamball
+			"EffectTime": 6000
+		},
+		"GenghisKhan": {	// Grilled Lamball
+			"EffectTime": 6000
+		},
+		"Eaglestew": {	// Stewed Galeclaw
+			"EffectTime": 6000
+		},
+		"BaconEggs": {	// Rushoar Bacon 'n' Eggs
+			"EffectTime": 6000
+		},
+		"StewedIceDeer": {	// Reindrix Stew
+			"EffectTime": 6000
+		},
+		"FriedChicken": {	// Fried Chikipi
+			"EffectTime": 6000
+		},
+		"HotDog_2": {	// Rushoar Hot Dog
+			"EffectTime": 6000
+		},
+		"DeerLocoMoco": {	// Eikthyrdeer Loco Moco
+			"EffectTime": 6000
+		},
+		"DeerStew": {	// Eikthyrdeer Stew
+			"EffectTime": 6000
+		},
+		"Hamburger_2": {	// Mozzarina Hamburger
+			"EffectTime": 6000
+		},
+		"Cheeseburger_2": {	// Mozzarina Cheeseburger
+			"EffectTime": 6000
+		},
+		"FriedKelpie": {	// Fried Kelpsea
+			"EffectTime": 6000
+		},
+		"Chowder": {	// Dumud Chowder
+			"EffectTime": 6000
+		},
+		"MushroomJuice": {	// Mysterious Mushroom Juice
+			"EffectTime": 1000
+		},
+		"PoisonMushroom": {	// Mysterious Mushroom
+			"EffectTime": 600
+		},
+		"Gyoza": {	// Rushoar Gyoza
+			"EffectTime": 6000
+		},
+		"StirFriedVegetables": {	// Stir-Fried Vegetables
+			"EffectTime": 6000
+		},
+		"PotatoChips": {	// French Fries
+			"EffectTime": 6000
+		},
+		"Yakisoba": {	// Broncherry Fried Noodles
+			"EffectTime": 6000
+		},
+		"SpringRolls": {	// Spring Rolls
+			"EffectTime": 6000
+		},
+		"Gratin": {	// Gratin
+			"EffectTime": 6000
+		},
+		"Minestrone": {	// Minestrone
+			"EffectTime": 6000
+		},
+		"Curry": {	// Mammorest Curry
+			"EffectTime": 6000
+		},
+		"MeatAndPotatoes": {	// Galeclaw Nikujaga
+			"EffectTime": 6000
+		},
+		"Quiche": {	// Mushroom Quiche
+			"EffectTime": 6000
+		},
+		"OctopusGirl_Takoyaki": {	// Fried Gloopie Balls
+			"EffectTime": 6000
+		},
+		"JellyfishFairy_jelly": {	// Jelliette's Jiggly Jelly
+			"EffectTime": 6000
+		},
+		"JellyfishGhost_jelly": {	// Jellroy's Jolly Jelly
+			"EffectTime": 6000
+		},
+		"Seafood_Salada": {	// Seafood Salad
+			"EffectTime": 6000
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"DT_StatusEffectFood": {
+		"Potion_Low": {	// Low Quality Recovery Meds
+			"EffectTime": 6000
+		},
+		"Potion": {	// Recovery Meds
+			"EffectTime": 6000
+		},
+		"Potion_High": {	// High Quality Recovery Meds
+			"EffectTime": 6000
+		},
+		"Potion_Extreme": {	// Advanced Recovery Meds
+			"EffectTime": 6000
+		}
+	}
+}
