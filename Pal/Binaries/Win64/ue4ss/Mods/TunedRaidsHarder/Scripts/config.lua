@@ -19,13 +19,13 @@ local palConfig = {
 	InvadeOccurablePlayerLevel = 2,
 	
 	-- Raid party spawn this far from the base min, default is 10000
-	InvadeStartPoint_BaseCampRadius_Min_cm = 25000,
+	InvadeStartPoint_BaseCampRadius_Min_cm = 17000,
 	
 	-- Raid party spawn this far from the base max, default is 50000
-	InvadeStartPoint_BaseCampRadius_Max_cm = 40000
+	InvadeStartPoint_BaseCampRadius_Max_cm = 37000
 	
 	-- Minimum delay between raids, default is 30
-	--InvadeCollTime_Min_Minutes = 0,
+	---InvadeCollTime_Min_Minutes = 0,
 	
 	-- Maximum delay between raids, default is 120
 	--InvadeCollTime_Max_Minutes = 1
