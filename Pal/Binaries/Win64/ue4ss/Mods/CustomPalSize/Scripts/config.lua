@@ -12,11 +12,11 @@ config.scaleRarePal = 0.3
 
 -- XL pals
 config.affectsXL = true
-config.scaleXL = 0.7
+config.scaleXL = 0.6
 
 -- L pals
 config.affectsL = true
-config.scaleL = 0.7
+config.scaleL = 0.6
 
 -- M pals
 config.affectsM = true
