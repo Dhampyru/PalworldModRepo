@@ -8,7 +8,6 @@ LineTraceMod : 0
 BPML_GenericFunctions : 1
 BPModLoaderMod : 1
 jsbLuaProfilerMod : 0
-DekModConfigMenu : 1
 BetterShieldFastButLowRegen : 1
 BetterRidingGroundMounts : 1
 FasterTrustGrowthx10 : 1
