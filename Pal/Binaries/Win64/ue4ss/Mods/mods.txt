@@ -18,5 +18,6 @@ LoginRewards : 1
 StopDropRoll : 1
 TunedRaidsHarder : 1
 Max World Setting 1000 : 1
+PalKillRewards : 1
 ; Built-in keybinds, do not move up!
 Keybinds : 1
