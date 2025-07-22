@@ -20,7 +20,7 @@ config.scaleL = 0.7
 
 -- M pals
 config.affectsM = true
-config.scaleM = 0.8
+config.scaleM = 0.7
 
 -- S pals
 config.affectsS = true
