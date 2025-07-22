@@ -28,7 +28,7 @@ config.scaleS = 0.6
 
 -- XS pals
 config.affectsXS = true
-config.scaleXS = 0.5
+config.scaleXS = 0.6
 
 --------------------------------------------------------------------------------
 
