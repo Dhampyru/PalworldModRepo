@@ -1,8 +1,0 @@
-{
-    /////////////////////////////////////////////////////////////////
-    // Beam Sword
-    "BP_BeamSword_C":{
-        "IsOverrideAnimRateScale": true,
-        "OverrideAnimRateScale": 8.0
-    }
-}
