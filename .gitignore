@@ -5,6 +5,11 @@
 /Intermediate/
 /Saved/
 
+# Ignore specific Palworld player specific files
+DekBasicMinimap_P.modconfig.json
+PalAnalyzerConfig.json
+RotateIt.modconfig.json
+
 # Visual Studio 2015 user specific files
 .vs/
 .vscode/
