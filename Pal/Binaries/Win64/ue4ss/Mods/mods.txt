@@ -17,7 +17,6 @@ AlternativePalSummon : 1
 TehExtraBaseArea : 1
 LessRestrictiveBuilding : 1
 LoginRewards : 1
-CustomPalSize : 1
 StopDropRoll : 1
 TunedRaidsHarder : 1
 Max World Setting 1000 : 1
