@@ -1,0 +1,293 @@
+{
+    "PackName": "Immersive Skins Halloween 2024",
+    "SkelMeshSwap":[
+        {
+            "CharacterID": "PinkCat",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin003/SK_PinkCat_Skin003",
+            "Gender": "Female",
+            "ReqTrait": ["ElementBoost_Dark_1_PAL"]
+        },
+        {
+            "CharacterID": "PinkCat",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin003/SK_PinkCat_Skin003",
+            "Gender": "Female",
+            "ReqTrait": ["PAL_Sanity_Up_2"]
+        },
+        {
+            "CharacterID": "PinkCat",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin003/SK_PinkCat_Skin003",
+            "Gender": "Female",
+            "ReqTrait": ["PAL_rude"]
+        },
+        {
+            "CharacterID": "PinkCat",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin003/SK_PinkCat_Skin003",
+            "Gender": "Female",
+            "ReqTrait": ["ElementBoost_Dark_2_PAL"]
+        },
+        {
+            "CharacterID": "PinkCat",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin003/SK_PinkCat_Skin003",
+            "Gender": "Female",
+            "ReqTrait": ["PAL_Sanity_Up_1"]
+        },
+        {
+            "CharacterID": "PinkCat",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin003/SK_PinkCat_Skin003",
+            "Gender": "Female",
+            "ReqTrait": ["Nocturnal"]
+        },
+        {
+            "CharacterID": "Penguin",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin_Skin001/SK_Penguin_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["ElementBoost_Aqua_2_PAL"]
+        },
+        {
+            "CharacterID": "Penguin",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin_Skin001/SK_Penguin_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["ElementBoost_Aqua_1_PAL"]
+        },
+        {
+            "CharacterID": "Penguin",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin_Skin001/SK_Penguin_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["ElementResist_Fire_1_PAL"]
+        },
+        {
+            "CharacterID": "Penguin",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin_Skin001/SK_Penguin_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["PAL_rude"]
+        },
+        {
+            "CharacterID": "Penguin",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin_Skin001/SK_Penguin_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["PAL_Sanity_Up_1"]
+        },
+        {
+            "CharacterID": "Penguin",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin_Skin001/SK_Penguin_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["PAL_Sanity_Up_2"]
+        },
+        {
+            "CharacterID": "Penguin",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin_Skin001/SK_Penguin_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["CollectItem_Money"]
+        },
+        {
+            "CharacterID": "CatMage",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatMage_Skin001/SK_CatMage_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["CraftSpeed_up2"]
+        },
+        {
+            "CharacterID": "CatMage",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatMage_Skin001/SK_CatMage_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["CraftSpeed_down1"]
+        },
+        {
+            "CharacterID": "CatMage",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatMage_Skin001/SK_CatMage_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["SalePrice_Up_2"]
+        },
+        {
+            "CharacterID": "CatMage",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatMage_Skin001/SK_CatMage_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["PAL_CorporateSlave"]
+        },
+        {
+            "CharacterID": "CatMage",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatMage_Skin001/SK_CatMage_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["PAL_CorporateSlave"]
+        },
+        {
+            "CharacterID": "CatMage",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatMage_Skin001/SK_CatMage_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["PAL_Sanity_Down_2"]
+        },
+        {
+            "CharacterID": "KendoFrog",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KendoFrog_Skin001/SK_KendoFrog_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["ElementResist_Normal_1_PAL"]
+        },
+        {
+            "CharacterID": "KendoFrog",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KendoFrog_Skin001/SK_KendoFrog_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["ElementBoost_Aqua_1_PAL"]
+        },
+        {
+            "CharacterID": "KendoFrog",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KendoFrog_Skin001/SK_KendoFrog_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["ElementBoost_Aqua_2_PAL"]
+        },
+        {
+            "CharacterID": "KendoFrog",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KendoFrog_Skin001/SK_KendoFrog_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["Nocturnal"]
+        },
+        {
+            "CharacterID": "KendoFrog",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KendoFrog_Skin001/SK_KendoFrog_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["Witch"]
+        },
+        {
+            "CharacterID": "PinkCat",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin003/SK_PinkCat_Skin003",
+            "Gender": "Male",
+            "ReqTrait": ["ElementBoost_Dark_1_PAL"]
+        },
+        {
+            "CharacterID": "PinkCat",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin003/SK_PinkCat_Skin003",
+            "Gender": "Male",
+            "ReqTrait": ["PAL_Sanity_Up_2"]
+        },
+        {
+            "CharacterID": "PinkCat",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin003/SK_PinkCat_Skin003",
+            "Gender": "Male",
+            "ReqTrait": ["PAL_rude"]
+        },
+        {
+            "CharacterID": "PinkCat",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin003/SK_PinkCat_Skin003",
+            "Gender": "Male",
+            "ReqTrait": ["ElementBoost_Dark_2_PAL"]
+        },
+        {
+            "CharacterID": "PinkCat",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin003/SK_PinkCat_Skin003",
+            "Gender": "Male",
+            "ReqTrait": ["PAL_Sanity_Up_1"]
+        },
+        {
+            "CharacterID": "PinkCat",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin003/SK_PinkCat_Skin003",
+            "Gender": "Male",
+            "ReqTrait": ["Nocturnal"]
+        },
+        {
+            "CharacterID": "Penguin",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin_Skin001/SK_Penguin_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["ElementBoost_Aqua_2_PAL"]
+        },
+        {
+            "CharacterID": "Penguin",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin_Skin001/SK_Penguin_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["ElementBoost_Aqua_1_PAL"]
+        },
+        {
+            "CharacterID": "Penguin",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin_Skin001/SK_Penguin_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["ElementResist_Fire_1_PAL"]
+        },
+        {
+            "CharacterID": "Penguin",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin_Skin001/SK_Penguin_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["PAL_rude"]
+        },
+        {
+            "CharacterID": "Penguin",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin_Skin001/SK_Penguin_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["PAL_Sanity_Up_1"]
+        },
+        {
+            "CharacterID": "Penguin",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin_Skin001/SK_Penguin_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["PAL_Sanity_Up_2"]
+        },
+        {
+            "CharacterID": "Penguin",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/Penguin_Skin001/SK_Penguin_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["CollectItem_Money"]
+        },
+        {
+            "CharacterID": "CatMage",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatMage_Skin001/SK_CatMage_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["CraftSpeed_up2"]
+        },
+        {
+            "CharacterID": "CatMage",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatMage_Skin001/SK_CatMage_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["CraftSpeed_down1"]
+        },
+        {
+            "CharacterID": "CatMage",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatMage_Skin001/SK_CatMage_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["SalePrice_Up_2"]
+        },
+        {
+            "CharacterID": "CatMage",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatMage_Skin001/SK_CatMage_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["PAL_CorporateSlave"]
+        },
+        {
+            "CharacterID": "CatMage",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatMage_Skin001/SK_CatMage_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["PAL_CorporateSlave"]
+        },
+        {
+            "CharacterID": "CatMage",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/CatMage_Skin001/SK_CatMage_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["PAL_Sanity_Down_2"]
+        },
+        {
+            "CharacterID": "KendoFrog",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KendoFrog_Skin001/SK_KendoFrog_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["ElementResist_Normal_1_PAL"]
+        },
+        {
+            "CharacterID": "KendoFrog",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KendoFrog_Skin001/SK_KendoFrog_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["ElementBoost_Aqua_1_PAL"]
+        },
+        {
+            "CharacterID": "KendoFrog",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KendoFrog_Skin001/SK_KendoFrog_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["ElementBoost_Aqua_2_PAL"]
+        },
+        {
+            "CharacterID": "KendoFrog",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KendoFrog_Skin001/SK_KendoFrog_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["Nocturnal"]
+        },
+        {
+            "CharacterID": "KendoFrog",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/KendoFrog_Skin001/SK_KendoFrog_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["Witch"]
+        }
+    ]
+}

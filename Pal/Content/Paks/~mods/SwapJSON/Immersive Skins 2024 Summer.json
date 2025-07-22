@@ -1,0 +1,137 @@
+{
+    "PackName": "Immersive Skins Summer 2024",
+    "SkelMeshSwap":[
+        {
+            "CharacterID": "WeaselDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WeaselDragon_Skin001/SK_WeaselDragon_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["ElementBoost_Aqua_1_PAL"]
+        },
+        {
+            "CharacterID": "WeaselDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WeaselDragon_Skin001/SK_WeaselDragon_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["ElementBoost_Aqua_2_PAL"]
+        },
+        {
+            "CharacterID": "WeaselDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WeaselDragon_Skin001/SK_WeaselDragon_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["ElementResist_Fire_1_PAL"]
+        },
+        {
+            "CharacterID": "LazyDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LazyDragon_Skin001/SK_LazyDragon_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["Rare"]
+        },
+        {
+            "CharacterID": "LazyDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LazyDragon_Skin001/SK_LazyDragon_Skin001",
+            "Gender": "Female",
+            "IsRarePal": "True"
+        },
+        {
+            "CharacterID": "LazyDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LazyDragon_Skin001/SK_LazyDragon_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["Legend"]
+        },
+        {
+            "CharacterID": "LazyDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LazyDragon_Skin001/SK_LazyDragon_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["CraftSpeed_up2"]
+        },
+        {
+            "CharacterID": "SkyDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SkyDragon_Skin001/SK_SkyDragon_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["ElementBoost_Aqua_1_PAL"]
+        },
+        {
+            "CharacterID": "SkyDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SkyDragon_Skin001/SK_SkyDragon_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["ElementBoost_Aqua_2_PAL"]
+        },
+        {
+            "CharacterID": "SkyDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SkyDragon_Skin001/SK_SkyDragon_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["ElementResist_Fire_1_PAL"]
+        },
+        {
+            "CharacterID": "PinkCat",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin001/SK_PinkCat_Skin001",
+            "Gender": "Female",
+            "ReqTrait": ["ElementResist_Fire_1_PAL"]
+        },
+        {
+            "CharacterID": "WeaselDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WeaselDragon_Skin001/SK_WeaselDragon_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["ElementBoost_Aqua_1_PAL"]
+        },
+        {
+            "CharacterID": "WeaselDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WeaselDragon_Skin001/SK_WeaselDragon_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["ElementBoost_Aqua_2_PAL"]
+        },
+        {
+            "CharacterID": "WeaselDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/WeaselDragon_Skin001/SK_WeaselDragon_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["ElementResist_Fire_1_PAL"]
+        },
+        {
+            "CharacterID": "LazyDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LazyDragon_Skin001/SK_LazyDragon_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["Rare"]
+        },
+        {
+            "CharacterID": "LazyDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LazyDragon_Skin001/SK_LazyDragon_Skin001",
+            "Gender": "Male",
+            "IsRarePal": "True"
+        },
+        {
+            "CharacterID": "LazyDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LazyDragon_Skin001/SK_LazyDragon_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["Legend"]
+        },
+        {
+            "CharacterID": "LazyDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/LazyDragon_Skin001/SK_LazyDragon_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["CraftSpeed_up2"]
+        },
+        {
+            "CharacterID": "SkyDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SkyDragon_Skin001/SK_SkyDragon_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["ElementBoost_Aqua_1_PAL"]
+        },
+        {
+            "CharacterID": "SkyDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SkyDragon_Skin001/SK_SkyDragon_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["ElementBoost_Aqua_2_PAL"]
+        },
+        {
+            "CharacterID": "SkyDragon",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/SkyDragon_Skin001/SK_SkyDragon_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["ElementResist_Fire_1_PAL"]
+        },
+        {
+            "CharacterID": "PinkCat",
+            "SkelMeshPath": "/Game/Pal/Model/Character/Monster/PinkCat_Skin001/SK_PinkCat_Skin001",
+            "Gender": "Male",
+            "ReqTrait": ["ElementResist_Fire_1_PAL"]
+        }
+    ]
+}
