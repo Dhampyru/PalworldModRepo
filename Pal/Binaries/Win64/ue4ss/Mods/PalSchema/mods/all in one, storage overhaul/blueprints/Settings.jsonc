@@ -1,0 +1,13 @@
+{
+"BP_PalGameSetting_C":{
+
+/*Max palbox pages*/
+"PalBoxPageNum":120,
+
+/*Guild chest slots*/
+"GuildChestSlotNum":84
+
+}}
+
+
+
