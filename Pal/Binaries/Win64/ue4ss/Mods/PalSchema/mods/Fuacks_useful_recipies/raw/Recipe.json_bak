@@ -10428,7 +10428,7 @@
 			"Material5_Id": "None",
 			"Product_Count": 0,
 			"Product_Id": "PalSphere_Exotic",
-			"UnlockItemID": "PalSphere_Exotic",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 3000
 		},
@@ -10449,7 +10449,7 @@
 			"Material5_Id": "None",
 			"Product_Count": 0,
 			"Product_Id": "PalSphere_Exotic",
-			"UnlockItemID": "PalSphere_Exotic",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 3000
 		},
@@ -10470,7 +10470,7 @@
 			"Material5_Id": "None",
 			"Product_Count": 0,
 			"Product_Id": "PalSphere_Exotic",
-			"UnlockItemID": "PalSphere_Exotic",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 3000
 		},
@@ -10491,7 +10491,7 @@
 			"Material5_Id": "Wood",
 			"Product_Count": 1,
 			"Product_Id": "PalSphere_Giga",
-			"UnlockItemID": "PalSphere_Giga",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 3000
 		},
@@ -10512,7 +10512,7 @@
 			"Material5_Id": "None",
 			"Product_Count": 1,
 			"Product_Id": "PalSphere_Giga",
-			"UnlockItemID": "PalSphere_Giga",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 3000
 		},
@@ -10533,7 +10533,7 @@
 			"Material5_Id": "None",
 			"Product_Count": 1,
 			"Product_Id": "PalSphere_Giga",
-			"UnlockItemID": "PalSphere_Giga",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 3000
 		},
@@ -10554,7 +10554,7 @@
 			"Material5_Id": "Pal_crystal_S",
 			"Product_Count": 1,
 			"Product_Id": "PalSphere_Legend",
-			"UnlockItemID": "PalSphere_Legend",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 60000
 		},
@@ -10575,7 +10575,7 @@
 			"Material5_Id": "None",
 			"Product_Count": 1,
 			"Product_Id": "PalSphere_Legend",
-			"UnlockItemID": "PalSphere_Legend",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 60000
 		},
@@ -10596,7 +10596,7 @@
 			"Material5_Id": "None",
 			"Product_Count": 1,
 			"Product_Id": "PalSphere_Legend",
-			"UnlockItemID": "PalSphere_Legend",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 60000
 		},
@@ -10617,7 +10617,7 @@
 			"Material5_Id": "Cement",
 			"Product_Count": 1,
 			"Product_Id": "PalSphere_Master",
-			"UnlockItemID": "PalSphere_Master",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 27000
 		},
@@ -10638,7 +10638,7 @@
 			"Material5_Id": "None",
 			"Product_Count": 1,
 			"Product_Id": "PalSphere_Master",
-			"UnlockItemID": "PalSphere_Master",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 27000
 		},
@@ -10659,7 +10659,7 @@
 			"Material5_Id": "None",
 			"Product_Count": 1,
 			"Product_Id": "PalSphere_Master",
-			"UnlockItemID": "PalSphere_Master",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 27000
 		},
@@ -10680,7 +10680,7 @@
 			"Material5_Id": "None",
 			"Product_Count": 1,
 			"Product_Id": "PalSphere_Mega",
-			"UnlockItemID": "PalSphere_Mega",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 1200
 		},
@@ -10701,7 +10701,7 @@
 			"Material5_Id": "None",
 			"Product_Count": 1,
 			"Product_Id": "PalSphere_Mega",
-			"UnlockItemID": "PalSphere_Mega",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 1200
 		},
@@ -10722,7 +10722,7 @@
 			"Material5_Id": "None",
 			"Product_Count": 1,
 			"Product_Id": "PalSphere_Mega",
-			"UnlockItemID": "PalSphere_Mega",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 1200
 		},
@@ -10743,7 +10743,7 @@
 			"Material5_Id": "CopperIngot",
 			"Product_Count": 1,
 			"Product_Id": "PalSphere_Tera",
-			"UnlockItemID": "PalSphere_Tera",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 8500
 		},
@@ -10764,7 +10764,7 @@
 			"Material5_Id": "None",
 			"Product_Count": 1,
 			"Product_Id": "PalSphere_Tera",
-			"UnlockItemID": "PalSphere_Tera",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 8500
 		},
@@ -10785,7 +10785,7 @@
 			"Material5_Id": "None",
 			"Product_Count": 1,
 			"Product_Id": "PalSphere_Tera",
-			"UnlockItemID": "PalSphere_Tera",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 8500
 		},
@@ -10806,7 +10806,7 @@
 			"Material5_Id": "Plastic",
 			"Product_Count": 1,
 			"Product_Id": "PalSphere_Ultimate",
-			"UnlockItemID": "PalSphere_Ultimate",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 8500
 		},
@@ -10826,8 +10826,8 @@
 			"Material5_Count": 0,
 			"Material5_Id": "None",
 			"Product_Count": 1,
-			"Product_Id": "PalSphere_Ultimate",
-			"UnlockItemID": "PalSphere_Ultimate",
+			"Product_Id": "PalSphere_Legend",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 8500
 		},
@@ -10847,8 +10847,8 @@
 			"Material5_Count": 0,
 			"Material5_Id": "None",
 			"Product_Count": 1,
-			"Product_Id": "PalSphere_Ultimate",
-			"UnlockItemID": "PalSphere_Ultimate",
+			"Product_Id": "PalSphere_Tera",
+			"UnlockItemID": "None",
 			"WorkableAttribute": 1,
 			"WorkAmount": 8500
 		},
