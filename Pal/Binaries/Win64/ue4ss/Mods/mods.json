@@ -1,5 +1,9 @@
 ﻿[
     {
+        "mod_name": "KismetDebuggerMod",
+        "mod_enabled": false
+    },
+    {
         "mod_name": "CheatManagerEnablerMod",
         "mod_enabled": true
     },
@@ -36,11 +40,59 @@
         "mod_enabled": false
     },
     {
-        "mod_name": "Keybinds",
+        "mod_name": "DekModConfigMenu",
         "mod_enabled": true
     },
     {
-        "mod_name": "KismetDebuggerMod",
-        "mod_enabled": false
+        "mod_name": "TehExtraBaseArea-Client",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "BetterShieldFastButLowRegen",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "BetterRidingGroundMounts",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "FasterTrustGrowthx10",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "AlternativePalSummon",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "TehExtraBaseArea",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "LessRestrictiveBuilding",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "LoginRewards",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "StopDropRoll",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "TunedRaidsHarder",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "Max World Setting 1000",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "PalBoxReorganized128x30",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "Keybinds",
+        "mod_enabled": true
     }
 ]
