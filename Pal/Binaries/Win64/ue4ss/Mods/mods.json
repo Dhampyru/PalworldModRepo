@@ -88,10 +88,6 @@
     "mod_enabled": true
   },
   {
-    "mod_name": "PalSchema",
-    "mod_enabled": true
-  },
-  {
     "mod_name": "Keybinds",
     "mod_enabled": true
   }
