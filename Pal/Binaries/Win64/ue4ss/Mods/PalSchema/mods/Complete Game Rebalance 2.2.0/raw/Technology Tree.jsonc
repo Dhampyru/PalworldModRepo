@@ -1,0 +1,662 @@
+{
+  "DT_TechnologyRecipeUnlock": {
+    // Basic Structure Technology Changes
+    "Wooden_houseset": {
+      "LevelCap": 2,
+      "UnlockBuildObjects": [
+        "Wooden_foundation",
+        "Wooden_wall",
+        "Wooden_roof",
+        "Wooden_stair",
+        "Wood_WindowWall",
+        "Wood_TriangleWall",
+        "Wood_SlantedRoof",
+        "Wooden_DoorWall",
+        "Wooden_pillar",
+        "Wood_Fence",
+        "Wooden_ladder",
+        "DefenseWall_Wood",
+        "Wood_Gate"
+      ]
+    },
+    "Stone_houseset": {
+      "LevelCap": 6,
+      "UnlockBuildObjects": [
+        "Stone_foundation",
+        "Stone_wall",
+        "Stone_roof",
+        "Stone_stair",
+        "Stone_WindowWall",
+        "Stone_TriangleWall",
+        "Stone_SlantedRoof",
+        "Stone_DoorWall",
+        "Stone_pillar",
+        "Stone_Fence",
+        "DefenseWall",
+        "Stone_Gate"
+      ]
+    },
+    "Metal_Houseset": {
+      "LevelCap": 11,
+      "UnlockBuildObjects": [
+        "Metal_foundation",
+        "Metal_wall",
+        "Metal_roof",
+        "Metal_stair",
+        "Metal_WindowWall",
+        "Metal_TriangleWall",
+        "Metal_SlantedRoof",
+        "Metal_DoorWall",
+        "Metal_pillars",
+        "Iron_Fence",
+        "Metal_Gate",
+        "DefenseWall_Metal"
+      ]
+    },
+    "Glass_houseset": {
+      "LevelCap": 9
+    },
+    "JapaneseStyle_houseset": {
+      "LevelCap": 2
+    },
+    "FurnitureSet_Japanese": {
+      "LevelCap": 5
+    },
+    "SF_houseset": {
+      "LevelCap": 33
+    },
+
+
+    // Gameplay-related Technology Changes
+    "OperatingTable": {
+      "IsBossTechnology": false,
+      "LevelCap": 19,
+      "Cost": 2
+    },
+    "Product_CopperPit": {
+      "IsBossTechnology": false,
+      "LevelCap": 14,
+      "RequireDefeatTowerBoss": "EPalBossType::GrassBoss"
+    },
+    "Product_CopperPit_2": {
+      "IsBossTechnology": false,
+      "LevelCap": 24,
+      "RequireTechnology": "None",
+      "RequireDefeatTowerBoss": "EPalBossType::ForestBoss"
+    },
+    "Product_CoalPit": {
+      "IsBossTechnology": false,
+      "LevelCap": 39,
+      "RequireDefeatTowerBoss": "EPalBossType::ElectricBoss"
+    },
+    "Product_SulfurPit": {
+      "IsBossTechnology": false,
+      "LevelCap": 43,
+      "RequireDefeatTowerBoss": "EPalBossType::DesertBoss"
+    },
+    "Product_QuartzPit": {
+      "IsBossTechnology": false,
+      "LevelCap": 50,
+      "RequireDefeatTowerBoss": "EPalBossType::SnowBoss"
+    },
+    "CrystalPit": {
+      "IsBossTechnology": false,
+      "LevelCap": 60,
+      "RequireDefeatTowerBoss": "EPalBossType::VikingBoss"
+    },
+    "SkinChange": {
+      "IsBossTechnology": true,
+      "Cost": 0
+    },
+    "Infra_ItemChest_Grade_02": {
+      "LevelCap": 10
+    },
+    "Infra_ItemChest_Grade_03": {
+      "LevelCap": 34
+    },
+    "BaseCampWorkHard": {
+      "LevelCap": 4
+    },
+    "Unlock_Picking_Tier2": {
+      "LevelCap": 24
+    },
+    "Special_ElectricHatchingPalEgg": {
+      "LevelCap": 25
+    },
+    "SkillUnlock_GuardianDog": {
+      "LevelCap": 19
+    },
+    "DismantlingConveyor": {
+      "LevelCap": 36
+    },
+    "MultiElectricHatchingPalEgg": {
+      "LevelCap": 47
+    },
+    "MultiHatchingPalEgg": {
+      "LevelCap": 36
+    },
+    "Accessory_Nonkilling": {
+      "LevelCap": 12,
+      "IsBossTechnology": false
+    },
+    "Accessory_TalentChecker": {
+      "LevelCap": 18,
+      "Cost": 2
+    },
+    "TableDresser01_Stone": {
+      "LevelCap": 11
+    },
+    "FurnitureSet_27": {
+      "LevelCap": 18
+    },
+    "FurnitureSet_29": {
+      "LevelCap": 16
+    },
+
+
+
+
+    // CGR's New Decoration Bundles
+    "CGR_FurniturePlant": {
+      "UnlockBuildObjects": {
+        "Items": [
+          "Ivy01",
+          "Ivy02",
+          "Ivy03",
+          "Plant01_Plant",
+          "Plant02_Plant",
+          "Plant03_Plant",
+          "Plant04_Plant"
+        ]
+      },
+      "UnlockItemRecipes": {},
+      "Name": "NAME_RECIPE_CGR_FurniturePlant",
+      "Description": "DESC_RECIPE_CGR_Decoration",
+      "IconName": "Plant01_Plant",
+      "RequireDefeatTowerBoss": "EPalBossType::None",
+      "RequireTechnology": "None",
+      "RequireResearchId": "None",
+      "IsBossTechnology": false,
+      "LevelCap": 7,
+      "Tier": 0,
+      "Cost": 1
+    },
+    "CGR_FurnitureWood": {
+      "UnlockBuildObjects": {
+        "Items": [
+          "TableSquare_Wood",
+          "TableCircular_Wood",
+          "Bench_Wood",
+          "Stool_Wood",
+          "Stool_High_Wood",
+          "Chair01_Wood",
+          "Counter_Wood",
+          "Signboard",
+          "WallSignboard"
+        ]
+      },
+      "UnlockItemRecipes": {},
+      "Name": "NAME_RECIPE_CGR_FurnitureWood",
+      "Description": "DESC_RECIPE_CGR_Decoration",
+      "IconName": "Bench_Wood",
+      "RequireDefeatTowerBoss": "EPalBossType::None",
+      "RequireTechnology": "None",
+      "RequireResearchId": "None",
+      "IsBossTechnology": false,
+      "LevelCap": 3,
+      "Tier": 0,
+      "Cost": 1
+    },
+    "CGR_StorageWood": {
+      "UnlockBuildObjects": {
+        "Items": [
+          "Barrel_Wood",
+          "Box_Wood",
+          "Shelf_Wood",
+          "Shelf_Hang01_Wood",
+          "Shelf_Cask_Wood",
+          "Shelf_Hang02_Wood"
+        ]
+      },
+      "UnlockItemRecipes": {},
+      "Name": "NAME_RECIPE_CGR_StorageWood",
+      "Description": "DESC_RECIPE_CGR_Storage",
+      "IconName": "Box_Wood",
+      "RequireDefeatTowerBoss": "EPalBossType::None",
+      "RequireTechnology": "None",
+      "RequireResearchId": "None",
+      "IsBossTechnology": false,
+      "LevelCap": 5,
+      "Tier": 0,
+      "Cost": 1
+    },
+    "CGR_FurnitureStone": {
+      "UnlockBuildObjects": {
+        "Items": [
+          "Rug01_Stone",
+          "Rug02_Stone",
+          "Rug03_Stone",
+          "Rug04_Stone",
+          "Sofa01_Stone",
+          "Sofa02_Stone",
+          "Sofa03_Stone",
+          "Chair01_Stone",
+          "Chair02_Stone",
+          "Stool01_Stone",
+          "BathTub_Stone",
+          "Partition_Stone",
+          "TowlRack01_Stone",
+          "Piano01_Stone",
+          "Piano02_Stone",
+          "Mirror01_Stone",
+          "Mirror02_Stone",
+          "Mirror01_Wall_Stone",
+          "Curtain01_Wall_Stone",
+          "Globe01_Stone",
+          "Stove01_Stone",
+          "Clock01_Stone",
+          "Desk01_Stone",
+          "TableCircular01_Stone",
+          "Toilet01_Stone",
+          "ToiletHolder01_Stone",
+          "TableSink01_Stone"
+        ]
+      },
+      "UnlockItemRecipes": {},
+      "Name": "NAME_RECIPE_CGR_FurnitureStone",
+      "Description": "DESC_RECIPE_CGR_Decoration",
+      "IconName": "Partition_Stone",
+      "RequireDefeatTowerBoss": "EPalBossType::None",
+      "RequireTechnology": "None",
+      "RequireResearchId": "None",
+      "IsBossTechnology": false,
+      "LevelCap": 8,
+      "Tier": 0,
+      "Cost": 1
+    },
+    "CGR_StorageStone": {
+      "UnlockBuildObjects": {
+        "Items": [
+          "Box01_Stone",
+          "Shelf01_Stone",
+          "Shelf02_Stone",
+          "Shelf03_Stone",
+          "Shelf04_Stone",
+          "Shelf05_Stone",
+          "Shelf06_Stone",
+          "Shelf07_Stone",
+          "Shelf01_Wall_Stone"
+        ]
+      },
+      "UnlockItemRecipes": {},
+      "Name": "NAME_RECIPE_CGR_StorageStone",
+      "Description": "DESC_RECIPE_CGR_Storage",
+      "IconName": "Shelf03_Stone",
+      "RequireDefeatTowerBoss": "EPalBossType::None",
+      "RequireTechnology": "None",
+      "RequireResearchId": "None",
+      "IsBossTechnology": false,
+      "LevelCap": 12,
+      "Tier": 0,
+      "Cost": 1
+    },
+    "CGR_FurnitureIron": {
+      "UnlockBuildObjects": {
+        "Items": [
+          "Stool01_Iron",
+          "TableCircular01_Iron",
+          "Chair02_Iron",
+          "Desk01_Iron",
+          "TableSide01_Iron",
+          "TableSquare01_Iron",
+          "TableSquare02_Iron",
+          "Clock01_Wall_Iron",
+          "CableCoil01_Iron",
+          "GarbageBag_Iron",
+          "PipeClay01_Iron",
+          "Tire01_Iron"
+        ]
+      },
+      "UnlockItemRecipes": {},
+      "Name": "NAME_RECIPE_CGR_FurnitureIron",
+      "Description": "DESC_RECIPE_CGR_Decoration",
+      "IconName": "Clock01_Wall_Iron",
+      "RequireDefeatTowerBoss": "EPalBossType::None",
+      "RequireTechnology": "None",
+      "RequireResearchId": "None",
+      "IsBossTechnology": false,
+      "LevelCap": 14,
+      "Tier": 0,
+      "Cost": 1
+    },
+    "CGR_StorageIron": {
+      "UnlockBuildObjects": {
+        "Items": [
+          "Shelf01_Iron",
+          "Shelf02_Iron",
+          "Shelf03_Iron",
+          "Shelf04_Iron",
+          "Shelf01_Wall_Iron",
+          "Barrel01_Iron",
+          "Barrel02_Iron",
+          "Barrel03_Iron",
+          "Container01_Iron",
+          "Box01_Iron",
+          "Box02_Iron"
+        ]
+      },
+      "UnlockItemRecipes": {},
+      "Name": "NAME_RECIPE_CGR_StorageIron",
+      "Description": "DESC_RECIPE_CGR_Storage",
+      "IconName": "Shelf04_Iron",
+      "RequireDefeatTowerBoss": "EPalBossType::None",
+      "RequireTechnology": "None",
+      "RequireResearchId": "None",
+      "IsBossTechnology": false,
+      "LevelCap": 16,
+      "Tier": 0,
+      "Cost": 1
+    },
+    "CGR_FurnitureUrban": {
+      "UnlockBuildObjects": {
+        "Items": [
+          "GoalSoccer_Iron",
+          "MachineGame01_Iron",
+          "MachineVending01_Iron",
+          "Television01_Iron",
+          "Sofa01_Iron",
+          "Sofa02_Iron",
+          "Chair01_Iron",
+          "Chair01_Pal",
+          "SignExit_Ceiling_Iron",
+          "SignExit_Wall_Iron"
+        ]
+      },
+      "UnlockItemRecipes": {},
+      "Name": "NAME_RECIPE_CGR_FurnitureUrban",
+      "Description": "DESC_RECIPE_CGR_Decoration",
+      "IconName": "MachineVending01_Iron",
+      "RequireDefeatTowerBoss": "EPalBossType::None",
+      "RequireTechnology": "None",
+      "RequireResearchId": "None",
+      "IsBossTechnology": false,
+      "LevelCap": 20,
+      "Tier": 0,
+      "Cost": 1
+    },
+    "CGR_FurnitureTraffic": {
+      "UnlockBuildObjects": {
+        "Items": [
+          "GoalSoccer_Iron",
+          "MachineGame01_Iron",
+          "MachineVending01_Iron",
+          "Television01_Iron",
+          "TrafficCone01_Iron",
+          "TrafficCone02_Iron",
+          "TrafficCone03_Iron",
+          "TrafficLight01_Iron",
+          "TrafficSign01_Iron",
+          "TrafficSign02_Iron",
+          "TrafficSign03_Iron",
+          "TrafficSign04_Iron",
+          "TrafficBarricade01_Iron",
+          "TrafficBarricade02_Iron",
+          "TrafficBarricade03_Iron",
+          "TrafficBarricade04_Iron",
+          "TrafficBarricade05_Iron"
+        ]
+      },
+      "UnlockItemRecipes": {},
+      "Name": "NAME_RECIPE_CGR_FurnitureTraffic",
+      "Description": "DESC_RECIPE_CGR_Decoration",
+      "IconName": "TrafficLight01_Iron",
+      "RequireDefeatTowerBoss": "EPalBossType::None",
+      "RequireTechnology": "None",
+      "RequireResearchId": "None",
+      "IsBossTechnology": false,
+      "LevelCap": 22,
+      "Tier": 0,
+      "Cost": 1
+    },
+
+    
+    // Vanilla Technologies Cleanup
+    "DefenseWall_Wood": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "Wood_Gate": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "Wooden_ladder": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "DefenseWall": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "Stone_Gate": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "Metal_Gate": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "DefenseWall_Metal": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_1": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_2": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_3": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "Signboard": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "WallSignboard": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_4": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_5": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_6": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_7": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_8": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_9": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_10": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_11": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_12": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_13": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_14": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_15": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_16": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_17": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_18": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_19": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_20": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_21": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_22": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_23": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_24": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_25": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_26": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_30": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_31": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    },
+    "FurnitureSet_32": {
+      "IsBossTechnology": true,
+      "LevelCap": 1
+    }
+  },
+  // Adapted Building Recipes
+  "DT_BuildObjectDataTable": {
+
+    "OperatingTable": {
+      "Material1_Id": "Cloth",
+      "Material1_Count": 15,
+      "Material2_Id": "Leather",
+      "Material2_Count": 15,
+      "Material3_Id": "CopperIngot",
+      "Material3_Count": 20,
+      "Material4_Id": "None",
+      "Material4_Count": 0
+    },
+    "DismantlingConveyor": {
+      "ConsumeEnergySpeed": 300.0,
+      "Material1_Id": "IronIngot",
+      "Material1_Count": 50,
+      "Material2_Id": "MachineParts2",
+      "Material2_Count": 30,
+      "Material3_Id": "MachineParts",
+      "Material3_Count": 30,
+      "Material4_Id": "None",
+      "Material4_Count": 0
+    },
+    "ElectricHatchingPalEgg": {
+      "ConsumeEnergySpeed": 200.0,
+      "Material1_Id": "CopperIngot",
+      "Material1_Count": 30,
+      "Material2_Id": "MachineParts2",
+      "Material2_Count": 15,
+      "Material3_Id": "PalCrystal_Ex",
+      "Material3_Count": 10,
+      "Material4_Id": "None",
+      "Material4_Count": 0
+    },
+    "MultiHatchingPalEgg": {
+      "Material1_Id": "IronIngot",
+      "Material1_Count": 40,
+      "Material2_Id": "MachineParts2",
+      "Material2_Count": 20,
+      "Material3_Id": "AncientParts2",
+      "Material3_Count": 5,
+      "Material4_Id": "None",
+      "Material4_Count": 0
+    },
+    "MultiElectricHatchingPalEgg": {
+      "ConsumeEnergySpeed": 400.0,
+      "Material1_Id": "StealIngot",
+      "Material1_Count": 50,
+      "Material2_Id": "MachineParts2",
+      "Material2_Count": 25,
+      "Material3_Id": "AncientParts2",
+      "Material3_Count": 10,
+      "Material4_Id": "None",
+      "Material4_Count": 0
+    }
+  },
+  // Adapted Crafting Recipes
+  "DT_ItemRecipeDataTable": {
+    "Accessory_Nonkilling": {
+      "WorkAmount": 3000.0,
+      "Material1_Id": "CopperIngot",
+      "Material1_Count": 5,
+      "Material2_Id": "Pal_crystal_S",
+      "Material2_Count": 15,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Accessory_TalentChecker": {
+      "Material1_Id": "CopperIngot",
+      "Material1_Count": 15,
+      "Material2_Id": "Pal_crystal_S",
+      "Material2_Count": 15,
+      "Material3_Id": "PalCrystal_Ex",
+      "Material3_Count": 10,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    }
+  }
+}

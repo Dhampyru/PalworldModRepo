@@ -1,0 +1,1456 @@
+{
+
+    
+    // Farms
+    "DT_MapObjectFarmCrop": {
+        "Berries": {
+            "GrowupTime": 150.0,
+            "SeedingWorkAmount": 4500.0,
+            "WateringWorkAmount": 4500.0,
+            "HarvestWorkAmount": 4500.0
+        },
+        "Wheat": {
+            "GrowupTime": 150.0,
+            "SeedingWorkAmount": 4500.0,
+            "WateringWorkAmount": 4500.0,
+            "HarvestWorkAmount": 4500.0
+        },
+        "Tomato": {
+            "GrowupTime": 150.0,
+            "SeedingWorkAmount": 4500.0,
+            "WateringWorkAmount": 4500.0,
+            "HarvestWorkAmount": 4500.0
+        },
+        "Lettuce": {
+            "GrowupTime": 150.0,
+            "SeedingWorkAmount": 4500.0,
+            "WateringWorkAmount": 4500.0,
+            "HarvestWorkAmount": 4500.0
+        },
+        "Potato": {
+            "GrowupTime": 150.0,
+            "SeedingWorkAmount": 4500.0,
+            "WateringWorkAmount": 4500.0,
+            "HarvestWorkAmount": 4500.0
+        },
+        "Carrot": {
+            "GrowupTime": 150.0,
+            "SeedingWorkAmount": 4500.0,
+            "WateringWorkAmount": 4500.0,
+            "HarvestWorkAmount": 4500.0
+        },
+        "Onion": {
+            "GrowupTime": 150.0,
+            "SeedingWorkAmount": 4500.0,
+            "WateringWorkAmount": 4500.0,
+            "HarvestWorkAmount": 4500.0
+        }
+    },
+
+
+    // Mining Sites & Oil Extractor
+    "DT_MapObjectItemProductDataTable": {
+        "StonePit": {
+            "RequiredWorkAmount": 500.0
+        },
+        "StationDeforest2": {
+            "RequiredWorkAmount": 500.0
+        },
+        "CopperPit": {
+            "RequiredWorkAmount": 1500.0
+        },
+        "CopperPit_2": {
+            "RequiredWorkAmount": 1000.0
+        },
+        "CoalPit": {
+            "RequiredWorkAmount": 1500.0
+        },
+        "SulfurPit": {
+            "RequiredWorkAmount": 1500.0
+        },
+        "QuartzPit": {
+            "RequiredWorkAmount": 2000.0
+        },
+        "OilPump": {
+            "RequiredWorkAmount": 3000.0,
+            "AutoWorkAmountBySec": 100.0
+        },
+        "CrystalPit": {
+            "RequiredWorkAmount": 3000.0
+        }
+    },
+
+
+    // Player interaction for Medicine Workbenches and Crushers
+    "DT_MapObjectAssignData": {
+        "MedicineFacility_02_0": {
+            "bPlayerWorkable": true
+        },
+        "MedicineFacility_03_0": {
+            "bPlayerWorkable": true
+        },
+        "Crusher_0": {
+            "bPlayerWorkable": true
+        },
+        "FlourMill_0": {
+            "bPlayerWorkable": true
+        }
+    },
+
+
+    // Surgery Table
+    "DT_OperatingTablePassiveSkillDataTable": {
+        "CraftSpeed_up1": {
+            "PassiveSkill": "CraftSpeed_up1",
+            "Price": 10000,
+            "RequireItemId": "PalPassiveSkillChange_CraftSpeed_up1"
+        },
+        "CraftSpeed_up2": {
+            "PassiveSkill": "CraftSpeed_up2",
+            "Price": 50000,
+            "RequireItemId": "PalPassiveSkillChange_CraftSpeed_up2"
+        },
+        "CraftSpeed_up3": {
+            "PassiveSkill": "CraftSpeed_up3",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CraftSpeed_up3"
+        },
+        "PAL_FullStomach_Down_1": {
+            "PassiveSkill": "PAL_FullStomach_Down_1",
+            "Price": 10000,
+            "RequireItemId": "PalPassiveSkillChange_PAL_FullStomach_Down_1"
+        },
+        "PAL_FullStomach_Down_2": {
+            "PassiveSkill": "PAL_FullStomach_Down_2",
+            "Price": 50000,
+            "RequireItemId": "PalPassiveSkillChange_PAL_FullStomach_Down_2"
+        },
+        "PAL_FullStomach_Down_3": {
+            "PassiveSkill": "PAL_FullStomach_Down_3",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_PAL_FullStomach_Down_3"
+        },
+        "PAL_Sanity_Down_1": {
+            "PassiveSkill": "PAL_Sanity_Down_1",
+            "Price": 10000,
+            "RequireItemId": "PalPassiveSkillChange_PAL_Sanity_Down_1"
+        },
+        "PAL_Sanity_Down_2": {
+            "PassiveSkill": "PAL_Sanity_Down_2",
+            "Price": 50000,
+            "RequireItemId": "PalPassiveSkillChange_PAL_Sanity_Down_2"
+        },
+        "PAL_Sanity_Down_3": {
+            "PassiveSkill": "PAL_Sanity_Down_3",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_PAL_Sanity_Down_3"
+        },
+        "MoveSpeed_up_1": {
+            "PassiveSkill": "MoveSpeed_up_1",
+            "Price": 10000,
+            "RequireItemId": "PalPassiveSkillChange_MoveSpeed_up_1"
+        },
+        "MoveSpeed_up_2": {
+            "PassiveSkill": "MoveSpeed_up_2",
+            "Price": 50000,
+            "RequireItemId": "PalPassiveSkillChange_MoveSpeed_up_2"
+        },
+        "MoveSpeed_up_3": {
+            "PassiveSkill": "MoveSpeed_up_3",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_MoveSpeed_up_3"
+        },
+        "Stamina_Up_2": {
+            "PassiveSkill": "Stamina_Up_2",
+            "Price": 10000,
+            "RequireItemId": "PalPassiveSkillChange_Stamina_Up_2"
+        },
+        "Stamina_Up_1": {
+            "PassiveSkill": "Stamina_Up_1",
+            "Price": 50000,
+            "RequireItemId": "PalPassiveSkillChange_Stamina_Up_1"
+        },
+        "Stamina_Up_3": {
+            "PassiveSkill": "Stamina_Up_3",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_Stamina_Up_3"
+        },
+        "NonKilling": {
+            "PassiveSkill": "NonKilling",
+            "Price": 2500,
+            "RequireItemId": "PalPassiveSkillChange_NonKilling"
+        },
+        "Test_PalEgg_HatchingSpeed_Up": {
+            "PassiveSkill": "Test_PalEgg_HatchingSpeed_Up",
+            "Price": 50000,
+            "RequireItemId": "PalPassiveSkillChange_HatchingSpeed_Up"
+        },
+        "Nocturnal": {
+            "PassiveSkill": "Nocturnal",
+            "Price": 25000,
+            "RequireItemId": "PalPassiveSkillChange_Nocturnal"
+        },
+        "Deffence_up1": {
+            "PassiveSkill": "Deffence_up1",
+            "Price": 10000,
+            "RequireItemId": "PalPassiveSkillChange_Deffence_up1"
+        },
+        "Deffence_up2": {
+            "PassiveSkill": "Deffence_up2",
+            "Price": 50000,
+            "RequireItemId": "PalPassiveSkillChange_Deffence_up2"
+        },
+        "Deffence_up3": {
+            "PassiveSkill": "Deffence_up3",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_Deffence_up3"
+        },
+        "PAL_ALLAttack_up1": {
+            "PassiveSkill": "PAL_ALLAttack_up1",
+            "Price": 10000,
+            "RequireItemId": "PalPassiveSkillChange_PAL_ALLAttack_up1"
+        },
+        "PAL_ALLAttack_up2": {
+            "PassiveSkill": "PAL_ALLAttack_up2",
+            "Price": 50000,
+            "RequireItemId": "PalPassiveSkillChange_PAL_ALLAttack_up2"
+        },
+        "PAL_ALLAttack_up3": {
+            "PassiveSkill": "PAL_ALLAttack_up3",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_PAL_ALLAttack_up3"
+        },
+        "CoolTimeReduction_Up_2": {
+            "PassiveSkill": "CoolTimeReduction_Up_2",
+            "Price": 10000,
+            "RequireItemId": "PalPassiveSkillChange_CoolTimeReduction_Up_2"
+        },
+        "CoolTimeReduction_Up_1": {
+            "PassiveSkill": "CoolTimeReduction_Up_1",
+            "Price": 50000,
+            "RequireItemId": "PalPassiveSkillChange_CoolTimeReduction_Up_1"
+        },
+        "Noukin": {
+            "PassiveSkill": "Noukin",
+            "Price": 50000,
+            "RequireItemId": "PalPassiveSkillChange_Noukin"
+        },
+        "SwimSpeed_up_1": {
+            "PassiveSkill": "SwimSpeed_up_1",
+            "Price": 10000,
+            "RequireItemId": "PalPassiveSkillChange_CGRSleekStroke"
+        },
+        "SwimSpeed_up_2": {
+            "PassiveSkill": "SwimSpeed_up_2",
+            "Price": 50000,
+            "RequireItemId": "PalPassiveSkillChange_CGRAceSwimmer"
+        },
+        "SwimSpeed_up_3": {
+            "PassiveSkill": "SwimSpeed_up_3",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGRKingoftheWaves"
+        },
+        "PAL_CorporateSlave": {
+            "PassiveSkill": "PAL_CorporateSlave",
+            "Price": 10000,
+            "RequireItemId": "PalPassiveSkillChange_CGRWorkSlave"
+        },
+        "PAL_conceited": {
+            "PassiveSkill": "PAL_conceited",
+            "Price": 10000,
+            "RequireItemId": "PalPassiveSkillChange_CGRConceited"
+        },
+        "PAL_rude": {
+            "PassiveSkill": "PAL_rude",
+            "Price": 10000,
+            "RequireItemId": "PalPassiveSkillChange_CGRHooligan"
+        },
+        "PAL_oraora": {
+            "PassiveSkill": "PAL_oraora",
+            "Price": 10000,
+            "RequireItemId": "PalPassiveSkillChange_CGRAggressive"
+        },
+        "PAL_sadist": {
+            "PassiveSkill": "PAL_sadist",
+            "Price": 10000,
+            "RequireItemId": "PalPassiveSkillChange_CGRSadist"
+        },
+        "PAL_masochist": {
+            "PassiveSkill": "PAL_masochist",
+            "Price": 10000,
+            "RequireItemId": "PalPassiveSkillChange_CGRMasochist"
+        },
+        "Alien": {
+            "PassiveSkill": "Alien",
+            "Price": 10000,
+            "RequireItemId": "PalPassiveSkillChange_CGROtherworldlyCells"
+        },
+        "TrainerATK_UP_1": {
+            "PassiveSkill": "TrainerATK_UP_1",
+            "Price": 50000,
+            "RequireItemId": "PalPassiveSkillChange_CGRVanguard"
+        },
+        "TrainerDEF_UP_1": {
+            "PassiveSkill": "TrainerDEF_UP_1",
+            "Price": 50000,
+            "RequireItemId": "PalPassiveSkillChange_CGRStrongholdStrategist"
+        },
+        "TrainerMining_up1": {
+            "PassiveSkill": "TrainerMining_up1",
+            "Price": 50000,
+            "RequireItemId": "PalPassiveSkillChange_CGRMineForeman"
+        },
+        "TrainerLogging_up1": {
+            "PassiveSkill": "TrainerLogging_up1",
+            "Price": 50000,
+            "RequireItemId": "PalPassiveSkillChange_CGRLoggingForeman"
+        },
+        "ElementBoost_Normal_2_PAL": {
+            "PassiveSkill": "ElementBoost_Normal_2_PAL",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGRCelestialEmperor"
+        },
+        "ElementBoost_Fire_2_PAL": {
+            "PassiveSkill": "ElementBoost_Fire_2_PAL",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGRFlameEmperor"
+        },
+        "ElementBoost_Aqua_2_PAL": {
+            "PassiveSkill": "ElementBoost_Aqua_2_PAL",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGRLordoftheSea"
+        },
+        "ElementBoost_Thunder_2_PAL": {
+            "PassiveSkill": "ElementBoost_Thunder_2_PAL",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChPalPassiveSkillChange_CGRLordofLightningangeTest"
+        },
+        "ElementBoost_Leaf_2_PAL": {
+            "PassiveSkill": "ElementBoost_Leaf_2_PAL",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGRSpiritEmperor"
+        },
+        "ElementBoost_Ice_2_PAL": {
+            "PassiveSkill": "ElementBoost_Ice_2_PAL",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGRIceEmperor"
+        },
+        "ElementBoost_Earth_2_PAL": {
+            "PassiveSkill": "ElementBoost_Earth_2_PAL",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGREarthEmperor"
+        },
+        "ElementBoost_Dark_2_PAL": {
+            "PassiveSkill": "ElementBoost_Dark_2_PAL",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGRLordoftheUnderworld"
+        },
+        "ElementBoost_Dragon_2_PAL": {
+            "PassiveSkill": "ElementBoost_Dragon_2_PAL",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGRDivineDragon"
+        },
+        "Vampire": {
+            "PassiveSkill": "Vampire",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGRVampiric"
+        },
+        "Rare": {
+            "PassiveSkill": "Rare",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGRLucky"
+        },
+        "Legend": {
+            "PassiveSkill": "Legend",
+            "Price": 250000,
+            "RequireItemId": "PalPassiveSkillChange_CGRLegend"
+        },
+        "Witch": {
+            "PassiveSkill": "Witch",
+            "Price": 250000,
+            "RequireItemId": "PalPassiveSkillChange_CGRSirenoftheVoid"
+        },
+        "EternalFlame": {
+            "PassiveSkill": "EternalFlame",
+            "Price": 250000,
+            "RequireItemId": "PalPassiveSkillChange_CGREternalFlame"
+        },
+        "Invader": {
+            "PassiveSkill": "Invader",
+            "Price": 250000,
+            "RequireItemId": "PalPassiveSkillChange_CGRInvader"
+        },
+        "Nushi": {
+            "PassiveSkill": "Nushi",
+            "Price": 250000,
+            "RequireItemId": "PalPassiveSkillChange_CGRLunker"
+        },
+        "Nosferatu": {
+            "PassiveSkill": "Nosferatu",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGRNosferatu"
+        },
+        "CoolTimeReduction_Up_3": {
+            "PassiveSkill": "CoolTimeReduction_Up_3",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGRPerfectHarmony"
+        },
+        "Berserker": {
+            "PassiveSkill": "Berserker",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGRBerserker"
+        },
+        "TrainerWorkSpeed_UP_1": {
+            "PassiveSkill": "TrainerWorkSpeed_UP_1",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGRMotivationalLeader"
+        },
+        "TrainerMaster_up1": {
+            "PassiveSkill": "TrainerMaster_up1",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGRMasterForeman"
+        },
+        "SalePrice_Up_2": {
+            "PassiveSkill": "SalePrice_Up_2",
+            "Price": 50000,
+            "RequireItemId": "PalPassiveSkillChange_CGRFineFurs"
+        },
+        "SalePrice_Up_1": {
+            "PassiveSkill": "SalePrice_Up_1",
+            "Price": 100000,
+            "RequireItemId": "PalPassiveSkillChange_CGRNoble"
+        }
+    },
+
+
+    // Player's Capture Levels
+    "DT_PlayerStatusRankMasterDataTable": {
+        "1": {
+            "Rank": 1,
+            "RequiredRelicNum": 1,
+            "ResetRequiredMoney": 10000
+        },
+        "2": {
+            "Rank": 2,
+            "RequiredRelicNum": 3,
+            "ResetRequiredMoney": 10000
+        },
+        "3": {
+            "Rank": 3,
+            "RequiredRelicNum": 6,
+            "ResetRequiredMoney": 10000
+        },
+        "4": {
+            "Rank": 4,
+            "RequiredRelicNum": 9,
+            "ResetRequiredMoney": 10000
+        },
+        "5": {
+            "Rank": 5,
+            "RequiredRelicNum": 12,
+            "ResetRequiredMoney": 10000
+        },
+        "6": {
+            "Rank": 6,
+            "RequiredRelicNum": 15,
+            "ResetRequiredMoney": 10000
+        },
+        "7": {
+            "Rank": 7,
+            "RequiredRelicNum": 18,
+            "ResetRequiredMoney": 10000
+        },
+        "8": {
+            "Rank": 8,
+            "RequiredRelicNum": 21,
+            "ResetRequiredMoney": 10000
+        },
+        "9": {
+            "Rank": 9,
+            "RequiredRelicNum": 24,
+            "ResetRequiredMoney": 10000
+        },
+        "10": {
+            "Rank": 10,
+            "RequiredRelicNum": 27,
+            "ResetRequiredMoney": 10000
+        },
+        "11": {
+            "Rank": 11,
+            "RequiredRelicNum": 30,
+            "ResetRequiredMoney": 10000
+        },
+        "12": {
+            "Rank": 12,
+            "RequiredRelicNum": 33,
+            "ResetRequiredMoney": 10000
+        },
+        "13": {
+            "Rank": 13,
+            "RequiredRelicNum": 36,
+            "ResetRequiredMoney": 10000
+        },
+        "14": {
+            "Rank": 14,
+            "RequiredRelicNum": 39,
+            "ResetRequiredMoney": 10000
+        },
+        "15": {
+            "Rank": 15,
+            "RequiredRelicNum": 42,
+            "ResetRequiredMoney": 10000
+        },
+        "16": {
+            "Rank": 16,
+            "RequiredRelicNum": 45,
+            "ResetRequiredMoney": 10000
+        },
+        "17": {
+            "Rank": 17,
+            "RequiredRelicNum": 48,
+            "ResetRequiredMoney": 10000
+        },
+        "18": {
+            "Rank": 18,
+            "RequiredRelicNum": 51,
+            "ResetRequiredMoney": 10000
+        },
+        "19": {
+            "Rank": 19,
+            "RequiredRelicNum": 54,
+            "ResetRequiredMoney": 10000
+        },
+        "20": {
+            "Rank": 20,
+            "RequiredRelicNum": 57,
+            "ResetRequiredMoney": 10000
+        }
+    },
+
+
+    // Pal's Soul Levels
+    "DT_CharacterUpgradeMasterDataTable": {
+        "1": {
+            "Rank": 1,
+            "RequiredStaticItemId": "PalUpgradeStone",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 1000
+        },
+        "2": {
+            "Rank": 2,
+            "RequiredStaticItemId": "PalUpgradeStone",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 2000
+        },
+        "3": {
+            "Rank": 3,
+            "RequiredStaticItemId": "PalUpgradeStone",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 3000
+        },
+        "4": {
+            "Rank": 4,
+            "RequiredStaticItemId": "PalUpgradeStone",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 4000
+        },
+        "5": {
+            "Rank": 5,
+            "RequiredStaticItemId": "PalUpgradeStone",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 5000
+        },
+        "6": {
+            "Rank": 6,
+            "RequiredStaticItemId": "PalUpgradeStone2",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 6000
+        },
+        "7": {
+            "Rank": 7,
+            "RequiredStaticItemId": "PalUpgradeStone2",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 7000
+        },
+        "8": {
+            "Rank": 8,
+            "RequiredStaticItemId": "PalUpgradeStone2",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 8000
+        },
+        "9": {
+            "Rank": 9,
+            "RequiredStaticItemId": "PalUpgradeStone2",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 9000
+        },
+        "10": {
+            "Rank": 10,
+            "RequiredStaticItemId": "PalUpgradeStone2",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 10000
+        },
+        "11": {
+            "Rank": 11,
+            "RequiredStaticItemId": "PalUpgradeStone3",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 11000
+        },
+        "12": {
+            "Rank": 12,
+            "RequiredStaticItemId": "PalUpgradeStone3",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 12000
+        },
+        "13": {
+            "Rank": 13,
+            "RequiredStaticItemId": "PalUpgradeStone3",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 13000
+        },
+        "14": {
+            "Rank": 14,
+            "RequiredStaticItemId": "PalUpgradeStone3",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 14000
+        },
+        "15": {
+            "Rank": 15,
+            "RequiredStaticItemId": "PalUpgradeStone3",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 15000
+        },
+        "16": {
+            "Rank": 16,
+            "RequiredStaticItemId": "PalUpgradeStone4",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 16000
+        },
+        "17": {
+            "Rank": 17,
+            "RequiredStaticItemId": "PalUpgradeStone4",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 17000
+        },
+        "18": {
+            "Rank": 18,
+            "RequiredStaticItemId": "PalUpgradeStone4",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 18000
+        },
+        "19": {
+            "Rank": 19,
+            "RequiredStaticItemId": "PalUpgradeStone4",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 19000
+        },
+        "20": {
+            "Rank": 20,
+            "RequiredStaticItemId": "PalUpgradeStone4",
+            "RequiredItemNum": 3,
+            "ResetRequiredMoney": 20000
+        }
+    },
+
+
+    // Research Laboratory
+    "DT_LabResearchDataTable": {
+        "Handcraft1": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 20.0
+        },
+        "Handcraft1_2": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 20.0
+        },
+        "Handcraft1_3": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 20.0
+        },
+        "Handcraft1_4": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 20.0
+        },
+        "Handcraft1_5": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 700000,
+            "EffectValue": 20.0
+        },
+        "Handcraft2": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductItemConsumeMaterialNumRate",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": -5.0
+        },
+        "Handcraft2_2": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductItemConsumeMaterialNumRate",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": -5.0
+        },
+        "Handcraft2_3": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductItemConsumeMaterialNumRate",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": -5.0
+        },
+        "Handcraft2_4": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductItemConsumeMaterialNumRate",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": -10.0
+        },
+        "Handcraft2_5": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductItemConsumeMaterialNumRate",
+            "RequiredWorkAmount": 700000,
+            "EffectValue": -10.0
+        },
+        "Handcraft2_6": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductItemConsumeMaterialNumRate",
+            "RequiredWorkAmount": 950000,
+            "EffectValue": -10.0
+        },
+        "Handcraft3": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 50.0
+        },
+        "Handcraft3_2": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 50.0
+        },
+        "Handcraft3_3": {
+            "EffectType": "EPalPassiveSkillEffectType::DefenseRateBaseCampWorker",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 10.0
+        },
+        "Handcraft3_4": {
+            "EffectType": "EPalPassiveSkillEffectType::AttackRateBaseCampWorker",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 10.0
+        },
+        "Handcraft4": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductExtraItemProbability",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 10.0
+        },
+        "Handcraft4_2": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductExtraItemProbability",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 10.0
+        },
+        "Handcraft4_3": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductExtraItemProbability",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 10.0
+        },
+        "Handcraft4_4": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductExtraItemProbability",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 10.0
+        },
+        "EmitFlame1": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 20.0
+        },
+        "EmitFlame1_2": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 20.0
+        },
+        "EmitFlame1_3": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 20.0
+        },
+        "EmitFlame1_4": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 20.0
+        },
+        "EmitFlame1_5": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 700000,
+            "EffectValue": 20.0
+        },
+        "EmitFlame2": {
+            "EffectType": "EPalPassiveSkillEffectType::PalEggHatchingSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 15.0
+        },
+        "EmitFlame2_2": {
+            "EffectType": "EPalPassiveSkillEffectType::PalEggHatchingSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 15.0
+        },
+        "EmitFlame2_3": {
+            "EffectType": "EPalPassiveSkillEffectType::PalEggHatchingSpeed",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 15.0
+        },
+        "EmitFlame2_4": {
+            "EffectType": "EPalPassiveSkillEffectType::PalEggHatchingSpeed",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 15.0
+        },
+        "EmitFlame3": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 50.0
+        },
+        "EmitFlame3_2": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 50.0
+        },
+        "EmitFlame3_3": {
+            "EffectType": "EPalPassiveSkillEffectType::DefenseRateBaseCampWorker",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 10.0
+        },
+        "EmitFlame3_4": {
+            "EffectType": "EPalPassiveSkillEffectType::AttackRateBaseCampWorker",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 10.0
+        },
+        "EmitFlame4": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductExtraItemProbability",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 10.0
+        },
+        "EmitFlame4_2": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductExtraItemProbability",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 10.0
+        },
+        "EmitFlame4_3": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductExtraItemProbability",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 10.0
+        },
+        "EmitFlame4_4": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductExtraItemProbability",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 10.0
+        },
+        "Watering1": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 20.0
+        },
+        "Watering1_2": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 20.0
+        },
+        "Watering1_3": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 20.0
+        },
+        "Watering1_4": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 20.0
+        },
+        "Watering1_5": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 700000,
+            "EffectValue": 20.0
+        },
+        "Watering2": {
+            "RequiredWorkAmount": 50000,
+            "EffectType": "EPalPassiveSkillEffectType::FarmCropGrowupSpeed",
+            "EffectValue": 10.0
+        },
+        "Watering2_2": {
+            "RequiredWorkAmount": 150000,
+            "EffectType": "EPalPassiveSkillEffectType::FarmCropHarvestNumRate",
+            "EffectValue": 10.0
+        },
+        "Watering2_3": {
+            "RequiredWorkAmount": 300000,
+            "EffectType": "EPalPassiveSkillEffectType::FarmCropGrowupSpeed",
+            "EffectValue": 10.0
+        },
+        "Watering2_4": {
+            "TextId": "NAME_WATERING9",
+            "LabCategoryWorkSuitability": "EPalWorkSuitability::Watering",
+            "LabCategorySubType": "EPalLabCategorySubType::FarmCropHarvestNumRate",
+            "AssignDefineId": "Lab_Water_4",
+            "RequiredWorkAmount": 1500000,
+            "ResearchSpaceBlueprintClassName": "BP_LabResearchSpace_Watering",
+            "ResearchSpaceClassPath": {
+                "AssetPathName": "/Game/Pal/Blueprint/MapObject/BuildObject/LabResearchSpace/BP_LabResearchSpace_Watering.BP_LabResearchSpace_Watering_C",
+                "SubPathString": ""
+            },
+            "RequiredResearchId": "Watering2_3",
+            "Material1_Id": "PalFluid",
+            "Material1_Count": 200,
+            "Material2_Id": "Onion",
+            "Material2_Count": 130,
+            "Material3_Id": "PalCrystal_Ex",
+            "Material3_Count": 20,
+            "Material4_Id": "AncientParts3",
+            "Material4_Count": 35,
+            "EffectType": "EPalPassiveSkillEffectType::FarmCropHarvestNumRate",
+            "EffectValue": 10.0,
+            "EffectOptionWorkSuitability": "EPalWorkSuitability::None",
+            "EffectOptionItemType": "EPalPassiveSkillEffectTargetItemType::None",
+            "EffectDescriptionTextIdOverwrite": "None",
+            "bIsEssential": true
+        },
+        "Watering3": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 50.0
+        },
+        "Watering3_2": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 50.0
+        },
+        "Watering3_3": {
+            "EffectType": "EPalPassiveSkillEffectType::DefenseRateBaseCampWorker",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 10.0
+        },
+        "Watering3_4": {
+            "EffectType": "EPalPassiveSkillEffectType::AttackRateBaseCampWorker",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 10.0
+        },
+        "Watering4": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductExtraItemProbability",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 10.0
+        },
+        "Watering4_2": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductExtraItemProbability",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 10.0
+        },
+        "Seeding1": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 20.0
+        },
+        "Seeding1_2": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 20.0
+        },
+        "Seeding1_3": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 20.0
+        },
+        "Seeding1_4": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 20.0
+        },
+        "Seeding1_5": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 700000,
+            "EffectValue": 20.0
+        },
+        "Seeding2": {
+            "RequiredWorkAmount": 50000,
+            "EffectType": "EPalPassiveSkillEffectType::FarmCropGrowupSpeed",
+            "EffectValue": 10.0
+        },
+        "Seeding2_2": {
+            "RequiredWorkAmount": 150000,
+            "EffectType": "EPalPassiveSkillEffectType::FarmCropHarvestNumRate",
+            "EffectValue": 10.0
+        },
+        "Seeding2_3": {
+            "RequiredWorkAmount": 300000,
+            "EffectType": "EPalPassiveSkillEffectType::FarmCropGrowupSpeed",
+            "EffectValue": 10.0
+        },
+        "Seeding2_4": {
+            "RequiredWorkAmount": 550000,
+            "EffectType": "EPalPassiveSkillEffectType::FarmCropHarvestNumRate",
+            "EffectValue": 10.0
+        },
+        "Seeding2_5": {
+            "RequiredWorkAmount": 700000,
+            "EffectType": "EPalPassiveSkillEffectType::FarmCropGrowupSpeed",
+            "EffectValue": 10.0
+        },
+        "Seeding2_6": {
+            "RequiredWorkAmount": 950000,
+            "EffectType": "EPalPassiveSkillEffectType::FarmCropHarvestNumRate",
+            "EffectValue": 10.0
+        },
+        "Seeding3": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 50.0
+        },
+        "Seeding3_2": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 50.0
+        },
+        "Seeding3_3": {
+            "EffectType": "EPalPassiveSkillEffectType::DefenseRateBaseCampWorker",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 10.0
+        },
+        "Seeding3_4": {
+            "EffectType": "EPalPassiveSkillEffectType::AttackRateBaseCampWorker",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 10.0
+        },
+        "GenerateEnergy1": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 20.0
+        },
+        "GenerateEnergy1_2": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 20.0
+        },
+        "GenerateEnergy1_3": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 20.0
+        },
+        "GenerateEnergy1_4": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 20.0
+        },
+        "GenerateEnergy1_5": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 700000,
+            "EffectValue": 20.0
+        },
+        "GenerateEnergy2": {
+            "EffectType": "EPalPassiveSkillEffectType::EnergyStorageRate",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 30.0
+        },
+        "GenerateEnergy2_2": {
+            "EffectType": "EPalPassiveSkillEffectType::EnergyStorageRate",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 30.0
+        },
+        "GenerateEnergy2_3": {
+            "EffectType": "EPalPassiveSkillEffectType::EnergyStorageRate",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 30.0
+        },
+        "GenerateEnergy3": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 50.0
+        },
+        "GenerateEnergy3_2": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 50.0
+        },
+        "GenerateEnergy3_3": {
+            "EffectType": "EPalPassiveSkillEffectType::DefenseRateBaseCampWorker",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 10.0
+        },
+        "GenerateEnergy3_4": {
+            "EffectType": "EPalPassiveSkillEffectType::AttackRateBaseCampWorker",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 10.0
+        },
+        "GenerateEnergy4": {
+            "EffectType": "EPalPassiveSkillEffectType::ConsumeEnergyRate",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": -10.0
+        },
+        "GenerateEnergy4_2": {
+            "EffectType": "EPalPassiveSkillEffectType::ConsumeEnergyRate",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": -10.0
+        },
+        "GenerateEnergy4_3": {
+            "EffectType": "EPalPassiveSkillEffectType::ConsumeEnergyRate",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": -10.0
+        },
+        "Deforest1": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 20.0
+        },
+        "Deforest1_2": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 20.0
+        },
+        "Deforest1_3": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 20.0
+        },
+        "Deforest1_4": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 20.0
+        },
+        "Deforest1_5": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 700000,
+            "EffectValue": 20.0
+        },
+        "Deforest2": {
+            "EffectType": "EPalPassiveSkillEffectType::ExpeditionTimeCostRate",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": -10.0
+        },
+        "Deforest2_2": {
+            "EffectType": "EPalPassiveSkillEffectType::ExpeditionRewardRate",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 10.0
+        },
+        "Deforest2_3": {
+            "EffectType": "EPalPassiveSkillEffectType::ExpeditionTimeCostRate",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": -10.0
+        },
+        "Deforest2_4": {
+            "EffectType": "EPalPassiveSkillEffectType::ExpeditionRewardRate",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 10.0
+        },
+        "Deforest2_5": {
+            "EffectType": "EPalPassiveSkillEffectType::ExpeditionTimeCostRate",
+            "RequiredWorkAmount": 700000,
+            "EffectValue": -10.0
+        },
+        "Deforest2_6": {
+            "EffectType": "EPalPassiveSkillEffectType::ExpeditionRewardRate",
+            "RequiredWorkAmount": 950000,
+            "EffectValue": 10.0
+        },
+        "Deforest3": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 50.0
+        },
+        "Deforest3_2": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 50.0
+        },
+        "Deforest3_3": {
+            "EffectType": "EPalPassiveSkillEffectType::DefenseRateBaseCampWorker",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 10.0
+        },
+        "Deforest3_4": {
+            "EffectType": "EPalPassiveSkillEffectType::AttackRateBaseCampWorker",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 10.0
+        },
+        "Mining1": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 20.0
+        },
+        "Mining1_2": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 20.0
+        },
+        "Mining1_3": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 20.0
+        },
+        "Mining1_4": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 20.0
+        },
+        "Mining1_5": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 700000,
+            "EffectValue": 20.0
+        },
+        "Mining2": {
+            "EffectType": "EPalPassiveSkillEffectType::ExpeditionTimeCostRate",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": -10.0
+        },
+        "Mining2_2": {
+            "EffectType": "EPalPassiveSkillEffectType::ExpeditionRewardRate",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 10.0
+        },
+        "Mining2_3": {
+            "EffectType": "EPalPassiveSkillEffectType::ExpeditionTimeCostRate",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": -10.0
+        },
+        "Mining2_4": {
+            "EffectType": "EPalPassiveSkillEffectType::ExpeditionRewardRate",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 10.0
+        },
+        "Mining3": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 50.0
+        },
+        "Mining3_2": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 50.0
+        },
+        "Mining3_3": {
+            "EffectType": "EPalPassiveSkillEffectType::DefenseRateBaseCampWorker",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 10.0
+        },
+        "Mining3_4": {
+            "EffectType": "EPalPassiveSkillEffectType::AttackRateBaseCampWorker",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 10.0
+        },
+        "Mining4": {
+            "EffectType": "EPalPassiveSkillEffectType::OilExtractionSpeedRate",
+            "RequiredWorkAmount": 500000,
+            "EffectValue": 50.0
+        },
+        "Mining4_2": {
+            "EffectType": "EPalPassiveSkillEffectType::OilExtractionSpeedRate",
+            "RequiredWorkAmount": 700000,
+            "EffectValue": 50.0
+        },
+        "Mining4_3": {
+            "EffectType": "EPalPassiveSkillEffectType::OilExtractionSpeedRate",
+            "RequiredWorkAmount": 900000,
+            "EffectValue": 50.0
+        },
+        "Cool1": {
+            "EffectType": "EPalPassiveSkillEffectType::ItemCorruptionSpeedRate",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": -10.0
+        },
+        "Cool1_2": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 20.0
+        },
+        "Cool1_3": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 20.0
+        },
+        "Cool1_4": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 20.0
+        },
+        "Cool1_5": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 700000,
+            "EffectValue": 20.0
+        },
+        "Cool2": {
+            "EffectType": "EPalPassiveSkillEffectType::PalEggHatchingSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 15.0
+        },
+        "Cool2_2": {
+            "EffectType": "EPalPassiveSkillEffectType::PalEggHatchingSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 15.0
+        },
+        "Cool2_3": {
+            "EffectType": "EPalPassiveSkillEffectType::PalEggHatchingSpeed",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 15.0
+        },
+        "Cool2_4": {
+            "EffectType": "EPalPassiveSkillEffectType::PalEggHatchingSpeed",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 15.0
+        },
+        "Cool3": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 50.0
+        },
+        "Cool3_2": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 50.0
+        },
+        "Cool3_3": {
+            "EffectType": "EPalPassiveSkillEffectType::DefenseRateBaseCampWorker",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 10.0
+        },
+        "Cool3_4": {
+            "EffectType": "EPalPassiveSkillEffectType::AttackRateBaseCampWorker",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 10.0
+        },
+        "Cool4": {
+            "EffectType": "EPalPassiveSkillEffectType::ItemCorruptionSpeedRate",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": -10.0
+        },
+        "Cool4_2": {
+            "EffectType": "EPalPassiveSkillEffectType::ItemCorruptionSpeedRate",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": -10.0
+        },
+        "Cool4_3": {
+            "EffectType": "EPalPassiveSkillEffectType::ItemCorruptionSpeedRate",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": -10.0
+        },
+        "Medicine1": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 20.0
+        },
+        "Medicine1_2": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 20.0
+        },
+        "Medicine1_3": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 20.0
+        },
+        "Medicine1_4": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 20.0
+        },
+        "Medicine1_5": {
+            "EffectType": "EPalPassiveSkillEffectType::CraftSpeed",
+            "RequiredWorkAmount": 700000,
+            "EffectValue": 20.0
+        },
+        "Medicine2": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": 50.0
+        },
+        "Medicine2_2": {
+            "EffectType": "EPalPassiveSkillEffectType::LabResearchSpeed",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": 50.0
+        },
+        "Medicine2_3": {
+            "EffectType": "EPalPassiveSkillEffectType::DefenseRateBaseCampWorker",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": 10.0
+        },
+        "Medicine2_4": {
+            "EffectType": "EPalPassiveSkillEffectType::AttackRateBaseCampWorker",
+            "RequiredWorkAmount": 550000,
+            "EffectValue": 10.0
+        },
+        "Medicine3": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductItemConsumeMaterialNumRate",
+            "RequiredWorkAmount": 50000,
+            "EffectValue": -10.0
+        },
+        "Medicine3_2": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductItemConsumeMaterialNumRate",
+            "RequiredWorkAmount": 150000,
+            "EffectValue": -10.0
+        },
+        "Medicine3_3": {
+            "EffectType": "EPalPassiveSkillEffectType::ProductItemConsumeMaterialNumRate",
+            "RequiredWorkAmount": 300000,
+            "EffectValue": -10.0
+        }
+    },
+
+
+    // Expedition
+    "DT_CharacterTeamMissionDataTable": {
+        "Dungeon_Grass": {
+            "RecommendedStrength": 12500,
+            "RequiredElementType": "EPalElementType::None",
+            "RequiredElementNum": 0
+        },
+        "Dungeon_Forest": {
+            "RecommendedStrength": 28000,
+            "RequiredElementType": "EPalElementType::None",
+            "RequiredElementNum": 0
+        },
+        "Dungeon_Volcano": {
+            "RecommendedStrength": 72000,
+            "RequiredElementType": "EPalElementType::None",
+            "RequiredElementNum": 0
+        },
+        "Dungeon_Desert": {
+            "RecommendedStrength": 104500,
+            "RequiredElementType": "EPalElementType::None",
+            "RequiredElementNum": 0
+        },
+        "Dungeon_Snow": {
+            "RecommendedStrength": 143000,
+            "RequiredElementType": "EPalElementType::None",
+            "RequiredElementNum": 0
+        },
+        "Dungeon_Sakurajima": {
+            "RecommendedStrength": 187500,
+            "RequiredElementType": "EPalElementType::None",
+            "RequiredElementNum": 0
+        },
+        "Dungeon_DarkIsland": {
+            "RecommendedStrength": 238000,
+            "RequiredElementType": "EPalElementType::None",
+            "RequiredElementNum": 0
+        },
+        "Dungeon_GrassHard": {
+            "RecommendedStrength": 250000,
+            "RequiredElementType": "EPalElementType::None",
+            "RequiredElementNum": 0
+        },
+        "Dungeon_ForestHard": {
+            "RecommendedStrength": 250000,
+            "RequiredElementType": "EPalElementType::None",
+            "RequiredElementNum": 0
+        },
+        "Dungeon_VolcanoHard": {
+            "RecommendedStrength": 250000,
+            "RequiredElementType": "EPalElementType::None",
+            "RequiredElementNum": 0
+        },
+        "Dungeon_DesertHard": {
+            "RecommendedStrength": 250000,
+            "RequiredElementType": "EPalElementType::None",
+            "RequiredElementNum": 0
+        },
+        "Dungeon_SnowHard": {
+            "RecommendedStrength": 250000,
+            "RequiredElementType": "EPalElementType::None",
+            "RequiredElementNum": 0
+        },
+        "Dungeon_SakurajimaHard": {
+            "RecommendedStrength": 250000,
+            "RequiredElementType": "EPalElementType::None",
+            "RequiredElementNum": 0
+        },
+        "Dungeon_DarkIslandHard": {
+            "RecommendedStrength": 250000,
+            "RequiredElementType": "EPalElementType::None",
+            "RequiredElementNum": 0
+        }
+    }
+}

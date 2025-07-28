@@ -1,0 +1,80 @@
+{
+
+"DT_MapObjectMasterDataTable_Common": {
+      "DamagableRock_PV": {
+        "Hp": 500
+      },
+      "DamagableRock0001": {
+        "Hp": 500
+      },
+      "DamagableRock0002": {
+        "Hp": 500
+      },
+      "DamagableRock0003": {
+        "Hp": 500
+      },
+      "DamagableRock0004": {
+        "Hp": 500
+      },
+      "DamagableRock0005": {
+        "Hp": 500
+      },
+      "DamagableRock0006": {
+        "Hp": 500
+      },
+      "DamagableRock0007": {
+        "Hp": 500
+      },
+      "DamagableRock0008": {
+        "Hp": 500
+      },
+      "DamagableRock0009": {
+        "Hp": 500
+      },
+      "DamagableRock0010": {
+        "Hp": 500
+      },
+      "DamagableRock0011": {
+        "Hp": 500
+      },
+      "DamagableRock0012": {
+        "Hp": 500
+      },
+      "DamagableRock0013": {
+        "Hp": 500
+      },
+      "DamagableRock0014": {
+        "Hp": 500
+      },
+      "DamagableRock0015": {
+        "Hp": 500
+      },
+      "DamagableRock0016": {
+        "Hp": 500
+      },
+      "DamagableRock0017": {
+        "Hp": 500
+      },
+      "DamagableRock0018": {
+        "Hp": 500
+      },
+      "DamagableRock0019": {
+        "Hp": 500
+      },
+      "DamagableTree_Yakushima001": {
+        "Hp": 500
+      },
+      "DamagableTree_Yakushima002": {
+        "Hp": 500
+      },
+      "DamagableTree_Yakushima003": {
+        "Hp": 500
+      },
+      "MeteorDrop_Damagable": {
+        "Hp": 500
+      }
+}
+
+
+
+}

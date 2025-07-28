@@ -1,0 +1,482 @@
+{
+    "ClothArmorHeat": {
+        "DefenseValue": 25,
+        "HPValue": 70
+    },
+    "ClothArmorHeat_2": {
+        "DefenseValue": 32,
+        "HPValue": 91
+    },
+    "ClothArmorHeat_3": {
+        "DefenseValue": 35,
+        "HPValue": 98
+    },
+    "ClothArmorHeat_4": {
+        "DefenseValue": 37,
+        "HPValue": 105
+    },
+    "ClothArmorHeat_5": {
+        "DefenseValue": 40,
+        "HPValue": 112
+    },
+    "ClothArmorCold": {
+        "DefenseValue": 25,
+        "HPValue": 70
+    },
+    "ClothArmorCold_2": {
+        "DefenseValue": 32,
+        "HPValue": 91
+    },
+    "ClothArmorCold_3": {
+        "DefenseValue": 35,
+        "HPValue": 98
+    },
+    "ClothArmorCold_4": {
+        "DefenseValue": 37,
+        "HPValue": 105
+    },
+    "ClothArmorCold_5": {
+        "DefenseValue": 40,
+        "HPValue": 112
+    },
+    "ClothArmor": {
+        "DefenseValue": 25,
+        "HPValue": 70
+    },
+    "ClothArmor_2": {
+        "DefenseValue": 32,
+        "HPValue": 91
+    },
+    "ClothArmor_3": {
+        "DefenseValue": 35,
+        "HPValue": 98
+    },
+    "ClothArmor_4": {
+        "DefenseValue": 37,
+        "HPValue": 105
+    },
+    "ClothArmor_5": {
+        "DefenseValue": 40,
+        "HPValue": 112
+    },
+    "FurArmorHeat": {
+        "DefenseValue": 45,
+        "HPValue": 140
+    },
+    "FurArmorHeat_2": {
+        "DefenseValue": 58,
+        "HPValue": 182
+    },
+    "FurArmorHeat_3": {
+        "DefenseValue": 63,
+        "HPValue": 196
+    },
+    "FurArmorHeat_4": {
+        "DefenseValue": 67,
+        "HPValue": 210
+    },
+    "FurArmorHeat_5": {
+        "DefenseValue": 72,
+        "HPValue": 224
+    },
+    "FurArmorCold": {
+        "DefenseValue": 45,
+        "HPValue": 140
+    },
+    "FurArmorCold_2": {
+        "DefenseValue": 58,
+        "HPValue": 182
+    },
+    "FurArmorCold_3": {
+        "DefenseValue": 63,
+        "HPValue": 196
+    },
+    "FurArmorCold_4": {
+        "DefenseValue": 67,
+        "HPValue": 210
+    },
+    "FurArmorCold_5": {
+        "DefenseValue": 72,
+        "HPValue": 224
+    },
+    "FurArmor": {
+        "DefenseValue": 45,
+        "HPValue": 140
+    },
+    "FurArmor_2": {
+        "DefenseValue": 58,
+        "HPValue": 182
+    },
+    "FurArmor_3": {
+        "DefenseValue": 63,
+        "HPValue": 196
+    },
+    "FurArmor_4": {
+        "DefenseValue": 67,
+        "HPValue": 210
+    },
+    "FurArmor_5": {
+        "DefenseValue": 72,
+        "HPValue": 224
+    },
+    "CopperArmorHeat": {
+        "DefenseValue": 105,
+        "HPValue": 250
+    },
+    "CopperArmorHeat_2": {
+        "DefenseValue": 136,
+        "HPValue": 325
+    },
+    "CopperArmorHeat_3": {
+        "DefenseValue": 147,
+        "HPValue": 350
+    },
+    "CopperArmorHeat_4": {
+        "DefenseValue": 157,
+        "HPValue": 375
+    },
+    "CopperArmorHeat_5": {
+        "DefenseValue": 168,
+        "HPValue": 400
+    },
+    "CopperArmorCold": {
+        "DefenseValue": 105,
+        "HPValue": 250
+    },
+    "CopperArmorCold_2": {
+        "DefenseValue": 136,
+        "HPValue": 325
+    },
+    "CopperArmorCold_3": {
+        "DefenseValue": 147,
+        "HPValue": 350
+    },
+    "CopperArmorCold_4": {
+        "DefenseValue": 157,
+        "HPValue": 375
+    },
+    "CopperArmorCold_5": {
+        "DefenseValue": 168,
+        "HPValue": 400
+    },
+    "CopperArmor": {
+        "DefenseValue": 105,
+        "HPValue": 250
+    },
+    "CopperArmor_2": {
+        "DefenseValue": 136,
+        "HPValue": 325
+    },
+    "CopperArmor_3": {
+        "DefenseValue": 147,
+        "HPValue": 350
+    },
+    "CopperArmor_4": {
+        "DefenseValue": 157,
+        "HPValue": 375
+    },
+    "CopperArmor_5": {
+        "DefenseValue": 168,
+        "HPValue": 400
+    },
+    "IronArmorHeat": {
+        "DefenseValue": 180,
+        "HPValue": 500
+    },
+    "IronArmorHeat_2": {
+        "DefenseValue": 234,
+        "HPValue": 650
+    },
+    "IronArmorHeat_3": {
+        "DefenseValue": 252,
+        "HPValue": 700
+    },
+    "IronArmorHeat_4": {
+        "DefenseValue": 270,
+        "HPValue": 750
+    },
+    "IronArmorHeat_5": {
+        "DefenseValue": 288,
+        "HPValue": 800
+    },
+    "IronArmorCold": {
+        "DefenseValue": 180,
+        "HPValue": 500
+    },
+    "IronArmorCold_2": {
+        "DefenseValue": 234,
+        "HPValue": 650
+    },
+    "IronArmorCold_3": {
+        "DefenseValue": 252,
+        "HPValue": 700
+    },
+    "IronArmorCold_4": {
+        "DefenseValue": 270,
+        "HPValue": 750
+    },
+    "IronArmorCold_5": {
+        "DefenseValue": 288,
+        "HPValue": 800
+    },
+    "IronArmor": {
+        "DefenseValue": 180,
+        "HPValue": 500
+    },
+    "IronArmor_2": {
+        "DefenseValue": 234,
+        "HPValue": 650
+    },
+    "IronArmor_3": {
+        "DefenseValue": 252,
+        "HPValue": 700
+    },
+    "IronArmor_4": {
+        "DefenseValue": 270,
+        "HPValue": 750
+    },
+    "IronArmor_5": {
+        "DefenseValue": 288,
+        "HPValue": 800
+    },
+    "StealArmorHeat": {
+        "DefenseValue": 250,
+        "HPValue": 750
+    },
+    "StealArmorHeat_2": {
+        "DefenseValue": 325,
+        "HPValue": 975
+    },
+    "StealArmorHeat_3": {
+        "DefenseValue": 350,
+        "HPValue": 1050
+    },
+    "StealArmorHeat_4": {
+        "DefenseValue": 375,
+        "HPValue": 1125
+    },
+    "StealArmorHeat_5": {
+        "DefenseValue": 400,
+        "HPValue": 1200
+    },
+    "StealArmorCold": {
+        "DefenseValue": 250,
+        "HPValue": 750
+    },
+    "StealArmorCold_2": {
+        "DefenseValue": 325,
+        "HPValue": 975
+    },
+    "StealArmorCold_3": {
+        "DefenseValue": 350,
+        "HPValue": 1050
+    },
+    "StealArmorCold_4": {
+        "DefenseValue": 375,
+        "HPValue": 1125
+    },
+    "StealArmorCold_5": {
+        "DefenseValue": 400,
+        "HPValue": 1200
+    },
+    "StealArmor": {
+        "DefenseValue": 250,
+        "HPValue": 750
+    },
+    "StealArmor_2": {
+        "DefenseValue": 325,
+        "HPValue": 975
+    },
+    "StealArmor_3": {
+        "DefenseValue": 350,
+        "HPValue": 1050
+    },
+    "StealArmor_4": {
+        "DefenseValue": 375,
+        "HPValue": 1125
+    },
+    "StealArmor_5": {
+        "DefenseValue": 400,
+        "HPValue": 1200
+    },
+    "PlasticArmorHeat": {
+        "DefenseValue": 400,
+        "HPValue": 1300
+    },
+    "PlasticArmorHeat_2": {
+        "DefenseValue": 520,
+        "HPValue": 1560
+    },
+    "PlasticArmorHeat_3": {
+        "DefenseValue": 560,
+        "HPValue": 1690
+    },
+    "PlasticArmorHeat_4": {
+        "DefenseValue": 600,
+        "HPValue": 1820
+    },
+    "PlasticArmorHeat_5": {
+        "DefenseValue": 640,
+        "HPValue": 1950
+    },
+    "PlasticArmorCold": {
+        "DefenseValue": 400,
+        "HPValue": 1300
+    },
+    "PlasticArmorCold_2": {
+        "DefenseValue": 520,
+        "HPValue": 1560
+    },
+    "PlasticArmorCold_3": {
+        "DefenseValue": 560,
+        "HPValue": 1690
+    },
+    "PlasticArmorCold_4": {
+        "DefenseValue": 600,
+        "HPValue": 1820
+    },
+    "PlasticArmorCold_5": {
+        "DefenseValue": 640,
+        "HPValue": 1950
+    },
+    "PlasticArmorWeight": {
+        "DefenseValue": 400,
+        "HPValue": 1300
+    },
+    "PlasticArmorWeight_2": {
+        "DefenseValue": 520,
+        "HPValue": 1560
+    },
+    "PlasticArmorWeight_3": {
+        "DefenseValue": 560,
+        "HPValue": 1690
+    },
+    "PlasticArmorWeight_4": {
+        "DefenseValue": 600,
+        "HPValue": 1820
+    },
+    "PlasticArmorWeight_5": {
+        "DefenseValue": 640,
+        "HPValue": 1950
+    },
+    "PlasticArmor": {
+        "DefenseValue": 400,
+        "HPValue": 1300
+    },
+    "PlasticArmor_2": {
+        "DefenseValue": 520,
+        "HPValue": 1560
+    },
+    "PlasticArmor_3": {
+        "DefenseValue": 560,
+        "HPValue": 1690
+    },
+    "PlasticArmor_4": {
+        "DefenseValue": 600,
+        "HPValue": 1820
+    },
+    "PlasticArmor_5": {
+        "DefenseValue": 640,
+        "HPValue": 1950
+    },
+    "SFArmorHeat": {
+        "DefenseValue": 600,
+        "HPValue": 1750
+    },
+    "SFArmorHeat_2": {
+        "DefenseValue": 660,
+        "HPValue": 1925
+    },
+    "SFArmorHeat_3": {
+        "DefenseValue": 690,
+        "HPValue": 2012
+    },
+    "SFArmorHeat_4": {
+        "DefenseValue": 720,
+        "HPValue": 2100
+    },
+    "SFArmorHeat_5": {
+        "DefenseValue": 780,
+        "HPValue": 2275
+    },
+    "SFArmorCold": {
+        "DefenseValue": 600,
+        "HPValue": 1750
+    },
+    "SFArmorCold_2": {
+        "DefenseValue": 660,
+        "HPValue": 1925
+    },
+    "SFArmorCold_3": {
+        "DefenseValue": 690,
+        "HPValue": 2012
+    },
+    "SFArmorCold_4": {
+        "DefenseValue": 720,
+        "HPValue": 2100
+    },
+    "SFArmorCold_5": {
+        "DefenseValue": 780,
+        "HPValue": 2275
+    },
+    "SFArmorWeight": {
+        "DefenseValue": 600,
+        "HPValue": 1750
+    },
+    "SFArmorWeight_2": {
+        "DefenseValue": 660,
+        "HPValue": 1925
+    },
+    "SFArmorWeight_3": {
+        "DefenseValue": 690,
+        "HPValue": 2012
+    },
+    "SFArmorWeight_4": {
+        "DefenseValue": 720,
+        "HPValue": 2100
+    },
+    "SFArmorWeight_5": {
+        "DefenseValue": 780,
+        "HPValue": 2275
+    },
+    "SFArmor": {
+        "DefenseValue": 600,
+        "HPValue": 1750
+    },
+    "SFArmor_2": {
+        "DefenseValue": 660,
+        "HPValue": 1925
+    },
+    "SFArmor_3": {
+        "DefenseValue": 690,
+        "HPValue": 2012
+    },
+    "SFArmor_4": {
+        "DefenseValue": 720,
+        "HPValue": 2100
+    },
+    "SFArmor_5": {
+        "DefenseValue": 780,
+        "HPValue": 2275
+    },
+    "YakushimaArmor001": {
+        "DefenseValue": 200,
+        "HPValue": 650
+    },
+    "YakushimaArmor001_2": {
+        "DefenseValue": 260,
+        "HPValue": 845
+    },
+    "YakushimaArmor001_3": {
+        "DefenseValue": 280,
+        "HPValue": 910
+    },
+    "YakushimaArmor001_4": {
+        "DefenseValue": 300,
+        "HPValue": 975
+    },
+    "YakushimaArmor001_5": {
+        "DefenseValue": 320,
+        "HPValue": 1040
+    }
+}

@@ -1,0 +1,1121 @@
+{
+  "DT_ItemLotteryDataTable": {
+
+      "746": {
+        "FieldName": "CharacterSpawnItem_Berries_1",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Berries",
+        "MinNum": 1,
+        "MaxNum": 1,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "747": {
+        "FieldName": "CharacterSpawnItem_Berries_2",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Berries",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "748": {
+        "FieldName": "CharacterSpawnItem_Berries_3",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Berries",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "749": {
+        "FieldName": "CharacterSpawnItem_Berries_4",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Berries",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "750": {
+        "FieldName": "CharacterSpawnItem_Berries_5",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Berries",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "751": {
+        "FieldName": "CharacterSpawnItem_Venom_1",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Venom",
+        "MinNum": 1,
+        "MaxNum": 1,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "752": {
+        "FieldName": "CharacterSpawnItem_Venom_2",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Venom",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "753": {
+        "FieldName": "CharacterSpawnItem_Venom_3",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Venom",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "754": {
+        "FieldName": "CharacterSpawnItem_Venom_4",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Venom",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "755": {
+        "FieldName": "CharacterSpawnItem_Venom_5",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Venom",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "756": {
+        "FieldName": "CharacterSpawnItem_Cloth2_1",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Cloth2",
+        "MinNum": 1,
+        "MaxNum": 1,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "757": {
+        "FieldName": "CharacterSpawnItem_Cloth2_2",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Cloth2",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "758": {
+        "FieldName": "CharacterSpawnItem_Cloth2_3",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Cloth2",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "759": {
+        "FieldName": "CharacterSpawnItem_Cloth2_4",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Cloth2",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "760": {
+        "FieldName": "CharacterSpawnItem_Cloth2_5",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Cloth2",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "761": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank1",
+        "SlotNo": 1,
+        "WeightInSlot": 100.0,
+        "StaticItemId": "PalSphere",
+        "MinNum": 1,
+        "MaxNum": 1,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "762": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank1",
+        "SlotNo": 1,
+        "WeightInSlot": 0.0,
+        "StaticItemId": "None",
+        "MinNum": 0,
+        "MaxNum": 0,
+        "NumUnit": 0,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "763": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank1",
+        "SlotNo": 1,
+        "WeightInSlot": 0.0,
+        "StaticItemId": "None",
+        "MinNum": 0,
+        "MaxNum": 0,
+        "NumUnit": 0,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "764": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank1",
+        "SlotNo": 1,
+        "WeightInSlot": 0.0,
+        "StaticItemId": "None",
+        "MinNum": 0,
+        "MaxNum": 0,
+        "NumUnit": 0,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "765": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank2",
+        "SlotNo": 1,
+        "WeightInSlot": 100.0,
+        "StaticItemId": "PalSphere",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "766": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank2",
+        "SlotNo": 1,
+        "WeightInSlot": 100.0,
+        "StaticItemId": "PalSphere_Mega",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "767": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank2",
+        "SlotNo": 1,
+        "WeightInSlot": 0.0,
+        "StaticItemId": "None",
+        "MinNum": 0,
+        "MaxNum": 0,
+        "NumUnit": 0,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "768": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank2",
+        "SlotNo": 1,
+        "WeightInSlot": 0.0,
+        "StaticItemId": "None",
+        "MinNum": 0,
+        "MaxNum": 0,
+        "NumUnit": 0,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "769": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank3",
+        "SlotNo": 1,
+        "WeightInSlot": 100.0,
+        "StaticItemId": "PalSphere",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "770": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank3",
+        "SlotNo": 1,
+        "WeightInSlot": 100.0,
+        "StaticItemId": "PalSphere_Mega",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "771": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank3",
+        "SlotNo": 1,
+        "WeightInSlot": 100.0,
+        "StaticItemId": "PalSphere_Giga",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "772": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank3",
+        "SlotNo": 1,
+        "WeightInSlot": 0.0,
+        "StaticItemId": "None",
+        "MinNum": 0,
+        "MaxNum": 0,
+        "NumUnit": 0,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "773": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank3",
+        "SlotNo": 1,
+        "WeightInSlot": 0.0,
+        "StaticItemId": "None",
+        "MinNum": 0,
+        "MaxNum": 0,
+        "NumUnit": 0,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "774": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank4",
+        "SlotNo": 1,
+        "WeightInSlot": 100.0,
+        "StaticItemId": "PalSphere",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "775": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank4",
+        "SlotNo": 1,
+        "WeightInSlot": 100.0,
+        "StaticItemId": "PalSphere_Mega",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "776": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank4",
+        "SlotNo": 1,
+        "WeightInSlot": 100.0,
+        "StaticItemId": "PalSphere_Giga",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "777": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank4",
+        "SlotNo": 1,
+        "WeightInSlot": 100.0,
+        "StaticItemId": "PalSphere_Tera",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "778": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank4",
+        "SlotNo": 1,
+        "WeightInSlot": 0.0,
+        "StaticItemId": "None",
+        "MinNum": 0,
+        "MaxNum": 0,
+        "NumUnit": 0,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "779": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank4",
+        "SlotNo": 1,
+        "WeightInSlot": 0.0,
+        "StaticItemId": "None",
+        "MinNum": 0,
+        "MaxNum": 0,
+        "NumUnit": 0,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "780": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank5",
+        "SlotNo": 1,
+        "WeightInSlot": 100.0,
+        "StaticItemId": "PalSphere",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "781": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank5",
+        "SlotNo": 1,
+        "WeightInSlot": 100.0,
+        "StaticItemId": "PalSphere_Mega",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "782": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank5",
+        "SlotNo": 1,
+        "WeightInSlot": 100.0,
+        "StaticItemId": "PalSphere_Giga",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "783": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank5",
+        "SlotNo": 1,
+        "WeightInSlot": 100.0,
+        "StaticItemId": "PalSphere_Tera",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "784": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank5",
+        "SlotNo": 1,
+        "WeightInSlot": 100.0,
+        "StaticItemId": "PalSphere_Master",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "785": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank5",
+        "SlotNo": 1,
+        "WeightInSlot": 0.0,
+        "StaticItemId": "None",
+        "MinNum": 0,
+        "MaxNum": 0,
+        "NumUnit": 0,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "786": {
+        "FieldName": "CharacterSpawnItem_CuteFoxRank5",
+        "SlotNo": 1,
+        "WeightInSlot": 0.0,
+        "StaticItemId": "None",
+        "MinNum": 0,
+        "MaxNum": 0,
+        "NumUnit": 0,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "787": {
+        "FieldName": "CharacterSpawnItem_Egg_1",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Egg",
+        "MinNum": 1,
+        "MaxNum": 1,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "788": {
+        "FieldName": "CharacterSpawnItem_Egg_2",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Egg",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "789": {
+        "FieldName": "CharacterSpawnItem_Egg_3",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Egg",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "790": {
+        "FieldName": "CharacterSpawnItem_Egg_4",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Egg",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "791": {
+        "FieldName": "CharacterSpawnItem_Egg_5",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Egg",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "792": {
+        "FieldName": "CharacterSpawnItem_Milk_1",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Milk",
+        "MinNum": 1,
+        "MaxNum": 1,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "793": {
+        "FieldName": "CharacterSpawnItem_Milk_2",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Milk",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "794": {
+        "FieldName": "CharacterSpawnItem_Milk_3",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Milk",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "795": {
+        "FieldName": "CharacterSpawnItem_Milk_4",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Milk",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "796": {
+        "FieldName": "CharacterSpawnItem_Milk_5",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Milk",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "797": {
+        "FieldName": "CharacterSpawnItem_Money_1",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Money",
+        "MinNum": 100,
+        "MaxNum": 100,
+        "NumUnit": 100,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "798": {
+        "FieldName": "CharacterSpawnItem_Money_2",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Money",
+        "MinNum": 200,
+        "MaxNum": 200,
+        "NumUnit": 200,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "799": {
+        "FieldName": "CharacterSpawnItem_Money_3",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Money",
+        "MinNum": 300,
+        "MaxNum": 300,
+        "NumUnit": 300,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "800": {
+        "FieldName": "CharacterSpawnItem_Money_4",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Money",
+        "MinNum": 400,
+        "MaxNum": 400,
+        "NumUnit": 400,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "801": {
+        "FieldName": "CharacterSpawnItem_Money_5",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Money",
+        "MinNum": 400,
+        "MaxNum": 400,
+        "NumUnit": 400,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "802": {
+        "FieldName": "CharacterSpawnItem_Sweets_1",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Sweet",
+        "MinNum": 1,
+        "MaxNum": 1,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "803": {
+        "FieldName": "CharacterSpawnItem_Sweets_2",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Sweet",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "804": {
+        "FieldName": "CharacterSpawnItem_Sweets_3",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Sweet",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "805": {
+        "FieldName": "CharacterSpawnItem_Sweets_4",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Sweet",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "806": {
+        "FieldName": "CharacterSpawnItem_Sweets_5",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Sweet",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "807": {
+        "FieldName": "CharacterSpawnItem_Bone_1",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Bone",
+        "MinNum": 1,
+        "MaxNum": 1,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "808": {
+        "FieldName": "CharacterSpawnItem_Bone_2",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Bone",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "809": {
+        "FieldName": "CharacterSpawnItem_Bone_3",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Bone",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "810": {
+        "FieldName": "CharacterSpawnItem_Bone_4",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Bone",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "811": {
+        "FieldName": "CharacterSpawnItem_Bone_5",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Bone",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "812": {
+        "FieldName": "CharacterSpawnItem_Wool_1",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Wool",
+        "MinNum": 1,
+        "MaxNum": 1,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "813": {
+        "FieldName": "CharacterSpawnItem_Wool_2",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Wool",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "814": {
+        "FieldName": "CharacterSpawnItem_Wool_3",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Wool",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "815": {
+        "FieldName": "CharacterSpawnItem_Wool_4",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Wool",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "816": {
+        "FieldName": "CharacterSpawnItem_Wool_5",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Wool",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "817": {
+        "FieldName": "CharacterSpawnItem_SoldierBee_1",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Honey",
+        "MinNum": 1,
+        "MaxNum": 1,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "818": {
+        "FieldName": "CharacterSpawnItem_SoldierBee_2",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Honey",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "819": {
+        "FieldName": "CharacterSpawnItem_SoldierBee_3",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Honey",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "820": {
+        "FieldName": "CharacterSpawnItem_SoldierBee_4",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Honey",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "821": {
+        "FieldName": "CharacterSpawnItem_SoldierBee_5",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Honey",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "822": {
+        "FieldName": "CharacterSpawnItem_LavaGirl_1",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "FireOrgan",
+        "MinNum": 1,
+        "MaxNum": 1,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "823": {
+        "FieldName": "CharacterSpawnItem_LavaGirl_2",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "FireOrgan",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "824": {
+        "FieldName": "CharacterSpawnItem_LavaGirl_3",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "FireOrgan",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "825": {
+        "FieldName": "CharacterSpawnItem_LavaGirl_4",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "FireOrgan",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "826": {
+        "FieldName": "CharacterSpawnItem_LavaGirl_5",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "FireOrgan",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "828": {
+        "FieldName": "CharacterSpawnItem_Kelpie_1",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "PalFluid",
+        "MinNum": 1,
+        "MaxNum": 1,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "829": {
+        "FieldName": "CharacterSpawnItem_Kelpie_2",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "PalFluid",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "830": {
+        "FieldName": "CharacterSpawnItem_Kelpie_3",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "PalFluid",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "831": {
+        "FieldName": "CharacterSpawnItem_Kelpie_4",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "PalFluid",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "832": {
+        "FieldName": "CharacterSpawnItem_Kelpie_5",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "PalFluid",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "833": {
+        "FieldName": "CharacterSpawnItem_Kelpie_Fire_1",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "FireOrgan",
+        "MinNum": 1,
+        "MaxNum": 1,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "834": {
+        "FieldName": "CharacterSpawnItem_Kelpie_Fire_2",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "FireOrgan",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "835": {
+        "FieldName": "CharacterSpawnItem_Kelpie_Fire_3",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "FireOrgan",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "836": {
+        "FieldName": "CharacterSpawnItem_Kelpie_Fire_4",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "FireOrgan",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "837": {
+        "FieldName": "CharacterSpawnItem_Kelpie_Fire_5",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "FireOrgan",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "838": {
+        "FieldName": "CharacterSpawnItem_LazyCatFish_1",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "PalOil",
+        "MinNum": 1,
+        "MaxNum": 1,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "839": {
+        "FieldName": "CharacterSpawnItem_LazyCatFish_2",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "PalOil",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "840": {
+        "FieldName": "CharacterSpawnItem_LazyCatFish_3",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "PalOil",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "841": {
+        "FieldName": "CharacterSpawnItem_LazyCatFish_4",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "PalOil",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "842": {
+        "FieldName": "CharacterSpawnItem_LazyCatFish_5",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "PalOil",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "843": {
+        "FieldName": "CharacterSpawnItem_Alpaca_1",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Wool",
+        "MinNum": 1,
+        "MaxNum": 1,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "844": {
+        "FieldName": "CharacterSpawnItem_Alpaca_2",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Wool",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "845": {
+        "FieldName": "CharacterSpawnItem_Alpaca_3",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Wool",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "846": {
+        "FieldName": "CharacterSpawnItem_Alpaca_4",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Wool",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "847": {
+        "FieldName": "CharacterSpawnItem_Alpaca_5",
+        "SlotNo": 1,
+        "WeightInSlot": 1.0,
+        "StaticItemId": "Wool",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+
+
+
+
+            "3583": {
+        "FieldName": "CharacterSpawnItem_LazyCatFish_Gold_1",
+        "SlotNo": 1,
+        "WeightInSlot": 8.0,
+        "StaticItemId": "PalOil",
+        "MinNum": 1,
+        "MaxNum": 1,
+        "NumUnit": 1,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "3584": {
+        "FieldName": "CharacterSpawnItem_LazyCatFish_Gold_1",
+        "SlotNo": 1,
+        "WeightInSlot": 2.0,
+        "StaticItemId": "Money",
+        "MinNum": 100,
+        "MaxNum": 100,
+        "NumUnit": 100,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "3585": {
+        "FieldName": "CharacterSpawnItem_LazyCatFish_Gold_2",
+        "SlotNo": 1,
+        "WeightInSlot": 8.0,
+        "StaticItemId": "PalOil",
+        "MinNum": 2,
+        "MaxNum": 2,
+        "NumUnit": 2,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "3586": {
+        "FieldName": "CharacterSpawnItem_LazyCatFish_Gold_2",
+        "SlotNo": 1,
+        "WeightInSlot": 2.0,
+        "StaticItemId": "Money",
+        "MinNum": 200,
+        "MaxNum": 200,
+        "NumUnit": 200,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "3587": {
+        "FieldName": "CharacterSpawnItem_LazyCatFish_Gold_3",
+        "SlotNo": 1,
+        "WeightInSlot": 8.0,
+        "StaticItemId": "PalOil",
+        "MinNum": 3,
+        "MaxNum": 3,
+        "NumUnit": 3,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "3588": {
+        "FieldName": "CharacterSpawnItem_LazyCatFish_Gold_3",
+        "SlotNo": 1,
+        "WeightInSlot": 2.0,
+        "StaticItemId": "Money",
+        "MinNum": 300,
+        "MaxNum": 300,
+        "NumUnit": 300,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "3589": {
+        "FieldName": "CharacterSpawnItem_LazyCatFish_Gold_4",
+        "SlotNo": 1,
+        "WeightInSlot": 8.0,
+        "StaticItemId": "PalOil",
+        "MinNum": 4,
+        "MaxNum": 4,
+        "NumUnit": 4,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "3590": {
+        "FieldName": "CharacterSpawnItem_LazyCatFish_Gold_4",
+        "SlotNo": 1,
+        "WeightInSlot": 2.0,
+        "StaticItemId": "Money",
+        "MinNum": 400,
+        "MaxNum": 400,
+        "NumUnit": 400,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "3591": {
+        "FieldName": "CharacterSpawnItem_LazyCatFish_Gold_5",
+        "SlotNo": 1,
+        "WeightInSlot": 8.0,
+        "StaticItemId": "PalOil",
+        "MinNum": 5,
+        "MaxNum": 5,
+        "NumUnit": 5,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      },
+      "3592": {
+        "FieldName": "CharacterSpawnItem_LazyCatFish_Gold_5",
+        "SlotNo": 1,
+        "WeightInSlot": 2.0,
+        "StaticItemId": "Money",
+        "MinNum": 500,
+        "MaxNum": 500,
+        "NumUnit": 500,
+        "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
+      }
+
+
+  }
+}

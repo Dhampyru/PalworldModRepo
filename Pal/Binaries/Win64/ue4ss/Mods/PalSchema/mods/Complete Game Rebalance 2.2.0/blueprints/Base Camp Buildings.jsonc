@@ -1,0 +1,392 @@
+{
+    "BP_BuildObject_BlastFurnace_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 2.0
+        }
+    },
+    "BP_BuildObject_BlastFurnace_2_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 4.0
+        }
+    },
+    "BP_BuildObject_BlastFurnace3_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 6.0
+        }
+    },
+    "BP_BuildObject_BlastFurnace4_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 8.0
+        }
+    },
+    "BP_BuildObject_CampFire_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 2.0
+        }
+    },
+    "BP_BuildObject_CookingStove_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 4.0
+        }
+    },
+    "BP_BuildObject_ElectricKitchen_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 6.0
+        }
+    },
+    "BP_BuildObject_HugeKitchen_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 8.0
+        }
+    },
+    "BP_BuildObject_WorkBench_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 2.0
+        }
+    },
+    "BP_BuildObject_Factory_Hard_01_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 4.0
+        }
+    },
+    "BP_BuildObject_Factory_Hard_02_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 6.0
+        }
+    },
+    "BP_BuildObject_Factory_Hard_03_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 8.0
+        }
+    },
+    "BP_BuildObject_Factory_Hard_04_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 10.0
+        }
+    },
+    "BP_BuildObject_WeaponFactory_Dirty_01_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 4.0
+        }
+    },
+    "BP_BuildObject_WeaponFactory_Dirty_02_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 6.0
+        }
+    },
+    "BP_BuildObject_WeaponFactory_Dirty_03_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 8.0
+        }
+    },
+    "BP_BuildObject_WeaponFactory_Dirty_04_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 10.0
+        }
+    },
+    "BP_BuildObject_SphereFactory_Black_01_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 4.0
+        }
+    },
+    "BP_BuildObject_SphereFactory_Black_02_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 6.0
+        }
+    },
+    "BP_BuildObject_SphereFactory_Black_03_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 8.0
+        }
+    },
+    "BP_BuildObject_SphereFactory_Black_04_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 10.0
+        }
+    },
+    "BP_BuildObject_MedicineFacility_01_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 2.0
+        }
+    },
+    "BP_BuildObject_MedicineFacility_02_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 4.0
+        }
+    },
+    "BP_BuildObject_MedicineFacility_03_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 6.0
+        }
+    },
+    "BP_BuildObject_Crusher_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 2.0,
+            "MaterialTypesB": [
+                "EPalItemTypeB::MaterialOre",
+                "EPalItemTypeB::MaterialStone",
+                "EPalItemTypeB::MaterialWood",
+                "EPalItemTypeB::MaterialMonster"
+            ]
+        }
+    },
+    "BP_BuildObject_FlourMill_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 2.0
+        }
+    },
+    "BP_BuildObject_IceCrusher_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 4.0,
+            "TargetRankMax": 3
+        }
+    },
+    "BP_BuildObject_WorkBench_SkillUnlock_C": {
+        "ItemConverterParameter": {
+            "WorkSpeedAdditionalRate": 2.0
+        }
+    },
+
+    
+    // Skillfruit Orchard
+    "BP_BuildObject_Farm_SkillFruits_C": {
+        "PalMapObjectFarmSkillFruitsParameter": {
+            "GrowupTime": 4000.0,
+            "WateringWorkAmount": 100000.0
+        }
+    },
+
+
+    // Breed Farm
+    "BP_BuildObject_BreedFarm_C": {
+        "BreedFarmParameter": {
+            "BreedRequiredRealTime": 10.0,
+            "ExistPalEggMaxNum": 100
+        }
+    },
+
+
+    // Dismantling Conveyor
+    "BP_BuildObject_DismantlingConveyor_C": {
+        "ConvertCharacterToItemParameter": {
+            "ContainerSlotNum": 48,
+            "RequiredConvertProcessTime": 3,
+            "ConvertQueueCapacity": 5
+        }
+    },
+
+
+    // Passive Effect Furniture
+    "BP_BuildObject_SanityDecrease1_C": {
+        "PalMapObjectBaseCampPassiveEffectSanityParameter": {
+            "SanityDecreaseSuppressRate": 50.0
+        }
+    },
+    "BP_BuildObject_WorkSpeedIncrease1_C": {
+        "PalMapObjectBaseCampPassiveEffectAllWorkSpeedParameter": {
+            "WorkSpeedAdditionalRate": 50.0
+        }
+    },
+    "BP_BuildObject_ToolBoxV1_C": {
+        "BaseCampPassiveEffectWorkSpeedParameter": {
+            "WorkSpeedAdditionalRate": 50.0
+        }
+    },
+    "BP_BuildObject_OlympicCauldron_C": {
+        "BaseCampPassiveEffectWorkSpeedParameter": {
+            "WorkSpeedAdditionalRate": 50.0
+        }
+    },
+    "BP_BuildObject_Fountain_C": {
+        "BaseCampPassiveEffectWorkSpeedParameter": {
+            "WorkSpeedAdditionalRate": 50.0
+        }
+    },
+    "BP_BuildObject_FlowerBed_C": {
+        "BaseCampPassiveEffectWorkSpeedParameter": {
+            "WorkSpeedAdditionalRate": 50.0
+        }
+    },
+    "BP_BuildObject_Silo_C": {
+        "BaseCampPassiveEffectWorkSpeedParameter": {
+            "WorkSpeedAdditionalRate": 50.0
+        }
+    },
+    "BP_BuildObject_Stump_C": {
+        "BaseCampPassiveEffectWorkSpeedParameter": {
+            "WorkSpeedAdditionalRate": 50.0
+        }
+    },
+    "BP_BuildObject_MiningTool_C": {
+        "BaseCampPassiveEffectWorkSpeedParameter": {
+            "WorkSpeedAdditionalRate": 50.0
+        }
+    },
+    "BP_BuildObject_Cauldron_C": {
+        "BaseCampPassiveEffectWorkSpeedParameter": {
+            "WorkSpeedAdditionalRate": 50.0
+        }
+    },
+    "BP_BuildObject_Snowman_C": {
+        "BaseCampPassiveEffectWorkSpeedParameter": {
+            "WorkSpeedAdditionalRate": 50.0
+        }
+    },
+    "BP_BuildObject_TransmissionTower_C": {
+        "BaseCampPassiveEffectWorkSpeedParameter": {
+            "WorkSpeedAdditionalRate": 50.0
+        }
+    },
+
+
+    // Standard storages
+    "BP_BuildObject_CoolerBox_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 24
+        }
+    },
+    "BP_BuildObject_Refrigerator_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 42
+        }
+    },
+    "BP_BuildObject_ItemChest_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 24
+        }
+    },
+    "BP_BuildObject_ItemChest_02_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 42
+        }
+    },
+    "BP_BuildObject_ItemChest_03_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 60
+        }
+    },
+    "BP_BuildObject_ItemChest_04_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 78
+        }
+    },
+
+
+    // Decorative wooden tier storages
+    "BP_BuildObject_Barrel_Wood_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 24
+        }
+    },
+    "BP_BuildObject_Box_Wood_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 24
+        }
+    },
+    "BP_BuildObject_Shelf_Wood_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 24
+        }
+    },
+    "BP_BuildObject_Shelf_Cask_Wood_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 24
+        }
+    },
+    "BP_BuildObject_Shelf_Hang01_Wood_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 24
+        }
+    },
+    "BP_BuildObject_Tansu_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 24
+        }
+    },
+
+
+    // Decorative stone tier storages
+    "BP_BuildObject_Shelf01_Stone_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 30
+        }
+    },
+    "BP_BuildObject_Shelf02_Stone_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 30
+        }
+    },
+    "BP_BuildObject_Shelf03_Stone_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 30
+        }
+    },
+    "BP_BuildObject_Shelf04_Stone_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 30
+        }
+    },
+    "BP_BuildObject_Shelf05_Stone_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 30
+        }
+    },
+    "BP_BuildObject_Shelf06_Stone_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 30
+        }
+    },
+    "BP_BuildObject_Shelf07_Stone_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 30
+        }
+    },
+    "BP_BuildObject_Shelf01_Wall_Stone_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 30
+        }
+    },
+
+
+    // Decorative iron tier storages
+    "BP_BuildObject_Shelf01_Wall_Iron_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 36
+        }
+    },
+    "BP_BuildObject_Shelf01_Iron_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 36
+        }
+    },
+    "BP_BuildObject_Shelf02_Iron_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 36
+        }
+    },
+    "BP_BuildObject_Shelf03_Iron_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 36
+        }
+    },
+    "BP_BuildObject_Shelf04_Iron_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 36
+        }
+    },
+    "BP_BuildObject_Container01_Iron_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 36
+        }
+    },
+    "BP_BuildObject_Box01_Iron_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 36
+        }
+    },
+    "BP_BuildObject_Box02_Iron_C": {
+        "PalMapObjectItemChestParameter": {
+            "SlotNum": 36
+        }
+    }
+}

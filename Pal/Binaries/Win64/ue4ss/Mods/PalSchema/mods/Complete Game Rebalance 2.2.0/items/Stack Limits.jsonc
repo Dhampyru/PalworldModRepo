@@ -1,0 +1,194 @@
+{
+    "Stone": {
+        "MaxStackCount": 999999
+    },
+    "Berries": {
+        "MaxStackCount": 999999
+    },
+    "Charcoal": {
+        "MaxStackCount": 999999
+    },
+    "Cloth": {
+        "MaxStackCount": 999999
+    },
+    "Cloth2": {
+        "MaxStackCount": 999999
+    },
+    "Coal": {
+        "MaxStackCount": 999999
+    },
+    "CopperIngot": {
+        "MaxStackCount": 999999
+    },
+    "CopperOre": {
+        "MaxStackCount": 999999
+    },
+    "Fiber": {
+        "MaxStackCount": 999999
+    },
+    "Gunpowder2": {
+        "MaxStackCount": 999999
+    },
+    "IronIngot": {
+        "MaxStackCount": 999999
+    },
+    "Leather": {
+        "MaxStackCount": 999999
+    },
+    "MachineParts": {
+        "MaxStackCount": 999999
+    },
+    "MachineParts2": {
+        "MaxStackCount": 999999
+    },
+    "PalSphere": {
+        "MaxStackCount": 999999
+    },
+    "PalSphere_Mega": {
+        "MaxStackCount": 999999
+    },
+    "PalSphere_Giga": {
+        "MaxStackCount": 999999
+    },
+    "PalSphere_Tera": {
+        "MaxStackCount": 999999
+    },
+    "PalSphere_Master": {
+        "MaxStackCount": 999999
+    },
+    "PalSphere_Legend": {
+        "MaxStackCount": 999999
+    },
+    "StealIngot": {
+        "MaxStackCount": 999999
+    },
+    "Pal_crystal_S": {
+        "MaxStackCount": 999999
+    },
+    "Tomato": {
+        "MaxStackCount": 999999
+    },
+    "Wheat": {
+        "MaxStackCount": 999999
+    },
+    "Flour": {
+        "MaxStackCount": 999999
+    },
+    "Wood": {
+        "MaxStackCount": 999999
+    },
+    "Wool": {
+        "MaxStackCount": 999999
+    },
+    "CrudeOil": {
+        "MaxStackCount": 999999
+    },
+    "Plastic": {
+        "MaxStackCount": 999999
+    },
+    "Lettuce": {
+        "MaxStackCount": 999999
+    },
+    "Egg": {
+        "MaxStackCount": 999999
+    },
+    "Milk": {
+        "MaxStackCount": 999999
+    },
+    "PalCrystal_Ex": {
+        "MaxStackCount": 999999
+    },
+    "Honey": {
+        "MaxStackCount": 999999
+    },
+    "Sulfur": {
+        "MaxStackCount": 999999
+    },
+    "Sweet": {
+        "MaxStackCount": 999999
+    },
+    "Quartz": {
+        "MaxStackCount": 999999
+    },
+    "PalOil": {
+        "MaxStackCount": 999999
+    },
+    "ElectricOrgan": {
+        "MaxStackCount": 999999
+    },
+    "FireOrgan": {
+        "MaxStackCount": 999999
+    },
+    "Venom": {
+        "MaxStackCount": 999999
+    },
+    "Bone": {
+        "MaxStackCount": 999999
+    },
+    "IceOrgan": {
+        "MaxStackCount": 999999
+    },
+    "Cement": {
+        "MaxStackCount": 999999
+    },
+    "CarbonFiber": {
+        "MaxStackCount": 999999
+    },
+    "PalFluid": {
+        "MaxStackCount": 999999
+    },
+    "Horn": {
+        "MaxStackCount": 999999
+    },
+    "CaveMushroom": {
+        "MaxStackCount": 999999
+    },
+    "PalSphere_Ultimate": {
+        "MaxStackCount": 999999
+    },
+    "PoisonMushroom": {
+        "MaxStackCount": 999999
+    },
+    "Potato": {
+        "MaxStackCount": 999999
+    },
+    "Carrot": {
+        "MaxStackCount": 999999
+    },
+    "Onion": {
+        "MaxStackCount": 999999
+    },
+    "BountyProof_1": {
+        "MaxStackCount": 999999
+    },
+    "AncientParts3": {
+        "MaxStackCount": 999999
+    },
+    "PalSphere_Exotic": {
+        "MaxStackCount": 999999
+    },
+    "Chromium": {
+        "MaxStackCount": 999999
+    },
+    "StainlessSteel": {
+        "MaxStackCount": 999999
+    },
+    "RainbowCrystal": {
+        "MaxStackCount": 999999
+    },
+    "BattleTicket": {
+        "MaxStackCount": 999999
+    },
+    "YakushimaIngot001": {
+        "MaxStackCount": 999999
+    },
+    "ManganeseOre": {
+        "MaxStackCount": 999999
+    },
+    "ManganeseIngot": {
+        "MaxStackCount": 999999
+    },
+    "DogCoin": {
+        "MaxStackCount": 999999
+    }
+}
