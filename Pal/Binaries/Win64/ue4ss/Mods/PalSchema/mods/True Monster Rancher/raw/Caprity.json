@@ -1,0 +1,104 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "746": {
+          "FieldName": "CharacterSpawnItem_Berries_1",
+          "SlotNo": 1,
+          "WeightInSlot": 0.667,
+          "StaticItemId": "Berries",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "747": {
+          "FieldName": "CharacterSpawnItem_Berries_2",
+          "SlotNo": 1,
+          "WeightInSlot": 0.667,
+          "StaticItemId": "Berries",
+          "MinNum": 1,
+          "MaxNum": 2,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "748": {
+          "FieldName": "CharacterSpawnItem_Berries_3",
+          "SlotNo": 1,
+          "WeightInSlot": 0.667,
+          "StaticItemId": "Berries",
+          "MinNum": 1,
+          "MaxNum": 3,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "749": {
+          "FieldName": "CharacterSpawnItem_Berries_4",
+          "SlotNo": 1,
+          "WeightInSlot": 0.667,
+          "StaticItemId": "Berries",
+          "MinNum": 1,
+          "MaxNum": 4,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "750": {
+          "FieldName": "CharacterSpawnItem_Berries_5",
+          "SlotNo": 1,
+          "WeightInSlot": 0.667,
+          "StaticItemId": "Berries",
+          "MinNum": 1,
+          "MaxNum": 5,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_Berries001": {
+          "FieldName": "CharacterSpawnItem_Berries_1",
+          "SlotNo": 1,
+          "WeightInSlot": 0.333,
+          "StaticItemId": "Horn",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_Berries002": {
+          "FieldName": "CharacterSpawnItem_Berries_2",
+          "SlotNo": 1,
+          "WeightInSlot": 0.333,
+          "StaticItemId": "Horn",
+          "MinNum": 1,
+          "MaxNum": 2,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_Berries003": {
+          "FieldName": "CharacterSpawnItem_Berries_3",
+          "SlotNo": 1,
+          "WeightInSlot": 0.333,
+          "StaticItemId": "Horn",
+          "MinNum": 1,
+          "MaxNum": 3,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_Berries004": {
+          "FieldName": "CharacterSpawnItem_Berries_4",
+          "SlotNo": 1,
+          "WeightInSlot": 0.333,
+          "StaticItemId": "Horn",
+          "MinNum": 1,
+          "MaxNum": 4,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_Berries005": {
+          "FieldName": "CharacterSpawnItem_Berries_5",
+          "SlotNo": 1,
+          "WeightInSlot": 0.333,
+          "StaticItemId": "Horn",
+          "MinNum": 1,
+          "MaxNum": 5,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        }
+    }
+}
