@@ -68,7 +68,7 @@
         "mod_enabled": true
     },
     {
-        "mod_name": "LessRestrictiveBuilding",
+        "mod_name": "BuildingRestrictionDisabler",
         "mod_enabled": true
     },
     {

@@ -15,7 +15,7 @@ BetterRidingGroundMounts : 1
 FasterTrustGrowthx10 : 1
 AlternativePalSummon : 1
 TehExtraBaseArea : 1
-LessRestrictiveBuilding : 1
+BuildingRestrictionDisabler : 1
 LoginRewards : 1
 StopDropRoll : 1
 TunedRaidsHarder : 1
