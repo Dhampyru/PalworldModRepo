@@ -1,0 +1,255 @@
+{
+	"DT_ItemShopCreateData": {
+		"Bounty_Shop_1": {
+			"productDataArray": {
+				"Items": [
+					{
+						/*Implant: Hardy*/
+						"StaticItemId": "PalPassiveSkillChange_Hardy",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 10,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{
+						/*Implant: Gardener*/
+						"StaticItemId": "PalPassiveSkillChange_Gardener",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 10,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Nimble*/
+						"StaticItemId": "PalPassiveSkillChange_MoveSpeed_up_1",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 15,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Larger Lungs*/
+						"StaticItemId": "PalPassiveSkillChange_LargerLungs",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 15,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Work Slave*/
+						"StaticItemId": "PalPassiveSkillChange_PAL_CorporateSlave",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 15,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Sleek Stroke*/
+						"StaticItemId": "PalPassiveSkillChange_SwimSpeed_up_1",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 15,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Raging*/
+						"StaticItemId": "PalPassiveSkillChange_Raging",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 15,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Expeditionary Organizer*/
+						"StaticItemId": "PalPassiveSkillChange_ExpeditionaryOrganizer",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 15,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Light as a Feather*/
+						"StaticItemId": "PalPassiveSkillChange_LightAsAFeather",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 15,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Curious*/
+						"StaticItemId": "PalPassiveSkillChange_Curious",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 15,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Ace Swimmer*/
+						"StaticItemId": "PalPassiveSkillChange_SwimSpeed_up_2",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Vanguard*/
+						"StaticItemId": "PalPassiveSkillChange_TrainerATK_UP_1",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Berserker*/
+						"StaticItemId": "PalPassiveSkillChange_Berserker",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Stronghold Strategist*/
+						"StaticItemId": "PalPassiveSkillChange_TrainerDEF_UP_1",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Motivational Leader*/
+						"StaticItemId": "PalPassiveSkillChange_TrainerWorkSpeed_UP_1",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Logging Foreman*/
+						"StaticItemId": "PalPassiveSkillChange_TrainerLogging_up1",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Mine Foreman*/
+						"StaticItemId": "PalPassiveSkillChange_TrainerMining_up1",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Cruise Control*/
+						"StaticItemId": "PalPassiveSkillChange_CruiseControl",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+
+					},
+					{ /*Implant: Strongman*/
+						"StaticItemId": "PalPassiveSkillChange_Strongman",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Disciplined*/
+						"StaticItemId": "PalPassiveSkillChange_Disciplined",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+
+					},
+					{ /*Implant: Oil Baron*/
+						"StaticItemId": "PalPassiveSkillChange_OilBaron",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+
+					},
+					{ /*Implant: Eco-Friendly*/
+						"StaticItemId": "PalPassiveSkillChange_EcoFriendly",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 30,
+						"ProductNum": 1,
+						"Stock": 0
+
+					},
+					{ /*Implant: Dedicated Worker*/
+						"StaticItemId": "PalPassiveSkillChange_DedicatedWorker",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 70,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: King of the Waves*/
+						"StaticItemId": "PalPassiveSkillChange_SwimSpeed_up_3",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 70,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Swift*/
+						"StaticItemId": "PalPassiveSkillChange_MoveSpeed_up_3",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 70,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Eternal Engine*/
+						"StaticItemId": "PalPassiveSkillChange_Stamina_Up_3",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 70,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Lucky*/
+						"StaticItemId": "PalPassiveSkillChange_Rare",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 70,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Vampiric*/
+						"StaticItemId": "PalPassiveSkillChange_Vampire",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 70,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Regal*/
+						"StaticItemId": "PalPassiveSkillChange_SalePrice_Up_3",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 70,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Acrobat*/
+						"StaticItemId": "PalPassiveSkillChange_Acrobat",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 70,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Luxurious Crafter*/
+						"StaticItemId": "PalPassiveSkillChange_LuxuriousCrafter",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 70,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Glass Cannon*/
+						"StaticItemId": "PalPassiveSkillChange_GlassCannon",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 100,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Fortune-Favored*/
+						"StaticItemId": "PalPassiveSkillChange_FortuneFavored",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 200,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: War God*/
+						"StaticItemId": "PalPassiveSkillChange_WarGod",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 750,
+						"ProductNum": 1,
+						"Stock": 0
+
+					}
+				]
+			}
+		}
+	}
+}
