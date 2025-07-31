@@ -468,7 +468,7 @@
     "Rare": {
       "Rank": 4,
       "LotteryWeight": 100,
-      "OverrideDescMsgID": "Attack +{EffectValue1}%\r\nWork Speed +{EffectValue2}%\r\nSAN drops <NumBlue_13>+{EffectValue3}%</> slower.",
+      "OverrideDescMsgID": "Attack +{EffectValue1}%\r\nWork Speed +{EffectValue2}%\r\nSAN drops +{EffectValue3}%</> slower.",
       "TargetElementType": "EPalElementType::None",
       "EffectType1": "EPalPassiveSkillEffectType::ShotAttack",
       "EffectValue1": 20,
