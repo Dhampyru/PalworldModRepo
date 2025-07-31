@@ -32,5 +32,4 @@
 "BP_BuildObject_Shelf06_Stone_C":{"PalMapObjectItemChestParameter":{"SlotNum":6}},
 "BP_BuildObject_Shelf07_Stone_C":{"PalMapObjectItemChestParameter":{"SlotNum":6}},
 "BP_BuildObject_PalMedicineBox_C":{"MedicineBoxParameter":{"SlotNum":24}}
-
 }
