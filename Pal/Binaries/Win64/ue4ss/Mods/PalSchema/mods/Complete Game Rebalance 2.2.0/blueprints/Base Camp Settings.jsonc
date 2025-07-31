@@ -1,0 +1,36 @@
+{
+    "BP_PalBaseCampManager_C": {
+        "BaseCampSignificanceInfoList": [
+            {
+                "DistanceInRangeFromPlayer": -1.0,
+                "TickInterval": 0.1,
+                "bMergeDropItems": true,
+                "bUpdateSimple": false
+            },
+            {
+                "DistanceInRangeFromPlayer": 500.0,
+                "TickInterval": 1.5,
+                "bMergeDropItems": true,
+                "bUpdateSimple": false
+            },
+            {
+                "DistanceInRangeFromPlayer": 2500.0,
+                "TickInterval": 2.5,
+                "bMergeDropItems": true,
+                "bUpdateSimple": true
+            },
+            {
+                "DistanceInRangeFromPlayer": 4500.0,
+                "TickInterval": 5.0,
+                "bMergeDropItems": true,
+                "bUpdateSimple": true
+            },
+            {
+                "DistanceInRangeFromPlayer": 6500.0,
+                "TickInterval": 10.0,
+                "bMergeDropItems": true,
+                "bUpdateSimple": true
+            }
+        ]
+    }
+}

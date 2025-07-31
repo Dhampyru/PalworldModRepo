@@ -1,0 +1,96 @@
+{
+    "DT_SkillDescText": {
+        "PASSIVE_PAL_FullStomach_Down_1": "La saciedad disminuye <NumBlue_13>30.0%</> menos.",
+        "PASSIVE_PAL_FullStomach_Down_2": "La saciedad disminuye <NumBlue_13>40.0%</> menos.",
+        "PASSIVE_PAL_FullStomach_Down_3": "La saciedad disminuye <NumBlue_13>50.0%</> menos.",
+        "PASSIVE_PAL_Sanity_Down_1": "La sanidad disminuye <NumBlue_13>30.0%</> menos.",
+        "PASSIVE_PAL_Sanity_Down_2": "La sanidad disminuye <NumBlue_13>40.0%</> menos.",
+        "PASSIVE_PAL_Sanity_Down_3": "La sanidad disminuye <NumBlue_13>50.0%</> menos.",
+        "PASSIVE_PAL_Rare": "Velocidad de trabajo <NumBlue_13>+40.0%</>.\r\nLa sanidad disminuye <NumBlue_13>30.0%</> menos.\r\nLa saciedad disminuye <NumBlue_13>30.0%</> menos.",
+        "PASSIVE_PAL_CraftSpeed_up1": "Velocidad de trabajo <NumBlue_13>+40.0%</>.\r\nVelocidad de movimiento <NumBlue_13>+20.0%</>.",
+        "PASSIVE_PAL_CraftSpeed_up2": "Velocidad de trabajo <NumBlue_13>+60.0%</>.\r\nVelocidad de movimiento <NumBlue_13>+30.0%</>.",
+        "PASSIVE_PAL_CraftSpeed_up3": "Velocidad de trabajo <NumBlue_13>+80.0%</>.\r\nVelocidad de movimiento <NumBlue_13>+40.0%</>.",
+        "PASSIVE_PAL_CorporateSlave": "Velocidad de trabajo <NumBlue_13>+40.0%</>.\r\nAtaque <NumRed_13>-60.0%</>.\r\nPor la noche sigue trabajando sin descanso.",
+        "PASSIVE_PAL_conceited": "Velocidad de trabajo <NumBlue_13>+20.0%</>.\r\nLa sanidad disminuye <NumBlue_13>10.0%</> menos.\r\nLa saciedad baja <NumBlue_13>10.0%</> menos.",
+        "PASSIVE_PAL_Deffence_up3": "Defensa <NumBlue_13>+30.0%</>.\r\nAtaque <NumBlue_13>+10.0%</>.",
+        "PASSIVE_PAL_CoolTimeReduction_Up_2": "Tiempo de espera de técnicas activas <NumBlue_13>-15.0%</>\r\nAtaque <NumBlue_13>+10.0%</>\r\nDefensa <NumBlue_13>+10.0%</>",
+        "PASSIVE_PAL_CoolTimeReduction_Up_1": "Tiempo de espera de técnicas activas <NumBlue_13>-30.0%</>\r\nAtaque <NumBlue_13>+15.0%</>\r\nDefensa <NumBlue_13>+15.0%</>",
+        "PASSIVE_PAL_CoolTimeReduction_Up_3": "Tiempo de espera de técnicas activas <NumBlue_13>-45.0%</>\r\nAtaque <NumBlue_13>+20.0%</>\r\nDefensa <NumBlue_13>+20.0%</>",
+        "PASSIVE_PAL_Vampire": "El Pal y el jugador absorben <NumBlue_13>10.0%</> del daño causado como vitalidad.\r\n\r\nPor la noche sigue trabajando sin descanso.",
+        "PASSIVE_PAL_Nosferatu": "El Pal y el jugador absorben <NumBlue_13>20.0%</> del daño causado como vitalidad.\r\n\r\nPor la noche sigue trabajando sin descanso.",
+        "PASSIVE_PAL_Noukin": "Ataque <NumBlue_13>+40.0%</>.\r\nDefensa <NumRed_13>-20.0%</>",
+        "PASSIVE_PAL_Berserker": "Ataque <NumBlue_13>+60.0%</>.\r\nDefensa <NumRed_13>-30.0%</>",
+        "PASSIVE_TrainerWorkSpeed_UP_1": "Aumenta el ataque de jugador en un <NumBlue_13>10.0%</>.\r\nAumenta la defensa de jugador en un <NumBlue_13>10.0%</>.\r\nAumenta la velocidad de recarga del jugador en un <NumBlue_13>20.0%</>.",
+        "PASSIVE_SalePrice_Up_2_DESC": "Los precios de compra y venta mejoran <NumBlue_13>5.0%</>\r\nLa cantidad de objetos soltados mejora <NumBlue_13>10.0%</>",
+        "PASSIVE_SalePrice_Up_1_DESC": "Los precios de compra y venta mejoran <NumBlue_13>10.0%</>\r\nLa cantidad de objetos soltados mejora <NumBlue_13>20.0%</>",
+        "PASSIVE_PAL_TrainerMaster_up1": "Aumenta la eficiencia en minería del jugador en un <NumBlue_13>25.0%</>\r\nAumenta la eficiencia de tala del jugador en un <NumBlue_13>25.0%</>\r\nAumenta la velocidad del jugador en un <NumBlue_13>30.0%</>\r\n"
+    },
+
+
+    "DT_SkillNameText": {
+        "PASSIVE_PAL_CoolTimeReduction_Up_3": "Armonía perfecta",
+        "PASSIVE_PAL_Nosferatu": "Nosferatu",
+        "PASSIVE_PAL_Berserker": "Ira desatada",
+        "PASSIVE_PAL_TrainerMaster_up1": "Capataz"
+    },
+
+
+    "DT_TechnologyNameText": {
+        "NAME_RECIPE_CGR_FurniturePlant": "Plantas de interior",
+        "NAME_RECIPE_CGR_FurnitureWood": "Mobiliario de madera",
+        "NAME_RECIPE_CGR_StorageWood": "Almacenamiento de madera",
+        "NAME_RECIPE_CGR_FurnitureStone": "Mobiliario Antique",
+        "NAME_RECIPE_CGR_StorageStone": "Alacenamiento Antique",
+        "NAME_RECIPE_CGR_FurnitureIron": "Mobiliario industrial",
+        "NAME_RECIPE_CGR_StorageIron": "Almacenamiento industrial",
+        "NAME_RECIPE_CGR_FurnitureUrban": "Mobiliario urbano",
+        "NAME_RECIPE_CGR_FurnitureTraffic": "Mobiliario de tráfico"
+    },
+
+
+    "DT_TechnologyDescText": {
+        "DESC_RECIPE_CGR_Decoration": "Un conjunto de mobiliario de decoración. Ponlo en tu base, y siéntete como en casa.",
+        "DESC_RECIPE_CGR_Storage": "Un conjunto de mobiliario de almacenamiento. Nunca más te quedes sin espacio para guardar tus cosas."
+    },
+
+
+    "DT_ItemNameText": {
+        "ITEM_NAME_PalPassiveSkillChange_CGRSleekStroke": "[CGR] Implante: Nado ágil",
+        "ITEM_NAME_PalPassiveSkillChange_CGRAceSwimmer": "[CGR] Implante: Maestría en natación",
+        "ITEM_NAME_PalPassiveSkillChange_CGRKingoftheWaves": "[CGR] Implante: Rey de las olas",
+        "ITEM_NAME_PalPassiveSkillChange_CGRVampiric": "[CGR] Implante: Vampírico",
+        "ITEM_NAME_PalPassiveSkillChange_CGRVanguard": "[CGR] Implante: General de asalto",
+        "ITEM_NAME_PalPassiveSkillChange_CGRStrongholdStrategist": "[CGR] Implante: Estrat. de la fortaleza",
+        "ITEM_NAME_PalPassiveSkillChange_CGRMineForeman": "[CGR] Implante: Jefe minero",
+        "ITEM_NAME_PalPassiveSkillChange_CGRLoggingForeman": "[CGR] Implante: Líder talador",
+        "ITEM_NAME_PalPassiveSkillChange_CGRLucky": "[CGR] Implante: Poco común",
+        "ITEM_NAME_PalPassiveSkillChange_CGRLegend": "[CGR] Implante: Leyenda",
+        "ITEM_NAME_PalPassiveSkillChange_CGRMasochist": "[CGR] Implante: Masoquismo",
+        "ITEM_NAME_PalPassiveSkillChange_CGRAggressive": "[CGR] Implante: Insistencia",
+        "ITEM_NAME_PalPassiveSkillChange_CGRHooligan": "[CGR] Implante: Grosero",
+        "ITEM_NAME_PalPassiveSkillChange_CGRSadist": "[CGR] Implante: Sadismo",
+        "ITEM_NAME_PalPassiveSkillChange_CGRConceited": "[CGR] Implante: Vanidad",
+        "ITEM_NAME_PalPassiveSkillChange_CGRWorkSlave": "[CGR] Implante: Explotación",
+        "ITEM_NAME_PalPassiveSkillChange_CGROtherworldlyCells": "[CGR] Implante: Células de origen incierto",
+        "ITEM_NAME_PalPassiveSkillChange_CGRCelestialEmperor": "[CGR] Implante: Virtuoso",
+        "ITEM_NAME_PalPassiveSkillChange_CGRFlameEmperor": "[CGR] Implante: Dominallamas",
+        "ITEM_NAME_PalPassiveSkillChange_CGRLordoftheSea": "[CGR] Implante: Reinamares",
+        "ITEM_NAME_PalPassiveSkillChange_CGRLordofLightning": "[CGR] Implante: Imperarrayos",
+        "ITEM_NAME_PalPassiveSkillChange_CGRSpiritEmperor": "[CGR] Implante: Ninforregente",
+        "ITEM_NAME_PalPassiveSkillChange_CGRIceEmperor": "[CGR] Implante: Imperahielo",
+        "ITEM_NAME_PalPassiveSkillChange_CGREarthEmperor": "[CGR] Implante: Imperatierra",
+        "ITEM_NAME_PalPassiveSkillChange_CGRLordoftheUnderworld": "[CGR] Implante: Inframonarca",
+        "ITEM_NAME_PalPassiveSkillChange_CGRDivineDragon": "[CGR] Implante: Dracodivinidad",
+        "ITEM_NAME_PalPassiveSkillChange_CGRSirenoftheVoid": "[CGR] Implante: Bruja",
+        "ITEM_NAME_PalPassiveSkillChange_CGREternalFlame": "[CGR] Implante: Llama eterna",
+        "ITEM_NAME_PalPassiveSkillChange_CGRInvader": "[CGR] Implante: Invasor",
+        "ITEM_NAME_PalPassiveSkillChange_CGRLunker": "[CGR] Implante: Maestro",
+        "ITEM_NAME_PalPassiveSkillChange_CGRBerserker": "[CGR] Implante: Ira desatada",
+        "ITEM_NAME_PalPassiveSkillChange_CGRNosferatu": "[CGR] Implante: Nosferatu",
+        "ITEM_NAME_PalPassiveSkillChange_CGRPerfectHarmony": "[CGR] Implante: Armonía perfecta",
+        "ITEM_NAME_PalPassiveSkillChange_CGRMotivationalLeader": "[CGR] Implante: Animador",
+        "ITEM_NAME_PalPassiveSkillChange_CGRFineFurs": "[CGR] Implante: Linaje superior",
+        "ITEM_NAME_PalPassiveSkillChange_CGRNoble": "[CGR] Implante: Nobleza",
+        "ITEM_NAME_PalPassiveSkillChange_CGRMasterForeman": "[CGR] Implante: Capataz"
+    }
+}

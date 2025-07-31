@@ -1,0 +1,67 @@
+{
+    //Pals
+    "BP_GuardianDog_C": {
+        "JumpMaxCount": 2,
+        "CharacterMovement": {
+            "GravityScale": 1.6,
+            "JumpZVelocity": 1200
+        }
+    },
+    "BP_Garm_C": {
+        "CharacterMovement": {
+            "GravityScale": 1.6,
+            "JumpZVelocity": 900
+        }
+    },
+    "BP_GuardianDog_BOSS_C": {
+        "JumpMaxCount": 2,
+        "CharacterMovement": {
+            "GravityScale": 1.6,
+            "JumpZVelocity": 1200
+        }
+    },
+    "BP_Garm_BOSS_C": {
+        "CharacterMovement": {
+            "GravityScale": 1.6,
+            "JumpZVelocity": 900
+        }
+    },
+
+    
+    // Humans
+    "BP_NPC_ArenaShop_C": {
+        "StaticCharacterParameterComponent": {
+            "IsUncapturable": false
+        }
+    },
+    "BP_NPC_Ambassador01_C": {
+        "StaticCharacterParameterComponent": {
+            "IsUncapturable": true
+        }
+    },
+    "BP_NPC_Blacksmith01_C": {
+        "StaticCharacterParameterComponent": {
+            "IsUncapturable": true
+        }
+    },
+    "BP_NPC_Epicure01_C": {
+        "StaticCharacterParameterComponent": {
+            "IsUncapturable": true
+        }
+    },
+
+
+    //Gliders
+    "BP_Glider_Old_C": {
+        "GliderMaxSpeed": 1000.0
+    },
+    "BP_Glider_Good_C": {
+        "GliderMaxSpeed": 1200.0
+    },
+    "BP_Glider_Super_C": {
+        "GliderMaxSpeed": 1400.0
+    },
+    "BP_Glider_Tera_C": {
+        "GliderMaxSpeed": 1600.0
+    }
+}

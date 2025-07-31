@@ -1,0 +1,311 @@
+{
+	"DT_ItemShopCreateData": {
+		"Arena_Shop_1": {
+			"productDataArray": {
+				"Items": [
+					{ /*Implant: Otherworldly Cells*/
+						"StaticItemId": "PalPassiveSkillChange_Alien",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 35,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Springy*/
+						"StaticItemId": "PalPassiveSkillChange_Springy",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 35,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Hero*/
+						"StaticItemId": "PalPassiveSkillChange_Hero",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 50,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Artisan*/
+						"StaticItemId": "PalPassiveSkillChange_CraftSpeed_up2",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 50,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Exposed*/
+						"StaticItemId": "PalPassiveSkillChange_Exposed",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 50,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Lord of the Sea*/
+						"StaticItemId": "PalPassiveSkillChange_ElementBoost_Aqua_2_PAL",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 50,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Lord of the Underworld*/
+						"StaticItemId": "PalPassiveSkillChange_ElementBoost_Dark_2_PAL",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 50,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Divine Dragon*/
+						"StaticItemId": "PalPassiveSkillChange_ElementBoost_Dragon_2_PAL",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 50,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Earth Emperor*/
+						"StaticItemId": "PalPassiveSkillChange_ElementBoost_Earth_2_PAL",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 50,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Flame Emperor*/
+						"StaticItemId": "PalPassiveSkillChange_ElementBoost_Fire_2_PAL",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 50,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Ice Emperor*/
+						"StaticItemId": "PalPassiveSkillChange_ElementBoost_Ice_2_PAL",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 50,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Spirit Emperor*/
+						"StaticItemId": "PalPassiveSkillChange_ElementBoost_Leaf_2_PAL",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 50,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Celestial Emperor*/
+						"StaticItemId": "PalPassiveSkillChange_ElementBoost_Normal_2_PAL",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 50,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Lord of Lightning*/
+						"StaticItemId": "PalPassiveSkillChange_ElementBoost_Thunder_2_PAL",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 50,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Demigod*/
+						"StaticItemId": "PalPassiveSkillChange_Demigod",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 50,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Power Saver*/
+						"StaticItemId": "PalPassiveSkillChange_PowerSaver",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 50,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Reckless Aggression*/
+						"StaticItemId": "PalPassiveSkillChange_RecklessAggression",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 125,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Hercules*/
+						"StaticItemId": "PalPassiveSkillChange_PAL_ALLAttack_up3",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Diamond Body*/
+						"StaticItemId": "PalPassiveSkillChange_Deffence_up3",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Remarkable Craftsmanship*/
+						"StaticItemId": "PalPassiveSkillChange_CraftSpeed_up3",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Legend*/
+						"StaticItemId": "PalPassiveSkillChange_Legend",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Olympian*/
+						"StaticItemId": "PalPassiveSkillChange_Olympian",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Eternal Flame*/
+						"StaticItemId": "PalPassiveSkillChange_EternalFlame",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Invader*/
+						"StaticItemId": "PalPassiveSkillChange_Invader",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Lunker*/
+						"StaticItemId": "PalPassiveSkillChange_Nushi",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Siren of the Void*/
+						"StaticItemId": "PalPassiveSkillChange_Witch",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Brawl Master*/
+						"StaticItemId": "PalPassiveSkillChange_BrawlMaster",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Brilliant Tactician*/
+						"StaticItemId": "PalPassiveSkillChange_BrilliantTactician",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Cheap*/
+						"StaticItemId": "PalPassiveSkillChange_Cheap",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Cloner*/
+						"StaticItemId": "PalPassiveSkillChange_Cloner",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Deforester*/
+						"StaticItemId": "PalPassiveSkillChange_Deforester",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Excavator*/
+						"StaticItemId": "PalPassiveSkillChange_Excavator",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Horticulturist*/
+						"StaticItemId": "PalPassiveSkillChange_Horticulturist",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Unbreakable*/
+						"StaticItemId": "PalPassiveSkillChange_Unbreakable",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Scientist*/
+						"StaticItemId": "PalPassiveSkillChange_Scientist",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Bulging Biceps*/
+						"StaticItemId": "PalPassiveSkillChange_BulgingBiceps",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Endless Bliss*/
+						"StaticItemId": "PalPassiveSkillChange_EndlessBliss",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Morale Officer*/
+						"StaticItemId": "PalPassiveSkillChange_TrainerWorkSpeed_UP_2",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 150,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Leech*/
+						"StaticItemId": "PalPassiveSkillChange_Leech",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 250,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Bloodhunter*/
+						"StaticItemId": "PalPassiveSkillChange_Bloodhunter",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 350,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Fractured*/
+						"StaticItemId": "PalPassiveSkillChange_Fractured",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 550,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Homerunner*/
+						"StaticItemId": "PalPassiveSkillChange_Homerunner",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 875,
+						"ProductNum": 1,
+						"Stock": 0
+					},
+					{ /*Implant: Atomic Reconstructor*/
+						"StaticItemId": "PalPassiveSkillChange_AtomicReconstructor",
+						"ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+						"OverridePrice": 1050,
+						"ProductNum": 1,
+						"Stock": 0
+					}
+				]
+			}
+		}
+	}
+}

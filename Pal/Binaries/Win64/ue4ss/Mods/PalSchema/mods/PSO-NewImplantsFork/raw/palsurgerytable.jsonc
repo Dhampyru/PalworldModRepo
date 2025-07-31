@@ -1,0 +1,410 @@
+{
+	"DT_OperatingTablePassiveSkillDataTable": {
+		"SwimSpeed_up_1": { /*Implant: Sleek Stroke*/
+			"PassiveSkill": "SwimSpeed_up_1",
+			"Price": 25000,
+			"RequireItemId": "PalPassiveSkillChange_SwimSpeed_up_1"
+		},
+		"SwimSpeed_up_2": { /*Implant: Ace Swimmer*/
+			"PassiveSkill": "SwimSpeed_up_2",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_SwimSpeed_up_2"
+		},
+		"SwimSpeed_up_3": { /*Implant: King of the Waves*/
+			"PassiveSkill": "SwimSpeed_up_3",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_SwimSpeed_up_3"
+		},
+		"Alien": { /*Implant: Otherworldly Cells*/
+			"PassiveSkill": "Alien",
+			"Price": 25000,
+			"RequireItemId": "PalPassiveSkillChange_Alien"
+		},
+		"TrainerATK_UP_1": { /*Implant: Vanguard*/
+			"PassiveSkill": "TrainerATK_UP_1",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_TrainerATK_UP_1"
+		},
+		"TrainerDEF_UP_1": { /*Implant: Stronghold Strategist*/
+			"PassiveSkill": "TrainerDEF_UP_1",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_TrainerDEF_UP_1"
+		},
+		"TrainerWorkSpeed_UP_1": { /*Implant: Motivational Leader*/
+			"PassiveSkill": "TrainerWorkSpeed_UP_1",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_TrainerWorkSpeed_UP_1"
+		},
+		"TrainerLogging_up1": { /*Implant: Logging Foreman*/
+			"PassiveSkill": "TrainerLogging_up1",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_TrainerLogging_up1"
+		},
+		"TrainerMining_up1": { /*Implant: Mine Foreman*/
+			"PassiveSkill": "TrainerMining_up1",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_TrainerMining_up1"
+		},
+		"ElementBoost_Aqua_2_PAL": { /*Implant: Lord of the Sea*/
+			"PassiveSkill": "ElementBoost_Aqua_2_PAL",
+			"Price": 75000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Aqua_2_PAL"
+		},
+		"ElementBoost_Dark_2_PAL": { /*Implant: Lord of the Underworld*/
+			"PassiveSkill": "ElementBoost_Dark_2_PAL",
+			"Price": 75000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Dark_2_PAL"
+		},
+		"ElementBoost_Dragon_2_PAL": { /*Implant: Divine Dragon*/
+			"PassiveSkill": "ElementBoost_Dragon_2_PAL",
+			"Price": 75000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Dragon_2_PAL"
+		},
+		"ElementBoost_Earth_2_PAL": { /*Implant: Earth Emperor*/
+			"PassiveSkill": "ElementBoost_Earth_2_PAL",
+			"Price": 75000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Earth_2_PAL"
+		},
+		"ElementBoost_Fire_2_PAL": { /*Implant: Flame Emperor*/
+			"PassiveSkill": "ElementBoost_Fire_2_PAL",
+			"Price": 75000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Fire_2_PAL"
+		},
+		"ElementBoost_Ice_2_PAL": { /*Implant: Ice Emperor*/
+			"PassiveSkill": "ElementBoost_Ice_2_PAL",
+			"Price": 75000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Ice_2_PAL"
+		},
+		"ElementBoost_Leaf_2_PAL": { /*Implant: Spirit Emperor*/
+			"PassiveSkill": "ElementBoost_Leaf_2_PAL",
+			"Price": 75000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Leaf_2_PAL"
+		},
+		"ElementBoost_Normal_2_PAL": { /*Implant: Celestial Emperor*/
+			"PassiveSkill": "ElementBoost_Normal_2_PAL",
+			"Price": 75000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Normal_2_PAL"
+		},
+		"ElementBoost_Thunder_2_PAL": { /*Implant: Lord of Lightning*/
+			"PassiveSkill": "ElementBoost_Thunder_2_PAL",
+			"Price": 75000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Thunder_2_PAL"
+		},
+		"PAL_ALLAttack_up3": { /*Implant: Hercules*/
+			"PassiveSkill": "PAL_ALLAttack_up3",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_PAL_ALLAttack_up3"
+		},
+		"Deffence_up3": { /*Implant: Diamond Body*/
+			"PassiveSkill": "Deffence_up3",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Deffence_up3"
+		},
+		"PAL_CorporateSlave": { /*Implant: Work Slave*/
+			"PassiveSkill": "PAL_CorporateSlave",
+			"Price": 25000,
+			"RequireItemId": "PalPassiveSkillChange_PAL_CorporateSlave"
+		},
+		"CraftSpeed_up2": { /*Implant: Artisan*/
+			"PassiveSkill": "CraftSpeed_up2",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_CraftSpeed_up2"
+		},
+		"Springy": { /*Implant: Springy*/
+			"PassiveSkill": "Springy",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_Springy"
+
+		},
+		"PowerSaver": { /*Implant: Power Saver*/
+			"PassiveSkill": "PowerSaver",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_PowerSaver"
+		},
+		"LightAsAFeather": { /*Implant: Light as a Feather*/
+			"PassiveSkill": "LightAsAFeather",
+			"Price": 25000,
+			"RequireItemId": "PalPassiveSkillChange_LightAsAFeather"
+
+		},
+		"CraftSpeed_up3": { /*Implant: Remarkable Craftsmanship*/
+			"PassiveSkill": "CraftSpeed_up3",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_CraftSpeed_up3"
+
+		},
+		"Horticulturist": { /*Implant: Horticulturist*/
+			"PassiveSkill": "Horticulturist",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Horticulturist"
+
+		},
+		"GlassCannon": { /*Implant: Glass Cannon*/
+			"PassiveSkill": "GlassCannon",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_GlassCannon"
+
+		},
+		"Disciplined": { /*Implant: Disciplined*/
+			"PassiveSkill": "Disciplined",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_Disciplined"
+
+		},
+		"MoveSpeed_up_1": { /*Implant: Nimble*/
+			"PassiveSkill": "MoveSpeed_up_1",
+			"Price": 25000,
+			"RequireItemId": "PalPassiveSkillChange_MoveSpeed_up_1"
+		},
+		"MoveSpeed_up_3": { /*Implant: Swift*/
+			"PassiveSkill": "MoveSpeed_up_3",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_MoveSpeed_up_3"
+		},
+		"Stamina_Up_3": { /*Implant: Eternal Engine*/
+			"PassiveSkill": "Stamina_Up_3",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Stamina_Up_3"
+		},
+		"Vampire": { /*Implant: Vampiric*/
+			"PassiveSkill": "Vampire",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Vampire"
+		},
+		"Rare": { /*Implant: Lucky*/
+			"PassiveSkill": "Rare",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Rare"
+		},
+		"Legend": { /*Implant: Legend*/
+			"PassiveSkill": "Legend",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Legend"
+		},
+		"EternalFlame": { /*Implant: Eternal Flame*/
+			"PassiveSkill": "EternalFlame",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_EternalFlame"
+		},
+		"Invader": { /*Implant: Invader*/
+			"PassiveSkill": "Invader",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Invader"
+		},
+		"Nushi": { /*Implant: Lunker*/
+			"PassiveSkill": "Nushi",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Nushi"
+		},
+		"Witch": { /*Implant: Siren of the Void*/
+			"PassiveSkill": "Witch",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Witch"
+		},
+		"Unbreakable": { /*Implant: Unbreakable*/
+			"PassiveSkill": "Unbreakable",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Unbreakable"
+		},
+		"TrainerWorkSpeed_UP_2": { /*Implant: Morale Officer*/
+			"PassiveSkill": "TrainerWorkSpeed_UP_2",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_TrainerWorkSpeed_UP_2"
+		},
+		"Regal": { /*Implant: Regal*/
+			"PassiveSkill": "Regal",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Regal"
+		},
+		"RecklessAggression": { /*Implant: Reckless Aggression*/
+			"PassiveSkill": "RecklessAggression",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_RecklessAggression"
+
+		},
+		"Deforester": { /*Implant: Deforester*/
+			"PassiveSkill": "Deforester",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Deforester"
+
+		},
+		"Cloner": { /*Implant: Cloner*/
+			"PassiveSkill": "Cloner",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Cloner"
+
+		},
+		"Cheap": { /*Implant: Cheap*/
+			"PassiveSkill": "Cheap",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Cheap"
+
+		},
+		"BrilliantTactician": { /*Implant: Brilliant Tactician*/
+			"PassiveSkill": "BrilliantTactician",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_BrilliantTactician"
+
+		},
+		"BrawlMaster": { /*Implant: Brawl Master*/
+			"PassiveSkill": "BrawlMaster",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_BrawlMaster"
+
+		},
+		"Acrobat": { /*Implant: Acrobat*/
+			"PassiveSkill": "Acrobat",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Acrobat"
+		},
+		"OilBaron": { /*Implant: Oil Baron*/
+			"PassiveSkill": "OilBaron",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_OilBaron"
+
+		},
+		"Excavator": { /*Implant: Excavator*/
+			"PassiveSkill": "Excavator",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Excavator"
+
+		},
+		"Strongman": { /*Implant: Strongman*/
+			"PassiveSkill": "Strongman",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_Strongman"
+
+		},
+		"Curious": { /*Implant: Curious*/
+			"PassiveSkill": "Curious",
+			"Price": 25000,
+			"RequireItemId": "PalPassiveSkillChange_Curious"
+		},
+		"Hardy": { /*Implant: Hardy*/
+			"PassiveSkill": "Hardy",
+			"Price": 25000,
+			"RequireItemId": "PalPassiveSkillChange_Hardy"
+		},
+		"Gardener": { /*Implant: Gardener*/
+			"PassiveSkill": "Gardener",
+			"Price": 25000,
+			"RequireItemId": "PalPassiveSkillChange_Gardener"
+
+		},
+		"Scientist": { /*Implant: Scientist*/
+			"PassiveSkill": "Scientist",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_Scientist"
+
+		},
+		"BulgingBiceps": { /*Implant: Bulging Biceps*/
+			"PassiveSkill": "BulgingBiceps",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_BulgingBiceps"
+
+		},
+		"EndlessBliss": { /*Implant: Endless Bliss*/
+			"PassiveSkill": "EndlessBliss",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_EndlessBliss"
+
+		},
+		"Leech": { /*Implant: Leech*/
+			"PassiveSkill": "Leech",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Leech"
+
+		},
+		"ExpeditionaryOrganizer": { /*Implant: Expeditionary Organizer*/
+			"PassiveSkill": "ExpeditionaryOrganizer",
+			"Price": 25000,
+			"RequireItemId": "PalPassiveSkillChange_ExpeditionaryOrganizer"
+		},
+		"Fractured": { /*Implant: Fractured*/
+			"PassiveSkill": "Fractured",
+			"Price": 250000,
+			"RequireItemId": "PalPassiveSkillChange_Fractured"
+		},
+		"LuxuriousCrafter": { /*Implant: Luxurious Crafter*/
+			"PassiveSkill": "LuxuriousCrafter",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_LuxuriousCrafter"
+		},
+		"EcoFriendly": { /*Implant: Eco-Friendly*/
+			"PassiveSkill": "EcoFriendly",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_EcoFriendly"
+		},
+		"Hero": { /*Implant: Hero*/
+			"PassiveSkill": "Hero",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_Hero"
+		},
+		"FortuneFavored": { /*Implant: Fortune-Favored*/
+			"PassiveSkill": "FortuneFavored",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_FortuneFavored"
+		},
+		"DedicatedWorker": { /*Implant: Dedicated Worker*/
+			"PassiveSkill": "DedicatedWorker",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_DedicatedWorker"
+		},
+		"LargerLungs": { /*Implant: Larger Lungs*/
+			"PassiveSkill": "LargerLungs",
+			"Price": 25000,
+			"RequireItemId": "PalPassiveSkillChange_LargerLungs"
+		},
+		"CruiseControl": { /*Implant: Cruise Control*/
+			"PassiveSkill": "CruiseControl",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_CruiseControl"
+		},
+		"Olympian": { /*Implant: Olympian*/
+			"PassiveSkill": "Olympian",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Olympian"
+		},
+		"Raging": { /*Implant: Raging*/
+			"PassiveSkill": "Raging",
+			"Price": 25000,
+			"RequireItemId": "PalPassiveSkillChange_Raging"
+		},
+		"Berserker": { /*Implant: Berserker*/
+			"PassiveSkill": "Berserker",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_Berserker"
+		},
+		"Bloodhunter": { /*Implant: Bloodhunter*/
+			"PassiveSkill": "Bloodhunter",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Bloodhunter"
+		},
+		"Exposed": { /*Implant: Exposed*/
+			"PassiveSkill": "Exposed",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_Exposed"
+		},
+		"Demigod": { /*Implant: Demigod*/
+			"PassiveSkill": "Demigod",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_Demigod"
+		},
+		"Homerunner": { /*Implant: Homerunner*/
+			"PassiveSkill": "Homerunner",
+			"Price": 500000,
+			"RequireItemId": "PalPassiveSkillChange_Homerunner"
+		},
+		"AtomicReconstructor": { /*Implant: Atomic Reconstructor*/
+			"PassiveSkill": "AtomicReconstructor",
+			"Price": 1000000,
+			"RequireItemId": "PalPassiveSkillChange_AtomicReconstructor"
+		},
+		"WarGod": { /*Implant: War God*/
+			"PassiveSkill": "WarGod",
+			"Price": 500000,
+			"RequireItemId": "PalPassiveSkillChange_WarGod"
+
+		}
+	}
+}

@@ -1,0 +1,2214 @@
+{
+  "DT_ItemRecipeDataTable": {
+
+
+    // Crusher & Ice Crusher
+    "Fiber": {
+      "Product_Id": "None"
+    },
+    "Pal_crystal_S": {
+      "Product_Id": "None"
+    },
+    "Pal_crystal_S_2": {
+      "Product_Id": "None"
+    },
+    "Pal_crystal_S_3": {
+      "Product_Id": "None"
+    },
+    "PalUpgradeStone2_1": {
+      "Product_Id": "None"
+    },
+    "PalUpgradeStone1_2": {
+      "Product_Id": "None"
+    },
+    "PalUpgradeStone3_2": {
+      "Product_Id": "None"
+    },
+    "PalUpgradeStone2_3": {
+      "Product_Id": "None"
+    },
+    "PalUpgradeStone4_3": {
+      "Product_Id": "None"
+    },
+    "PalUpgradeStone3_4": {
+      "Product_Id": "None"
+    },
+    "CryStal_PalSphere": {
+      "Product_Id": "None"
+    },
+    "CryStal_PalSphere_Mega": {
+      "Product_Id": "None"
+    },
+    "CryStal_PalSphere_Giga": {
+      "Product_Id": "None"
+    },
+    "CryStal_PalSphere_Tera": {
+      "Product_Id": "None"
+    },
+    "CryStal_PalSphere_Master": {
+      "Product_Id": "None"
+    },
+    "CryStal_PalSphere_Legend": {
+      "Product_Id": "None"
+    },
+    "CryStal_PalSphere_Ultimate": {
+      "Product_Id": "None"
+    },
+    "CryStal_PalSphere_Exotic": {
+      "Product_Id": "None"
+    },
+    "CGR_Crusher_01": {
+      "Product_Id": "Fiber",
+      "Product_Count": 2,
+      "WorkAmount": 500.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Wood",
+      "Material1_Count": 1,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Crusher_02": {
+      "Product_Id": "Pal_crystal_S",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Stone",
+      "Material1_Count": 5,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Crusher_03": {
+      "Product_Id": "Pal_crystal_S",
+      "Product_Count": 3,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "MeteorDrop",
+      "Material1_Count": 1,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Crusher_04": {
+      "Product_Id": "NightStone",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "MeteorDrop",
+      "Material1_Count": 5,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Crusher_05": {
+      "Product_Id": "CopperOre",
+      "Product_Count": 50,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Stone",
+      "Material1_Count": 100,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": -1
+    },
+    "CGR_Crusher_06": {
+      "Product_Id": "Coal",
+      "Product_Count": 50,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Stone",
+      "Material1_Count": 100,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Crusher_07": {
+      "Product_Id": "Sulfur",
+      "Product_Count": 50,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Coal",
+      "Material1_Count": 100,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Crusher_08": {
+      "Product_Id": "Quartz",
+      "Product_Count": 25,
+      "WorkAmount": 3000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Stone",
+      "Material1_Count": 100,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": -1889319501
+    },
+    "CGR_Crusher_09": {
+      "Product_Id": "Chromium",
+      "Product_Count": 50,
+      "WorkAmount": 3000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "CopperOre",
+      "Material1_Count": 100,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Crusher_10": {
+      "Product_Id": "RainbowCrystal",
+      "Product_Count": 25,
+      "WorkAmount": 5000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Quartz",
+      "Material1_Count": 100,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Crusher_11": {
+      "Product_Id": "ManganeseOre",
+      "Product_Count": 15,
+      "WorkAmount": 5000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Quartz",
+      "Material1_Count": 100,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Crusher_50": {
+      "Product_Id": "PalUpgradeStone",
+      "Product_Count": 2,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "PalUpgradeStone2",
+      "Material1_Count": 1,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 0.0,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Crusher_51": {
+      "Product_Id": "PalUpgradeStone2",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "PalUpgradeStone",
+      "Material1_Count": 2,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 0.0,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Crusher_52": {
+      "Product_Id": "PalUpgradeStone2",
+      "Product_Count": 2,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "PalUpgradeStone3",
+      "Material1_Count": 1,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 0.0,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Crusher_53": {
+      "Product_Id": "PalUpgradeStone3",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "PalUpgradeStone2",
+      "Material1_Count": 2,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 0.0,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Crusher_54": {
+      "Product_Id": "PalUpgradeStone3",
+      "Product_Count": 2,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "PalUpgradeStone4",
+      "Material1_Count": 1,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 0.0,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Crusher_55": {
+      "Product_Id": "PalUpgradeStone4",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "PalUpgradeStone3",
+      "Material1_Count": 2,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 0.0,
+      "Editor_RowNameHash": 1
+    },
+
+
+    // Sphere Workbenches & Sphere Assembly Lines
+    "PalSphere": {
+      "Product_Id": "PalSphere",
+      "Material1_Id": "Pal_crystal_S",
+      "Material1_Count": 1,
+      "Material2_Id": "Wood",
+      "Material2_Count": 1,
+      "Material3_Id": "Stone",
+      "Material3_Count": 1,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "PalSphere_Mega": {
+      "Product_Id": "PalSphere_Mega",
+      "Material1_Id": "Pal_crystal_S",
+      "Material1_Count": 2,
+      "Material2_Id": "Fiber",
+      "Material2_Count": 1,
+      "Material3_Id": "Wood",
+      "Material3_Count": 1,
+      "Material4_Id": "Stone",
+      "Material4_Count": 1,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "PalSphere_Giga": {
+      "Product_Id": "PalSphere_Giga",
+      "Material1_Id": "Pal_crystal_S",
+      "Material1_Count": 3,
+      "Material2_Id": "Fiber",
+      "Material2_Count": 1,
+      "Material3_Id": "CopperIngot",
+      "Material3_Count": 1,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "PalSphere_Tera": {
+      "Product_Id": "PalSphere_Tera",
+      "Material1_Id": "Pal_crystal_S",
+      "Material1_Count": 4,
+      "Material2_Id": "Fiber",
+      "Material2_Count": 2,
+      "Material3_Id": "Cement",
+      "Material3_Count": 2,
+      "Material4_Id": "CopperIngot",
+      "Material4_Count": 1,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "PalSphere_Master": {
+      "Product_Id": "PalSphere_Master",
+      "Material1_Id": "Pal_crystal_S",
+      "Material1_Count": 5,
+      "Material2_Id": "CarbonFiber",
+      "Material2_Count": 2,
+      "Material3_Id": "Cement",
+      "Material3_Count": 2,
+      "Material4_Id": "IronIngot",
+      "Material4_Count": 1,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "PalSphere_Legend": {
+      "Product_Id": "PalSphere_Legend",
+      "Material1_Id": "Pal_crystal_S",
+      "Material1_Count": 6,
+      "Material2_Id": "CarbonFiber",
+      "Material2_Count": 2,
+      "Material3_Id": "Cement",
+      "Material3_Count": 2,
+      "Material4_Id": "StealIngot",
+      "Material4_Count": 1,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "PalSphere_Ultimate": {
+      "Product_Id": "PalSphere_Ultimate",
+      "Material1_Id": "Pal_crystal_S",
+      "Material1_Count": 7,
+      "Material2_Id": "CarbonFiber",
+      "Material2_Count": 2,
+      "Material3_Id": "Cement",
+      "Material3_Count": 2,
+      "Material4_Id": "Plastic",
+      "Material4_Count": 1,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "PalSphere_Exotic": {
+      "Product_Id": "PalSphere_Exotic",
+      "Material1_Id": "Pal_crystal_S",
+      "Material1_Count": 8,
+      "Material2_Id": "CarbonFiber",
+      "Material2_Count": 2,
+      "Material3_Id": "Cement",
+      "Material3_Count": 2,
+      "Material4_Id": "StainlessSteel",
+      "Material4_Count": 1,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "CGR_Sphere_02": {
+      "Product_Id": "PalSphere_Mega",
+      "Product_Count": 1,
+      "WorkAmount": 1500.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "PalSphere",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.5,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Sphere_03": {
+      "Product_Id": "PalSphere_Giga",
+      "Product_Count": 1,
+      "WorkAmount": 4500.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "PalSphere_Mega",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 2.714466,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Sphere_04": {
+      "Product_Id": "PalSphere_Tera",
+      "Product_Count": 1,
+      "WorkAmount": 13000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "PalSphere_Giga",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 5.841246,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Sphere_05": {
+      "Product_Id": "PalSphere_Master",
+      "Product_Count": 1,
+      "WorkAmount": 40000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "PalSphere_Tera",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 12.262928,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Sphere_06": {
+      "Product_Id": "PalSphere_Legend",
+      "Product_Count": 1,
+      "WorkAmount": 100000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "PalSphere_Master",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 14.204645,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Sphere_07": {
+      "Product_Id": "PalSphere_Ultimate",
+      "Product_Count": 1,
+      "WorkAmount": 300000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "PalSphere_Legend",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 31.046482,
+      "Editor_RowNameHash": 1
+    },
+    "CGR_Sphere_08": {
+      "Product_Id": "PalSphere_Exotic",
+      "Product_Count": 1,
+      "WorkAmount": 600000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "PalSphere_Ultimate",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 31.517883,
+      "Editor_RowNameHash": 1
+    },
+
+
+    // Cooking Pot, Electric Kitchen & Large Stone Oven
+    "Cake": {
+      "Product_Id": "Cake",
+      "WorkAmount": 10000.0,
+      "Material1_Id": "Flour",
+      "Material1_Count": 4,
+      "Material2_Id": "Berries",
+      "Material2_Count": 4,
+      "Material3_Id": "Milk",
+      "Material3_Count": 4,
+      "Material4_Id": "Egg",
+      "Material4_Count": 4,
+      "Material5_Id": "Honey",
+      "Material5_Count": 4
+    },
+
+
+    // Crafting Workbenches & Crafting Assembly Lines
+    "FishingBait_3_A": {
+      "Product_Count": 10
+    },
+    "Arrow": {
+      "Product_Count": 10,
+      "Material1_Id": "Wood",
+      "Material1_Count": 1,
+      "Material2_Id": "Stone",
+      "Material2_Count": 1,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Arrow_Fire": {
+      "Product_Count": 10,
+      "Material1_Id": "Wood",
+      "Material1_Count": 1,
+      "Material2_Id": "Stone",
+      "Material2_Count": 1,
+      "Material3_Id": "FireOrgan",
+      "Material3_Count": 1,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Arrow_Poison": {
+      "Product_Count": 10,
+      "Material1_Id": "Wood",
+      "Material1_Count": 1,
+      "Material2_Id": "Stone",
+      "Material2_Count": 1,
+      "Material3_Id": "Venom",
+      "Material3_Count": 1,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "ReinforcedArrow": {
+      "Product_Count": 10,
+      "Material1_Id": "Wood",
+      "Material1_Count": 1,
+      "Material2_Id": "Stone",
+      "Material2_Count": 1,
+      "Material3_Id": "CopperIngot",
+      "Material3_Count": 1,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "SFArrow": {
+      "Product_Count": 10,
+      "Material1_Id": "Wood",
+      "Material1_Count": 5,
+      "Material2_Id": "Stone",
+      "Material2_Count": 5,
+      "Material3_Id": "StainlessSteel",
+      "Material3_Count": 1,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Gunpowder2": {
+      "Product_Count": 5,
+      "WorkAmount": 3000.0,
+      "Material1_Id": "Charcoal",
+      "Material1_Count": 1,
+      "Material2_Id": "Sulfur",
+      "Material2_Count": 1,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "RoughBullet": {
+      "Product_Count": 20,
+      "WorkAmount": 5000.0,
+      "Material1_Id": "CopperIngot",
+      "Material1_Count": 1,
+      "Material2_Id": "Gunpowder2",
+      "Material2_Count": 1,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "HandgunBullet": {
+      "Product_Count": 20,
+      "WorkAmount": 5000.0,
+      "Material1_Id": "CopperIngot",
+      "Material1_Count": 1,
+      "Material2_Id": "Gunpowder2",
+      "Material2_Count": 1,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "RifleBullet": {
+      "Product_Count": 10,
+      "WorkAmount": 20000.0,
+      "Material1_Id": "IronIngot",
+      "Material1_Count": 1,
+      "Material2_Id": "Gunpowder2",
+      "Material2_Count": 2,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "ShotgunBullet": {
+      "Product_Count": 10,
+      "WorkAmount": 20000.0,
+      "Material1_Id": "IronIngot",
+      "Material1_Count": 2,
+      "Material2_Id": "Gunpowder2",
+      "Material2_Count": 3,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "AssaultRifleBullet": {
+      "Product_Count": 10,
+      "WorkAmount": 10000.0,
+      "Material1_Id": "IronIngot",
+      "Material1_Count": 1,
+      "Material2_Id": "Gunpowder2",
+      "Material2_Count": 2,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "ExplosiveBullet": {
+      "Product_Id": "ExplosiveBullet",
+      "Product_Count": 5,
+      "WorkAmount": 25000.0,
+      "Material1_Id": "StealIngot",
+      "Material1_Count": 1,
+      "Material2_Id": "Gunpowder2",
+      "Material2_Count": 5,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "FlamethrowerBullet": {
+      "Product_Count": 10,
+      "WorkAmount": 50000.0,
+      "Material1_Id": "CrudeOil",
+      "Material1_Count": 1,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "LaserBullet": {
+      "Product_Id": "LaserBullet",
+      "Product_Count": 10,
+      "WorkAmount": 100000.0,
+      "Material1_Id": "StealIngot",
+      "Material1_Count": 1,
+      "Material2_Id": "ElectricOrgan",
+      "Material2_Count": 1,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "GrenadeBullet": {
+      "Product_Count": 5,
+      "WorkAmount": 50000.0,
+      "Material1_Id": "StealIngot",
+      "Material1_Count": 1,
+      "Material2_Id": "Gunpowder2",
+      "Material2_Count": 5,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "MissileBullet": {
+      "Product_Count": 5,
+      "WorkAmount": 100000.0,
+      "Material1_Id": "StealIngot",
+      "Material1_Count": 1,
+      "Material2_Id": "CrudeOil",
+      "Material2_Count": 1,
+      "Material3_Id": "MachineParts2",
+      "Material3_Count": 1,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "GatlingBullet": {
+      "Product_Count": 10,
+      "WorkAmount": 50000.0,
+      "Material1_Id": "StealIngot",
+      "Material1_Count": 1,
+      "Material2_Id": "Gunpowder2",
+      "Material2_Count": 5,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "LaserGatlingBullet": {
+      "Product_Count": 10,
+      "WorkAmount": 100000.0,
+      "Material1_Id": "Plastic",
+      "Material1_Count": 1,
+      "Material2_Id": "ElectricOrgan",
+      "Material2_Count": 5,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "EnergyLauncherBullet": {
+      "Product_Count": 5,
+      "WorkAmount": 100000.0,
+      "Material1_Id": "StainlessSteel",
+      "Material1_Count": 1,
+      "Material2_Id": "ElectricOrgan",
+      "Material2_Count": 5,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "MeteorBullet": {
+      "Product_Count": 5,
+      "WorkAmount": 10000.0,
+      "Material1_Id": "MeteorDrop",
+      "Material1_Count": 1,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "EnergyShotgunBullet": {
+      "Product_Count": 10,
+      "WorkAmount": 100000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "ElectricOrgan",
+      "Material1_Count": 5,
+      "Material2_Id": "StainlessSteel",
+      "Material2_Count": 1,
+      "Material3_Id": "ManganeseIngot",
+      "Material3_Count": 1,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "OverheatRifleBullet": {
+      "Product_Count": 10,
+      "WorkAmount": 100000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "ElectricOrgan",
+      "Material1_Count": 5,
+      "Material2_Id": "StainlessSteel",
+      "Material2_Count": 1,
+      "Material3_Id": "ManganeseIngot",
+      "Material3_Count": 1,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "ChargeLaserRifleBullet": {
+      "Product_Count": 10,
+      "WorkAmount": 100000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "ElectricOrgan",
+      "Material1_Count": 5,
+      "Material2_Id": "StainlessSteel",
+      "Material2_Count": 1,
+      "Material3_Id": "ManganeseIngot",
+      "Material3_Count": 1,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "PalHealingGrenade": {
+      "Product_Count": 10
+    },
+
+
+
+    // Medicine Workbenches
+    "Potion_Low": {
+      "Product_Id": "Potion_Low",
+      "Material1_Id": "CaveMushroom",
+      "Material1_Count": 2,
+      "Material2_Id": "PalFluid",
+      "Material2_Count": 2,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Potion": {
+      "Product_Id": "Potion",
+      "Material1_Id": "CaveMushroom",
+      "Material1_Count": 4,
+      "Material2_Id": "PalFluid",
+      "Material2_Count": 4,
+      "Material3_Id": "Sweet",
+      "Material3_Count": 4,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Potion_High": {
+      "Product_Id": "Potion_High",
+      "Material1_Id": "CaveMushroom",
+      "Material1_Count": 6,
+      "Material2_Id": "PalOil",
+      "Material2_Count": 6,
+      "Material3_Id": "Sweet",
+      "Material3_Count": 6,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Potion_Extreme": {
+      "Product_Id": "Potion_Extreme",
+      "Material1_Id": "CaveMushroom",
+      "Material1_Count": 8,
+      "Material2_Id": "PalOil",
+      "Material2_Count": 8,
+      "Material3_Id": "Sweet",
+      "Material3_Count": 8,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "PalRevive": {
+      "Product_Id": "PalRevive",
+      "Material1_Id": "CaveMushroom",
+      "Material1_Count": 10,
+      "Material2_Id": "PalOil",
+      "Material2_Count": 10,
+      "Material3_Id": "Sweet",
+      "Material3_Count": 10,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "StatusPointResetSan": {
+      "Product_Id": "StatusPointResetSan",
+      "WorkAmount": 100000.0,
+      "Material1_Id": "Poppy",
+      "Material1_Count": 20,
+      "Material2_Id": "Horn",
+      "Material2_Count": 20,
+      "Material3_Id": "Bone",
+      "Material3_Count": 20,
+      "Material4_Id": "PalFluid",
+      "Material4_Count": 20,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Flour": {
+      "Product_Id": "Flour",
+      "WorkAmount": 500.0,
+      "Material1_Id": "Wheat",
+      "Material1_Count": 2,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "SkillUnlock_GuardianDog": {
+      "Product_Id": "SkillUnlock_GuardianDog",
+      "Material1_Id": "Leather",
+      "Material1_Count": 10,
+      "Material2_Id": "Fiber",
+      "Material2_Count": 10,
+      "Material3_Id": "CopperIngot",
+      "Material3_Count": 20,
+      "Material4_Id": "Pal_crystal_S",
+      "Material4_Count": 20,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Elixir_hp_01": {
+      "Product_Id": "Elixir_hp_01",
+      "Material1_Id": "Lotus_hp_01",
+      "Material1_Count": 3,
+      "Material2_Id": "Meat_Kelpie",
+      "Material2_Count": 5,
+      "Material3_Id": "PalItem_PlantSlime",
+      "Material3_Count": 5,
+      "Material4_Id": "PalFluid",
+      "Material4_Count": 5,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Elixir_stamina_01": {
+      "Product_Id": "Elixir_stamina_01",
+      "Material1_Id": "Lotus_stamina_01",
+      "Material1_Count": 3,
+      "Material2_Id": "Meat_Deer",
+      "Material2_Count": 5,
+      "Material3_Id": "Honey",
+      "Material3_Count": 5,
+      "Material4_Id": "PalFluid",
+      "Material4_Count": 5,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Elixir_attack_01": {
+      "Product_Id": "Elixir_attack_01",
+      "Material1_Id": "Lotus_attack_01",
+      "Material1_Count": 3,
+      "Material2_Id": "Meat_Boar",
+      "Material2_Count": 5,
+      "Material3_Id": "Meat_CowPal",
+      "Material3_Count": 5,
+      "Material4_Id": "PalFluid",
+      "Material4_Count": 5,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Elixir_workspeed_01": {
+      "Product_Id": "Elixir_workspeed_01",
+      "Material1_Id": "Lotus_workspeed_01",
+      "Material1_Count": 3,
+      "Material2_Id": "PalItem_PinkRabbit",
+      "Material2_Count": 5,
+      "Material3_Id": "PalItem_CatMage",
+      "Material3_Count": 5,
+      "Material4_Id": "PalFluid",
+      "Material4_Count": 5,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Elixir_weight_01": {
+      "Product_Id": "Elixir_weight_01",
+      "Material1_Id": "Lotus_weight_01",
+      "Material1_Count": 3,
+      "Material2_Id": "PalItem_MopBaby",
+      "Material2_Count": 5,
+      "Material3_Id": "Sweet",
+      "Material3_Count": 5,
+      "Material4_Id": "PalFluid",
+      "Material4_Count": 5,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Elixir_hp_02": {
+      "Product_Id": "Elixir_hp_02",
+      "Material1_Id": "Lotus_hp_02",
+      "Material1_Count": 3,
+      "Material2_Id": "Meat_Eagle",
+      "Material2_Count": 5,
+      "Material3_Id": "PalItem_NegativeOctopus",
+      "Material3_Count": 5,
+      "Material4_Id": "PalOil",
+      "Material4_Count": 5,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Elixir_stamina_02": {
+      "Product_Id": "Elixir_stamina_02",
+      "Material1_Id": "Lotus_stamina_02",
+      "Material1_Count": 3,
+      "Material2_Id": "Meat_IceDeer",
+      "Material2_Count": 5,
+      "Material3_Id": "Meat_BerryGoat",
+      "Material3_Count": 5,
+      "Material4_Id": "PalOil",
+      "Material4_Count": 5,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Elixir_attack_02": {
+      "Product_Id": "Elixir_attack_02",
+      "Material1_Id": "Lotus_attack_02",
+      "Material1_Count": 3,
+      "Material2_Id": "Meat_GrassMammoth",
+      "Material2_Count": 5,
+      "Material3_Id": "Meat_SakuraSaurus",
+      "Material3_Count": 5,
+      "Material4_Id": "PalOil",
+      "Material4_Count": 5,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Elixir_workspeed_02": {
+      "Product_Id": "Elixir_workspeed_02",
+      "Material1_Id": "Lotus_workspeed_02",
+      "Material1_Count": 3,
+      "Material2_Id": "PalItem_RaijinDaughter",
+      "Material2_Count": 5,
+      "Material3_Id": "PalItem_ColorfulBird",
+      "Material3_Count": 5,
+      "Material4_Id": "PalOil",
+      "Material4_Count": 5,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+    "Elixir_weight_02": {
+      "Product_Id": "Elixir_weight_02",
+      "Material1_Id": "Lotus_weight_02",
+      "Material1_Count": 3,
+      "Material2_Id": "PalItem_LizardMan",
+      "Material2_Count": 5,
+      "Material3_Id": "Meat_LazyCatfish",
+      "Material3_Count": 5,
+      "Material4_Id": "PalOil",
+      "Material4_Count": 5,
+      "Material5_Id": "None",
+      "Material5_Count": 0
+    },
+
+    
+    //Blueprint Drafting Table
+    "Blueprint_WeakerBow_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_WeakerBow_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_WeakerBow_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_BowGun_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_BowGun_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_BowGun_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_MakeshiftHandgun_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_MakeshiftHandgun_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_MakeshiftHandgun_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_Musket_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_Musket_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_Musket_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_HandGun_Default_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_HandGun_Default_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_HandGun_Default_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_OldRevolver_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_OldRevolver_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_OldRevolver_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SingleShotRifle_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SingleShotRifle_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SingleShotRifle_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SemiAutoRifle_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SemiAutoRifle_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SemiAutoRifle_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_MakeshiftAssaultRifle_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_MakeshiftAssaultRifle_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_MakeshiftAssaultRifle_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_AssaultRifle_Default3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_AssaultRifle_Default4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_AssaultRifle_Default5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_MakeshiftShotgun_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_MakeshiftShotgun_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_MakeshiftShotgun_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_DoubleBarrelShotgun_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_DoubleBarrelShotgun_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_DoubleBarrelShotgun_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PumpActionShotgun_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PumpActionShotgun_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PumpActionShotgun_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SemiAutoShotgun_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SemiAutoShotgun_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SemiAutoShotgun_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_MakeshiftSubmachineGun_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_MakeshiftSubmachineGun_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_MakeshiftSubmachineGun_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SubmachineGun_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SubmachineGun_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SubmachineGun_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_Launcher_Default_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_Launcher_Default_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_Launcher_Default_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_LaserRifle_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_LaserRifle_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_LaserRifle_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_FlameThrower_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_FlameThrower_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_FlameThrower_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_GrenadeLauncher_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_GrenadeLauncher_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_GrenadeLauncher_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_GuidedMissileLauncher_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_GuidedMissileLauncher_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_GuidedMissileLauncher_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_GatlingGun_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_GatlingGun_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_GatlingGun_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_LaserGatlingGun_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_LaserGatlingGun_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_LaserGatlingGun_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_EnergyRocketLauncher_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_EnergyRocketLauncher_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_EnergyRocketLauncher_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_CompoundBow_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_CompoundBow_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_CompoundBow_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFBow_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFBow_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFBow_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_ClothArmor_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_ClothArmor_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_ClothArmor_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_ClothArmorHeat_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_ClothArmorHeat_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_ClothArmorHeat_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_ClothArmorCold_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_ClothArmorCold_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_ClothArmorCold_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_FurArmor_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_FurArmor_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_FurArmor_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_FurArmorHeat_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_FurArmorHeat_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_FurArmorHeat_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_FurArmorCold_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_FurArmorCold_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_FurArmorCold_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_CopperArmor_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_CopperArmor_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_CopperArmor_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_CopperArmorHeat_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_CopperArmorHeat_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_CopperArmorHeat_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_CopperArmorCold_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_CopperArmorCold_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_CopperArmorCold_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_IronArmor_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_IronArmor_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_IronArmor_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_IronArmorHeat_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_IronArmorHeat_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_IronArmorHeat_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_IronArmorCold_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_IronArmorCold_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_IronArmorCold_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_StealArmor_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_StealArmor_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_StealArmor_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_StealArmorHeat_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_StealArmorHeat_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_StealArmorHeat_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_StealArmorCold_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_StealArmorCold_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_StealArmorCold_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PlasticArmor_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PlasticArmor_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PlasticArmor_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PlasticArmorHeat_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PlasticArmorHeat_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PlasticArmorHeat_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PlasticArmorCold_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PlasticArmorCold_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PlasticArmorCold_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PlasticArmorWeight_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PlasticArmorWeight_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PlasticArmorWeight_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFArmor_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFArmor_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFArmor_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFArmorHeat_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFArmorHeat_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFArmorHeat_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFArmorCold_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFArmorCold_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFArmorCold_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFArmorWeight_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFArmorWeight_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFArmorWeight_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_FurHelmet_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_FurHelmet_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_FurHelmet_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_CopperHelmet_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_CopperHelmet_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_CopperHelmet_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_IronHelmet_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_IronHelmet_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_IronHelmet_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_StealHelmet_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_StealHelmet_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_StealHelmet_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PlasticHelmet_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PlasticHelmet_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_PlasticHelmet_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFHelmet_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFHelmet_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_SFHelmet_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_MultiGuidedMissileLauncher_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_MultiGuidedMissileLauncher_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_MultiGuidedMissileLauncher_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_MultiGuidedMissileLauncher_2": {
+      "Material1_Count": 3
+    },
+    "Blueprint_BowGun_Fire_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_BowGun_Fire_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_BowGun_Fire_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_BowGun_Poison_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_BowGun_Poison_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_BowGun_Poison_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_EnergyShotgun_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_EnergyShotgun_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_EnergyShotgun_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_OverheatRifle_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_OverheatRifle_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_OverheatRifle_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_ChargeLaserRifle_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_ChargeLaserRifle_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_ChargeLaserRifle_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaBlade004_2": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaBlade004_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaBlade004_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaBlade004_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaBlade003_2": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaBlade003_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaBlade003_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaBlade003_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaGun001_2": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaGun001_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaGun001_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaGun001_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaLantern001_2": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaLantern001_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaLantern001_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaLantern001_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaBlade002_2": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaBlade002_3": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaBlade002_4": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaBlade002_5": {
+      "Material1_Count": 3
+    },
+    "Blueprint_YakushimaHeadEquip001_2": {
+      "Product_Id": "Blueprint_YakushimaHeadEquip001_2",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Blueprint_YakushimaHeadEquip001",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "Blueprint_YakushimaHeadEquip001_3": {
+      "Product_Id": "Blueprint_YakushimaHeadEquip001_3",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Blueprint_YakushimaHeadEquip001_2",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "Blueprint_YakushimaHeadEquip001_4": {
+      "Product_Id": "Blueprint_YakushimaHeadEquip001_4",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Blueprint_YakushimaHeadEquip001_3",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "Blueprint_YakushimaHeadEquip001_5": {
+      "Product_Id": "Blueprint_YakushimaHeadEquip001_5",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Blueprint_YakushimaHeadEquip001_4",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "Blueprint_YakushimaHeadEquip002_2": {
+      "Product_Id": "Blueprint_YakushimaHeadEquip002_2",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Blueprint_YakushimaHeadEquip002",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "Blueprint_YakushimaHeadEquip002_3": {
+      "Product_Id": "Blueprint_YakushimaHeadEquip002_3",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Blueprint_YakushimaHeadEquip002_2",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "Blueprint_YakushimaHeadEquip002_4": {
+      "Product_Id": "Blueprint_YakushimaHeadEquip002_4",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Blueprint_YakushimaHeadEquip002_3",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "Blueprint_YakushimaHeadEquip002_5": {
+      "Product_Id": "Blueprint_YakushimaHeadEquip002_5",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Blueprint_YakushimaHeadEquip002_4",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "Blueprint_YakushimaHeadEquip003_2": {
+      "Product_Id": "Blueprint_YakushimaHeadEquip003_2",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Blueprint_YakushimaHeadEquip003",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "Blueprint_YakushimaHeadEquip003_3": {
+      "Product_Id": "Blueprint_YakushimaHeadEquip003_3",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Blueprint_YakushimaHeadEquip003_2",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "Blueprint_YakushimaHeadEquip003_4": {
+      "Product_Id": "Blueprint_YakushimaHeadEquip003_4",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Blueprint_YakushimaHeadEquip003_3",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "Blueprint_YakushimaHeadEquip003_5": {
+      "Product_Id": "Blueprint_YakushimaHeadEquip003_5",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Blueprint_YakushimaHeadEquip003_4",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "Blueprint_YakushimaArmor001_2": {
+      "Product_Id": "Blueprint_YakushimaArmor001_2",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Blueprint_YakushimaArmor001",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "Blueprint_YakushimaArmor001_3": {
+      "Product_Id": "Blueprint_YakushimaArmor001_3",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Blueprint_YakushimaArmor001_2",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "Blueprint_YakushimaArmor001_4": {
+      "Product_Id": "Blueprint_YakushimaArmor001_4",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Blueprint_YakushimaArmor001_3",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    },
+    "Blueprint_YakushimaArmor001_5": {
+      "Product_Id": "Blueprint_YakushimaArmor001_5",
+      "Product_Count": 1,
+      "WorkAmount": 1000.0,
+      "WorkableAttribute": 1,
+      "UnlockItemID": "None",
+      "Material1_Id": "Blueprint_YakushimaArmor001_4",
+      "Material1_Count": 3,
+      "Material2_Id": "None",
+      "Material2_Count": 0,
+      "Material3_Id": "None",
+      "Material3_Count": 0,
+      "Material4_Id": "None",
+      "Material4_Count": 0,
+      "Material5_Id": "None",
+      "Material5_Count": 0,
+      "EnergyType": "EPalEnergyType::None",
+      "EnergyAmount": 0,
+      "CraftExpRate": 1.0,
+      "Editor_RowNameHash": 1
+    }
+  }
+}

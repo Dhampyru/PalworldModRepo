@@ -14,7 +14,7 @@
       "RequireTechnology": "None",
       "RequireResearchId": "None",
       "IsBossTechnology": true,
-      "LevelCap": 18,
+      "LevelCap": 21,
       "Tier": 0,
       "Cost": 2
     },

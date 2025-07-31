@@ -1,0 +1,3429 @@
+{
+    "DT_ItemShopCreateData": {
+        // Village Shops
+        "Village_Shop_1": {
+            "productDataArray": [
+                {
+                    "StaticItemId": "Blueprint_Head003_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_Head004_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_Head011_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_Head012_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_Head013_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_Head015_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_Head016_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_HeadEquip028_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalSphere",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalSphere_Mega",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Arrow",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "RoughBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "HandgunBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Herbs",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Medicines",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "LuxuryMedicines",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "BerrySeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WheatSeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Egg",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 50,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Milk",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 50,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Honey",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 50,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Berries",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 50,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Wheat",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 50,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Meat_ChickenPal",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Meat_SheepBall",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Wool",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Leather",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Bone",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Horn",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 300,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalFluid",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalOil",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 300,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "FireOrgan",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "IceOrgan",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ElectricOrgan",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Venom",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                }
+            ]
+        },
+        "Volcano_Shop_1": {
+            "productDataArray": [
+                {
+                    "StaticItemId": "PalSphere_Giga",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalSphere_Tera",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Herbs",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Medicines",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "LuxuryMedicines",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Tomato",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Lettuce",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "TomatoSeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "LettuceSeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Wool",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Leather",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Bone",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Horn",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalFluid",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalOil",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 300,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "FireOrgan",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "IceOrgan",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ElectricOrgan",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Venom",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                }
+            ]
+        },
+        "Volcano_Shop_2": {
+            "productDataArray": [
+                {
+                    "StaticItemId": "Blueprint_Head001_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_Head002_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_Head006_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_Head010_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_HeadEquip026_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_HeadEquip031_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_HeadEquip032_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_HeatResist_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_CoolResist_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_Nonkilling",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "RifleBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ShotgunBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "AssaultRifleBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                }
+            ]
+        },
+        "Desert_Shop_1": {
+            "productDataArray": [
+                {
+                    "StaticItemId": "PalSphere_Master",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalSphere_Legend",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Herbs",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Medicines",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "LuxuryMedicines",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Potato",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Carrot",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Onion",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PotatoSeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "CarrotSeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "OnionSeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Wool",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Leather",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Bone",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Horn",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalFluid",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalOil",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "FireOrgan",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "IceOrgan",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ElectricOrgan",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Venom",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                }
+            ]
+        },
+        "Desert_Shop_2": {
+            "productDataArray": [
+                {
+                    "StaticItemId": "Blueprint_Head005_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_Head007_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_Head008_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_Head009_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_Head014_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_Head017_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_HeadEquip025_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_Nonkilling",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_HeatResist_2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_CoolResist_2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ExplosiveBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                }
+            ]
+        },
+        // Token Shops
+        "Bounty_Shop_1": {
+            "productDataArray": [
+                {
+                    "StaticItemId": "Money",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 1,
+                    "ProductNum": 5000,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "AncientParts3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 1,
+                    "ProductNum": 5,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Homeward",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 1,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "TreasureBoxKey01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 1,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "TreasureBoxKey02",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 2,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "TreasureBoxKey03",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 3,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Potion_Low",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 1,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Potion",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 2,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Potion_High",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 3,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "StatusPointResetSan",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "TechnologyBook_G1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 1,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "TechnologyBook_G2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 2,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "TechnologyBook_G3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 3,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "AncientTechnologyBook_G1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 3,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalGenderReverse",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "AffectionFruit_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Fruit_hp_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Fruit_attack_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Fruit__defense_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ExpBoost_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 4,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ExpBoost_02",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 6,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ExpBoost_03",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 8,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ExpBoost_04",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Rankup_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 3,
+                    "ProductNum": 5,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Rankup_2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 6,
+                    "ProductNum": 5,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Rankup_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 9,
+                    "ProductNum": 5,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Rankup_4",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 12,
+                    "ProductNum": 5,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Watering",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Collection",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Mining",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Cool",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Transport",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CraftSpeed_up1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CraftSpeed_up2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CraftSpeed_up3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_FullStomach_Down_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_FullStomach_Down_2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_FullStomach_Down_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_Sanity_Down_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_Sanity_Down_2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_Sanity_Down_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_MoveSpeed_up_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_MoveSpeed_up_2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_MoveSpeed_up_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRSleekStroke",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRAceSwimmer",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRKingoftheWaves",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_Stamina_Up_2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_Stamina_Up_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_Stamina_Up_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRConceited",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRWorkSlave",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_NonKilling",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_HatchingSpeed_Up",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_Nocturnal",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRVampiric",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRNosferatu",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRMineForeman",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRLoggingForeman",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRMasterForeman",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRFineFurs",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRNoble",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_Deffence_up1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_Deffence_up2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_Deffence_up3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_ALLAttack_up1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_ALLAttack_up2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_ALLAttack_up3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CoolTimeReduction_Up_2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CoolTimeReduction_Up_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRPerfectHarmony",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRVanguard",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRStrongholdStrategist",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRMotivationalLeader",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRMasochist",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRAggressive",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRHooligan",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRSadist",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_Noukin",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRBerserker",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                }
+            ]
+        },
+        "Arena_Shop_1": {
+            "productDataArray": [
+                {
+                    "StaticItemId": "Blueprint_Musket_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 15,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_HandGun_Default_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_CompoundBow_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 45,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_Launcher_Meteor_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 60,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_PumpActionShotgun_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 75,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_LaserGatlingGun_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 90,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_EnergyShotgun_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 105,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_ChargeLaserRifle_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 105,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Blueprint_OverheatRifle_5",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 105,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Otomo_Attack_up3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 50,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Otomo_Defense_up3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 50,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Otomo_PalExp_Increase_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 50,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Otomo_ElementBoost_Normal_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 25,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Otomo_ElementBoost_Fire_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 25,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Otomo_ElementBoost_Water_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 25,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Otomo_ElementBoost_Electricity_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 25,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Otomo_ElementBoost_Leaf_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 25,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Otomo_ElementBoost_Ice_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 25,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Otomo_ElementBoost_Earth_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 25,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Otomo_ElementBoost_Dark_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 25,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Otomo_ElementBoost_Dragon_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 25,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalGenderReverse",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "AffectionFruit_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Fruit_hp_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Fruit_attack_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Fruit__defense_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ExpBoost_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 3,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ExpBoost_02",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ExpBoost_03",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 7,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ExpBoost_04",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 9,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Rankup_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 3,
+                    "ProductNum": 5,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Rankup_2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 6,
+                    "ProductNum": 5,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Rankup_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 9,
+                    "ProductNum": 5,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Rankup_4",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 12,
+                    "ProductNum": 5,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Watering",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Collection",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Mining",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Cool",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Transport",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_HolyBlast",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_SelfDestruct",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_DarkLegion",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_Apocalypse",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_DragonMeteor",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_ChargeCanon",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_IceAge",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_IciclePierce",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_FireBall",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_FlameFunnel",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_RipTide",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_HydroSlicer",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_ThunderStorm",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_RangeThunder",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_RockBeat",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_SandTwister",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_CrossWind",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "SkillCard_ReflectiveShuriken",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CraftSpeed_up1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CraftSpeed_up2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CraftSpeed_up3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_FullStomach_Down_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_FullStomach_Down_2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_FullStomach_Down_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_Sanity_Down_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_Sanity_Down_2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_Sanity_Down_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_MoveSpeed_up_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_MoveSpeed_up_2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_MoveSpeed_up_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRSleekStroke",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRAceSwimmer",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRKingoftheWaves",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_Stamina_Up_2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_Stamina_Up_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_Stamina_Up_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRConceited",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRWorkSlave",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_NonKilling",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_HatchingSpeed_Up",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_Nocturnal",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRVampiric",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRNosferatu",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRMineForeman",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRLoggingForeman",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRMasterForeman",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRFineFurs",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRNoble",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_Deffence_up1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_Deffence_up2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_Deffence_up3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_ALLAttack_up1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_ALLAttack_up2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_PAL_ALLAttack_up3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CoolTimeReduction_Up_2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CoolTimeReduction_Up_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRPerfectHarmony",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRVanguard",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRStrongholdStrategist",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRMotivationalLeader",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRMasochist",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRAggressive",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRHooligan",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRSadist",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 10,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_Noukin",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRBerserker",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                }
+            ]
+        },
+        "Medal_Shop_1": {
+            "productDataArray": [
+                {
+                    "StaticItemId": "Money",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 1,
+                    "ProductNum": 1000,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "AncientParts2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 500,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "UnlockEquipmentSlot_Accessory_01",
+                    "ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+                    "OverridePrice": 500,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "UnlockEquipmentSlot_Accessory_02",
+                    "ProductType": "EPalItemShopProductType::OnlyPurchaseOne",
+                    "OverridePrice": 1000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalSummon_NightLady",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalSummon_NightLady_Dark",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 150,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalSummon_YakushimaBoss002",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 150,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalSummon_KingBahamut_Dragon",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 200,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalSummon_DarkMechaDragon",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 250,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_TalentChecker",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 350,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_HeatColdResist_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 350,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_HP_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 300,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_AT_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 300,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_WorkSpeed_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 300,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_defense_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 300,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "HeadEquip033",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "HeadEquip029",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "HeadEquip027",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "HeadEquip030",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "HeadEquip024",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "HeadEquip023",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Elixir_hp_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 200,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Elixir_stamina_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 200,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Elixir_attack_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 200,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Elixir_workspeed_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 200,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Elixir_weight_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 200,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalGenderReverse",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 150,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "AffectionFruit_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 150,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Fruit_hp_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Fruit_attack_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Fruit__defense_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ExpBoost_01",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 60,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ExpBoost_02",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ExpBoost_03",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 140,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ExpBoost_04",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 180,
+                    "ProductNum": 10,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Rankup_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 60,
+                    "ProductNum": 5,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Rankup_2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 120,
+                    "ProductNum": 5,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Rankup_3",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 180,
+                    "ProductNum": 5,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Rankup_4",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 240,
+                    "ProductNum": 5,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_EmitFlame",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Watering",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Seeding",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_GenerateElectricity",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Handcraft",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Collection",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Deforest",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Mining",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_ProductMedicine",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Cool",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WorkSuitability_AddTicket_Transport",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRLucky",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 2000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRLegend",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 3000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGROtherworldlyCells",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 1000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRCelestialEmperor",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 2000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRFlameEmperor",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 2000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRLordoftheSea",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 2000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRLordofLightning",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 2000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRSpiritEmperor",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 2000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRIceEmperor",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 2000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGREarthEmperor",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 2000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRLordoftheUnderworld",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 2000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRDivineDragon",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 2000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRSirenoftheVoid",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 3000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGREternalFlame",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 3000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRInvader",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 3000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalPassiveSkillChange_CGRLunker",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 3000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                }
+            ]
+        },
+        // Wander Shops
+        "Wander_Shop_1": {
+            "productDataArray": [
+                {
+                    "StaticItemId": "Stone",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Wood",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 5,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "CopperOre",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 20,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Coal",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Sulfur",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 30,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Quartz",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 50,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Herbs",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Medicines",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "LuxuryMedicines",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "MindControlDrug",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Poppy",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 50,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Mushroom",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 50,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "CaveMushroom",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 50,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PoisonMushroom",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 50,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalItem_PlantSlime",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalItem_PinkRabbit",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalItem_MopBaby",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalItem_RaijinDaughter",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalItem_NegativeOctopus",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalItem_LizardMan",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalItem_CatMage",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalItem_CaptainPenguin",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalItem_ColorfulBird",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Sweet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Meat_Deer",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Meat_Boar",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Meat_CowPal",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Meat_Eagle",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Meat_IceDeer",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Meat_BerryGoat",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Meat_Kelpie",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Meat_LazyCatfish",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Meat_GrassMammoth",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Meat_SakuraSaurus",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Meat_OctopusGirl",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Meat_JellyfishFairy",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Meat_JellyfishGhost",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Meat_IceCrocodile",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 100,
+                    "ProductNum": 1,
+                    "Stock": 0
+                }
+            ]
+        },
+        "Caravan_Shop_1": {
+            "productDataArray": [
+                {
+                    "StaticItemId": "PalCrystal_Ex",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 250,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "AncientParts2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 250000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Homeward",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 1500,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Arrow",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Arrow_Poison",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Arrow_Fire",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ReinforcedArrow",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "RoughBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalSphere",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalSphere_Mega",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalFluid",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Venom",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "FireOrgan",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "BerrySeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "WheatSeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Egg",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Milk",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Berries",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Wheat",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Wool",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Leather",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Bone",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Horn",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Herbs",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Medicines",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "LuxuryMedicines",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "MindControlDrug",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                }
+            ]
+        },
+        "Caravan_Shop_2": {
+            "productDataArray": [
+                {
+                    "StaticItemId": "PalCrystal_Ex",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 250,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "AncientParts2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 250000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Homeward",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 1500,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "HandgunBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "RifleBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ShotgunBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "AssaultRifleBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalSphere_Giga",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalSphere_Tera",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalOil",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ElectricOrgan",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "IceOrgan",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "TomatoSeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "LettuceSeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PotatoSeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "CarrotSeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "OnionSeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Tomato",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Lettuce",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Cloth",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_HeatResist_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_CoolResist_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Herbs",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Medicines",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "LuxuryMedicines",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "MindControlDrug",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                }
+            ]
+        },
+        "Caravan_Shop_3": {
+            "productDataArray": [
+                {
+                    "StaticItemId": "PalCrystal_Ex",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 250,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "AncientParts2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 250000,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Homeward",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 1500,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "ExplosiveBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "LaserBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "FlamethrowerBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "GrenadeBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "GatlingBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "MissileBullet",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalSphere_Master",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PalSphere_Legend",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "PotatoSeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "CarrotSeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "OnionSeeds",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Cloth2",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Poppy",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Herbs",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Medicines",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "LuxuryMedicines",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "MindControlDrug",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_NormalResist_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_FireResist_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_AquaResist_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_ThunderResist_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_LeafResist_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_IceResist_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_EarthResist_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_DarkResist_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                },
+                {
+                    "StaticItemId": "Accessory_DragonResist_1",
+                    "ProductType": "EPalItemShopProductType::Normal",
+                    "OverridePrice": 0,
+                    "ProductNum": 1,
+                    "Stock": 0
+                }
+            ]
+        }
+    }
+}
