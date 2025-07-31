@@ -1,7 +1,6 @@
-/*
 {
 
-*//*Storage slots*//*
+/*Storage slots*/
 "BP_BuildObject_ItemChest_C":{"PalMapObjectItemChestParameter":{"SlotNum":18}},
 "BP_BuildObject_ItemChest_02_C":{"PalMapObjectItemChestParameter":{"SlotNum":36}},
 "BP_BuildObject_ItemChest_03_C":{"PalMapObjectItemChestParameter":{"SlotNum":54}},
@@ -34,4 +33,3 @@
 "BP_BuildObject_Shelf07_Stone_C":{"PalMapObjectItemChestParameter":{"SlotNum":6}},
 "BP_BuildObject_PalMedicineBox_C":{"MedicineBoxParameter":{"SlotNum":24}}
 }
-*/
