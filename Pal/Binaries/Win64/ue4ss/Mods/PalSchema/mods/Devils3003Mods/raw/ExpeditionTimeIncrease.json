@@ -1,0 +1,48 @@
+{
+    "DT_CharacterTeamMissionDataTable":{
+        
+        "Dungeon_Grass": {
+            "RequiredSeconds": 3600
+        },
+        "Dungeon_Forest": {
+            "RequiredSeconds": 3600
+        },
+         "Dungeon_Volcano": {
+            "RequiredSeconds": 5400
+         },
+         "Dungeon_Desert": {
+            "RequiredSeconds": 5400
+         },
+         "Dungeon_Snow": {
+            "RequiredSeconds": 7200
+         },
+         "Dungeon_Sakurajima": {
+            "RequiredSeconds": 7200
+         },
+         "Dungeon_DarkIsland": {
+            "RequiredSeconds": 7200
+         },
+         "Dungeon_GrassHard": {
+            "RequiredSeconds": 7200
+         },
+         "Dungeon_ForestHard": {
+            "RequiredSeconds": 7200
+         },
+         "Dungeon_VolcanoHard": {
+            "RequiredSeconds": 7200
+         },
+         "Dungeon_DesertHard": {
+            "RequiredSeconds": 7200
+         },
+         "Dungeon_SnowHard": {
+            "RequiredSeconds": 7200
+         },
+         "Dungeon_SakurajimaHard": {
+            "RequiredSeconds": 7200
+         },
+         "Dungeon_DarkIslandHard": {
+            "RequiredSeconds": 7200
+         }    
+    
+    }
+}

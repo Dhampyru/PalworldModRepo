@@ -1,0 +1,105 @@
+/*
+"TargetWorkSuitability" : Which work suitability the object boosts. Valid inputs are:
+	"Collection"
+	"Cool"
+	"Deforest"
+	"EmitFlame"
+	"GenerateElectricity"
+	"Handcraft"
+	"Mining"
+	"ProductMedicine"
+	"Seeding"
+	"Watering"
+	
+	These should be "valid" too, but they don't do anything:
+	"OilExtraction"
+	"MonsterFarm"
+	"Transport"
+
+"WorkSpeedAdditionalRate" : I'm sure you got this one
+
+"AffectMaxNum" : How many times you can stack the boost.
+For a boost of 20: If you set this to 2 you can recieve a boost from 2 structures for a maximum boost of 40, 3 lets you have 3 boosts for 60, ect.
+*/
+{
+	"BP_BuildObject_Cauldron_C": {			/*Witch Cauldron*/
+		"BaseCampPassiveEffectWorkSpeedParameter":{
+			"TargetWorkSuitability": "ProductMedicine",		//Default "ProductMedicine"
+			"WorkSpeedAdditionalRate": 10,					//Default 20
+			"AffectMaxNum": 4								//Default 1
+		}
+	},
+	"BP_BuildObject_FlowerBed_C": {			/*Flower Bed*/
+		"BaseCampPassiveEffectWorkSpeedParameter":{
+			"TargetWorkSuitability": "Collection",			//Default "Collection"
+			"WorkSpeedAdditionalRate": 10,					//Default 20
+			"AffectMaxNum": 4								//Default 1
+		}
+	},
+	"BP_BuildObject_Fountain_C": {			/*Water Fountain*/
+		"BaseCampPassiveEffectWorkSpeedParameter":{
+			"TargetWorkSuitability": "Watering",			//Default "Watering"
+			"WorkSpeedAdditionalRate": 10,					//Default 20
+			"AffectMaxNum": 4								//Default 1
+		}
+	},
+	"BP_BuildObject_MiningTool_C": {		/*Pickaxe and Helmet*/
+		"BaseCampPassiveEffectWorkSpeedParameter":{
+			"TargetWorkSuitability": "Mining",				//Default "Mining"
+			"WorkSpeedAdditionalRate": 10,					//Default 20
+			"AffectMaxNum": 4								//Default 1
+		}
+	},
+	"BP_BuildObject_OlympicCauldron_C": {	/*Flame Cauldron*/
+		"BaseCampPassiveEffectWorkSpeedParameter":{
+			"TargetWorkSuitability": "EmitFlame",			//Default "EmitFlame"
+			"WorkSpeedAdditionalRate": 10,					//Default 20
+			"AffectMaxNum": 4								//Default 1
+		}
+	},
+	"BP_BuildObject_Silo_C": {				/*Silo*/
+		"BaseCampPassiveEffectWorkSpeedParameter":{
+			"TargetWorkSuitability": "Seeding",				//Default "Seeding"
+			"WorkSpeedAdditionalRate": 10,					//Default 20
+			"AffectMaxNum": 4								//Default 1
+		}
+	},
+	"BP_BuildObject_Snowman_C": {			/*Snowman*/
+		"BaseCampPassiveEffectWorkSpeedParameter":{
+			"TargetWorkSuitability": "Cool",				//Default "Cool"
+			"WorkSpeedAdditionalRate": 20,					//Default 20
+			"AffectMaxNum": 4								//Default 1
+		}
+	},
+	"BP_BuildObject_Stump_C": {				/*Stump and Axe*/
+		"BaseCampPassiveEffectWorkSpeedParameter":{
+			"TargetWorkSuitability": "Deforest",			//Default "Deforest"
+			"WorkSpeedAdditionalRate": 20,					//Default 20
+			"AffectMaxNum": 4								//Default 1
+		}
+	},
+	"BP_BuildObject_ToolBoxV1_C": {			/*Large Tool Box*/
+		"BaseCampPassiveEffectWorkSpeedParameter":{
+			"TargetWorkSuitability": "Handcraft",			//Default "Handcraft"
+			"WorkSpeedAdditionalRate": 20,					//Default 20
+			"AffectMaxNum": 4								//Default 1
+		}
+	},
+	"BP_BuildObject_TransmisionTower_C": {	/*Electric Pylon*/
+		"BaseCampPassiveEffectWorkSpeedParameter":{
+			"TargetWorkSuitability": "GenerateElectricity",	//Default "GenerateElectricity"
+			"WorkSpeedAdditionalRate": 10,					//Default 20
+			"AffectMaxNum": 4								//Default 1
+		}
+	},
+	"BP_BuildObject_SanityDecrease1_C": {	/*Alpha Wave Generator*/
+		"PalMapObjectBaseCampPassiveEffectSanityParameter" : {
+			"SanityDecreaseSuppressRate": 10				//Default 10
+		}
+	},
+	"BP_BuildObject_WorkSpeedIncrease1_C": {/*Beta Wave Generator*/
+		"PalMapObjectBaseCampPassiveEffectAllWorkSpeedParameter" : {
+			"WorkSpeedAdditionalRate": 20					//Default 10
+		}
+	}				//Unfortunately I cannot change the maximum number allowed for the wave generators. It's just how they are :(
+}

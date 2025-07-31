@@ -1,0 +1,169 @@
+{
+	"DT_OperatingTablePassiveSkillDataTable": {
+		"PAL_CorporateSlave": {	
+			"PassiveSkill": "PAL_CorporateSlave",
+			"Price": 75000,
+			"RequireItemId": "PalPassiveSkillChange_PAL_CorporateSlave"
+		},
+		"SwimSpeed_up_1": {	
+			"PassiveSkill": "SwimSpeed_up_1",
+			"Price": 75000,
+			"RequireItemId": "PalPassiveSkillChange_SwimSpeed_up_1"
+		},
+		"SwimSpeed_up_2": {	
+			"PassiveSkill": "SwimSpeed_up_2",
+			"Price": 75000,
+			"RequireItemId": "PalPassiveSkillChange_SwimSpeed_up_2"
+		},
+		"SwimSpeed_up_3": {	
+			"PassiveSkill": "SwimSpeed_up_3",
+			"Price": 300000,
+			"RequireItemId": "PalPassiveSkillChange_SwimSpeed_up_3"
+		},
+                        "MoveSpeed_up_3": {
+                        "PassiveSkill": "MoveSpeed_up_3",
+                        "Price": 300000,
+                        "RequireItemId": "PalPassiveSkillChange_MoveSpeed_up_3"
+                },
+                        "PAL_Sanity_Down_3": {
+                        "PassiveSkill": "PAL_Sanity_Down_3",
+                        "Price": 300000,
+                        "RequireItemId": "PalPassiveSkillChange_PAL_Sanity_Down_3"
+                },
+		"Alien": {	
+			"PassiveSkill": "Alien",
+			"Price": 75000,
+			"RequireItemId": "PalPassiveSkillChange_Alien"
+		},
+		"TrainerATK_UP_1": {	
+			"PassiveSkill": "TrainerATK_UP_1",
+			"Price": 75000,
+			"RequireItemId": "PalPassiveSkillChange_TrainerATK_UP_1"
+		},
+		"TrainerDEF_UP_1": {	
+			"PassiveSkill": "TrainerDEF_UP_1",
+			"Price": 75000,
+			"RequireItemId": "PalPassiveSkillChange_TrainerDEF_UP_1"
+		},
+		"TrainerWorkSpeed_UP_1": {	
+			"PassiveSkill": "TrainerWorkSpeed_UP_1",
+			"Price": 75000,
+			"RequireItemId": "PalPassiveSkillChange_TrainerWorkSpeed_UP_1"
+		},
+		"ElementBoost_Aqua_2_PAL": {	
+			"PassiveSkill": "ElementBoost_Aqua_2_PAL",
+			"Price": 150000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Aqua_2_PAL"
+		},
+		"ElementBoost_Dark_2_PAL": {	
+			"PassiveSkill": "ElementBoost_Dark_2_PAL",
+			"Price": 150000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Dark_2_PAL"
+		},
+		"ElementBoost_Dragon_2_PAL": {	
+			"PassiveSkill": "ElementBoost_Dragon_2_PAL",
+			"Price": 150000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Dragon_2_PAL"
+		},
+		"ElementBoost_Earth_2_PAL": {	
+			"PassiveSkill": "ElementBoost_Earth_2_PAL",
+			"Price": 150000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Earth_2_PAL"
+		},
+		"ElementBoost_Fire_2_PAL": {	
+			"PassiveSkill": "ElementBoost_Fire_2_PAL",
+			"Price": 150000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Fire_2_PAL"
+		},
+		"ElementBoost_Ice_2_PAL": {	
+			"PassiveSkill": "ElementBoost_Ice_2_PAL",
+			"Price": 150000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Ice_2_PAL"
+		},
+		"ElementBoost_Leaf_2_PAL": {	
+			"PassiveSkill": "ElementBoost_Leaf_2_PAL",
+			"Price": 150000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Leaf_2_PAL"
+		},
+		"ElementBoost_Normal_2_PAL": {	
+			"PassiveSkill": "ElementBoost_Normal_2_PAL",
+			"Price": 150000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Normal_2_PAL"
+		},
+		"ElementBoost_Thunder_2_PAL": {	
+			"PassiveSkill": "ElementBoost_Thunder_2_PAL",
+			"Price": 150000,
+			"RequireItemId": "PalPassiveSkillChange_ElementBoost_Thunder_2_PAL"
+		},
+		"PAL_ALLAttack_up3": {	
+			"PassiveSkill": "PAL_ALLAttack_up3",
+			"Price": 600000,
+			"RequireItemId": "PalPassiveSkillChange_PAL_ALLAttack_up3"
+		},
+		"Deffence_up3": {	
+			"PassiveSkill": "Deffence_up3",
+			"Price": 500000,
+			"RequireItemId": "PalPassiveSkillChange_Deffence_up3"
+		},
+		"CraftSpeed_up3": {	
+			"PassiveSkill": "CraftSpeed_up3",
+			"Price": 500000,
+			"RequireItemId": "PalPassiveSkillChange_CraftSpeed_up3"
+		},
+		"Stamina_Up_3": {	
+			"PassiveSkill": "Stamina_Up_3",
+			"Price": 100000,
+			"RequireItemId": "PalPassiveSkillChange_Stamina_Up_3"
+		},
+		"MoveSpeed_up_1": {	
+			"PassiveSkill": "MoveSpeed_up_1",
+			"Price": 50000,
+			"RequireItemId": "PalPassiveSkillChange_MoveSpeed_up_1"
+		},
+		"MoveSpeed_up_3": {	
+			"PassiveSkill": "MoveSpeed_up_3",
+			"Price": 500000,
+			"RequireItemId": "PalPassiveSkillChange_MoveSpeed_up_3"
+		},
+		"Vampire": {	
+			"PassiveSkill": "Vampire",
+			"Price": 500000,
+			"RequireItemId": "PalPassiveSkillChange_Vampire"
+		},
+		"Rare": {	
+			"PassiveSkill": "Rare",
+			"Price": 500000,
+			"RequireItemId": "PalPassiveSkillChange_Rare"
+		},
+		"Legend": {	
+			"PassiveSkill": "Legend",
+			"Price": 500000,
+			"RequireItemId": "PalPassiveSkillChange_Legend"
+		},
+		"EternalFlame": {	
+			"PassiveSkill": "EternalFlame",
+			"Price": 500000,
+			"RequireItemId": "PalPassiveSkillChange_EternalFlame"
+                },
+		"Nushi": {	
+			"PassiveSkill": "Heart_of_the_Immovable_King",
+			"Price": 500000,
+			"RequireItemId": "PalPassiveSkillChange_PAL_Sanity_Down_3"
+		},
+		"Invader": {	
+			"PassiveSkill": "Invader",
+			"Price": 500000,
+			"RequireItemId": "PalPassiveSkillChange_Invader"
+		},
+		"Nushi": {	
+			"PassiveSkill": "Nushi",
+			"Price": 500000,
+			"RequireItemId": "PalPassiveSkillChange_Nushi"
+		},
+		"Witch": {	
+			"PassiveSkill": "Witch",
+			"Price": 500000,
+			"RequireItemId": "PalPassiveSkillChange_Witch"
+		}
+	}
+}
