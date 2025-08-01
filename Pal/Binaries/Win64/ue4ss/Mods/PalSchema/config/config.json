@@ -1,4 +1,5 @@
 {
     "languageOverride": "",
-    "enableAutoReload": false
+    "enableAutoReload": false,
+    "enableDebugLogging": false
 }
