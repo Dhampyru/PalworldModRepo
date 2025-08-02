@@ -13,7 +13,7 @@ local palConfig = {
     palRedColorWrapperBack = "\27[0m\n",
 
     -- Raid probability, default is 0.8
-	InvadeProbability = 0.8,
+	InvadeProbability = 1.0,
 	
 	-- Raids start from thos player's level, default is 5
 	InvadeOccurablePlayerLevel = 2,
